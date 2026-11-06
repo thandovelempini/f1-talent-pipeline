@@ -134,8 +134,8 @@ SELECT
         WHEN 'Pending' THEN 6
         ELSE 7
     END AS outcome_order,
-    outcome IN ('Star', 'Established', 'Reached, didn''t stick', 'Didn''t reach F1') AS in_model1,
-    outcome IN ('Star', 'Established', 'Reached, didn''t stick') AS model1_reached_f1,
+    outcome IN ('Star', 'Established', 'Reached, didn''t stick', 'Too early to tell', 'Didn''t reach F1') AS in_model1,
+    outcome IN ('Star', 'Established', 'Reached, didn''t stick', 'Too early to tell') AS model1_reached_f1,
     outcome IN ('Star', 'Established', 'Reached, didn''t stick') AS in_model2,
     outcome IN ('Star', 'Established') AS model2_succeeded
 FROM classified;

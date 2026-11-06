@@ -1,0 +1,14 @@
+# Data: rebuilt by the pipeline, not tracked
+data/
+
+# Python environments and caches
+.venv/
+__pycache__/
+*.pyc
+
+# Mac and editor files
+.DS_Store
+.vscode/
+
+# Secrets
+.env

@@ -4,6 +4,8 @@ Part 1 - Build the dataset.
 Collects GP2/F2 standings and entries (Wikipedia), F1 standings (Jolpica) and
 dates of birth (Wikidata), loads them into PostgreSQL and runs part1_build.sql.
 
+export PGPASSWORD="..."
+
 """
 
 import argparse
