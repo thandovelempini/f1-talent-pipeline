@@ -4,7 +4,6 @@ Part 2 - Define "making it".
 Downloads race-by-race F1 results (Jolpica), loads them into PostgreSQL and runs
 part2_outcomes.sql to classify every junior driver into an outcome tier.
 
-Usage: python3 src/run_part2.py [--refresh]   (run Part 1 first)
 """
 
 import argparse

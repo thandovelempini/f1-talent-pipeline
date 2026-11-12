@@ -1,0 +1,29 @@
+question,prediction_point,drivers,positives,features,auc,oob_ci_low,oob_ci_high,failed_replicates,delta,delta_ci_low,delta_ci_high,helps
+RQ1 progression,end of season 1,206,45,performance,0.724,0.589,0.858,0,,,,
+RQ1 progression,end of season 1,206,45,+ age,0.784,0.667,0.882,0,0.05,-0.059,0.122,not clearly
+RQ1 progression,end of season 1,206,45,+ team strength,0.773,0.664,0.898,0,0.053,-0.042,0.152,not clearly
+RQ1 progression,end of season 1,206,45,+ age + team strength,0.832,0.744,0.911,0,0.101,-0.018,0.207,not clearly
+RQ1 progression,end of season 1,206,45,team strength only,0.736,0.638,0.85,0,0.021,-0.114,0.179,not clearly
+RQ1 progression,end of season 2,138,37,performance,0.724,0.607,0.866,0,,,,
+RQ1 progression,end of season 2,138,37,+ age,0.732,0.602,0.858,0,-0.008,-0.13,0.05,not clearly
+RQ1 progression,end of season 2,138,37,+ team strength,0.776,0.666,0.904,0,0.045,-0.056,0.124,not clearly
+RQ1 progression,end of season 2,138,37,+ age + team strength,0.777,0.67,0.895,0,0.039,-0.074,0.128,not clearly
+RQ1 progression,end of season 2,138,37,team strength only,0.743,0.618,0.884,0,0.019,-0.123,0.173,not clearly
+RQ1 progression,end of season 2,138,37,+ age + trajectory,0.724,0.59,0.852,0,-0.025,-0.174,0.048,not clearly
+RQ1 progression,end of season 3,87,20,performance,0.598,0.313,0.815,0,,,,
+RQ1 progression,end of season 3,87,20,+ age,0.561,0.325,0.772,0,-0.031,-0.26,0.113,not clearly
+RQ1 progression,end of season 3,87,20,+ team strength,0.698,0.479,0.915,0,0.109,-0.091,0.356,not clearly
+RQ1 progression,end of season 3,87,20,+ age + team strength,0.684,0.467,0.886,0,0.087,-0.137,0.339,not clearly
+RQ1 progression,end of season 3,87,20,team strength only,0.696,0.525,0.909,0,0.13,-0.103,0.458,not clearly
+RQ1 progression,end of season 3,87,20,+ age + trajectory,0.547,0.315,0.732,0,-0.043,-0.284,0.137,not clearly
+RQ2 establishment,end of season 1,39,19,performance,0.513,0.17,0.778,0,,,,
+RQ2 establishment,end of season 1,39,19,+ age,0.682,0.364,0.918,0,0.176,-0.171,0.514,not clearly
+RQ2 establishment,end of season 1,39,19,+ team strength,0.537,0.2,0.785,0,0.029,-0.237,0.291,not clearly
+RQ2 establishment,end of season 1,39,19,+ age + team strength,0.713,0.433,0.931,0,0.202,-0.147,0.547,not clearly
+RQ2 establishment,end of season 1,39,19,team strength only,0.587,0.143,0.842,0,0.082,-0.375,0.507,not clearly
+RQ2 establishment,end of season 2,33,13,performance,0.519,0.107,0.855,1,,,,
+RQ2 establishment,end of season 2,33,13,+ age,0.592,0.286,0.917,1,0.11,-0.234,0.468,not clearly
+RQ2 establishment,end of season 2,33,13,+ team strength,0.558,0.143,0.844,1,0.018,-0.286,0.333,not clearly
+RQ2 establishment,end of season 2,33,13,+ age + team strength,0.654,0.283,0.951,1,0.134,-0.222,0.513,not clearly
+RQ2 establishment,end of season 2,33,13,team strength only,0.485,0.154,0.819,1,-0.029,-0.489,0.456,not clearly
+RQ2 establishment,end of season 2,33,13,+ age + trajectory,0.565,0.25,0.857,1,0.061,-0.342,0.4,not clearly

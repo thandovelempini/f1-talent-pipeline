@@ -1,0 +1,507 @@
+driver_key,driver_name,season,k,team,age,outcome,season_in_progress,probability,prob_low,prob_high,kind,reached_f1
+Adam Carroll (racing driver),Adam Carroll,2007,3,Petrol Ofisi FMS International,24.2,Didn't reach F1,False,0.163,,,historical (out-of-fold),False
+Adrian Quaife-Hobbs,Adrian Quaife-Hobbs,2013,1,MP Motorsport,21.9,Didn't reach F1,False,0.169,,,historical (out-of-fold),False
+Adrian Quaife-Hobbs,Adrian Quaife-Hobbs,2014,2,Rapax,22.9,Didn't reach F1,False,0.127,,,historical (out-of-fold),False
+Adrian Zaugg,Adrian Zaugg,2007,1,Arden International,20.2,Didn't reach F1,False,0.24,,,historical (out-of-fold),False
+Adrian Zaugg,Adrian Zaugg,2010,2,Trident Racing,23.2,Didn't reach F1,False,0.068,,,historical (out-of-fold),False
+Adrián Vallés,Adrián Vallés,2008,2,BCN Competición,21.6,Didn't reach F1,False,0.076,,,historical (out-of-fold),False
+Alberto Valerio,Alberto Valério,2008,1,Durango,22.3,Didn't reach F1,False,0.046,,,historical (out-of-fold),False
+Alberto Valerio,Alberto Valério,2009,2,Piquet GP,23.3,Didn't reach F1,False,0.144,,,historical (out-of-fold),False
+Alberto Valerio,Alberto Valério,2010,3,Scuderia Coloni,24.3,Didn't reach F1,False,0.07,,,historical (out-of-fold),False
+Alessio Deledda,Alessio Deledda,2021,1,HWA Racelab,26.1,Didn't reach F1,False,0.006,,,historical (out-of-fold),False
+Alessio Lorandi,Alessio Lorandi,2018,1,Trident,19.3,Didn't reach F1,False,0.1,,,historical (out-of-fold),False
+Alex Dunne,Alex Dunne,2025,1,Rodin Motorsport,19.1,Pending,False,0.823,0.675,0.936,model estimate,
+Alex Dunne,Alex Dunne,2026,2,Rodin Motorsport,20.1,Pending,True,0.631,0.509,0.761,current,
+Alex Lynn,Alex Lynn,2015,1,DAMS,21.3,Didn't reach F1,False,0.572,,,historical (out-of-fold),False
+Alex Lynn,Alex Lynn,2016,2,DAMS,22.3,Didn't reach F1,False,0.397,,,historical (out-of-fold),False
+Alex Albon,Alexander Albon,2017,1,ART Grand Prix,20.8,Established,False,0.348,,,historical (out-of-fold),True
+Alex Albon,Alexander Albon,2018,2,DAMS,21.8,Established,False,0.539,,,historical (out-of-fold),True
+Alexander Rossi,Alexander Rossi,2013,1,Caterham Racing (1–3) EQ8 Caterham Racing (4–11),21.3,"Reached, didn't stick",False,0.403,,,historical (out-of-fold),True
+Alexander Rossi,Alexander Rossi,2014,2,EQ8 Caterham Racing (1–8) Caterham Racing (9–11),22.3,"Reached, didn't stick",False,0.11,,,historical (out-of-fold),True
+Alexander Rossi,Alexander Rossi,2015,3,Racing Engineering,23.3,"Reached, didn't stick",False,0.462,,,historical (out-of-fold),True
+Alexandre Sarnes Negrão,Alexandre Negrão,2007,3,Minardi Piquet Sports,21.2,Didn't reach F1,False,0.093,,,historical (out-of-fold),False
+Amaury Cordeel,Amaury Cordeel,2022,1,Van Amersfoort Racing,19.5,Pending,False,0.149,0.086,0.225,model estimate,
+Amaury Cordeel,Amaury Cordeel,2023,2,Invicta Virtuosi Racing,20.5,Pending,False,0.104,0.035,0.245,model estimate,
+Amaury Cordeel,Amaury Cordeel,2024,3,Hitech Pulse-Eight,21.5,Pending,False,0.264,0.082,0.477,current,
+Kimi Antonelli,Andrea Kimi Antonelli,2024,1,Prema Racing,17.4,Star,False,0.84,,,historical (out-of-fold),True
+Andreas Zuber,Andreas Zuber,2007,2,iSport International,23.2,Didn't reach F1,False,0.363,,,historical (out-of-fold),False
+Andreas Zuber,Andreas Zuber,2008,3,Piquet Sports,24.2,Didn't reach F1,False,0.288,,,historical (out-of-fold),False
+André Negrão,André Negrão,2014,1,Arden International,21.5,Didn't reach F1,False,0.141,,,historical (out-of-fold),False
+André Negrão,André Negrão,2015,2,Arden International,22.5,Didn't reach F1,False,0.074,,,historical (out-of-fold),False
+Andy Soucek,Andy Soucek,2007,1,DPR,21.5,Didn't reach F1,False,0.122,,,historical (out-of-fold),False
+Andy Soucek,Andy Soucek,2008,2,Super Nova Racing,22.5,Didn't reach F1,False,0.152,,,historical (out-of-fold),False
+Anthoine Hubert,Anthoine Hubert,2019,1,BWT Arden,22.3,Excluded: career cut short,False,0.203,0.129,0.302,model estimate,
+Antonio Fuoco,Antonio Fuoco,2017,1,Prema Racing,20.6,Didn't reach F1,False,0.312,,,historical (out-of-fold),False
+Antonio Fuoco,Antonio Fuoco,2018,2,Charouz Racing System,21.6,Didn't reach F1,False,0.283,,,historical (out-of-fold),False
+Antonio Giovinazzi,Antonio Giovinazzi,2016,1,Prema Racing,22.0,Established,False,0.642,,,historical (out-of-fold),True
+Arjun Maini,Arjun Maini,2018,1,Trident,20.1,Didn't reach F1,False,0.108,,,historical (out-of-fold),False
+Arjun Maini,Arjun Maini,2019,2,Campos Racing,21.1,Didn't reach F1,False,0.088,,,historical (out-of-fold),False
+Artem Markelov,Artem Markelov,2014,1,RT Russian Time,19.3,Didn't reach F1,False,0.21,,,historical (out-of-fold),False
+Artem Markelov,Artem Markelov,2015,2,Russian Time,20.3,Didn't reach F1,False,0.279,,,historical (out-of-fold),False
+Artem Markelov,Artem Markelov,2016,3,Russian Time,21.3,Didn't reach F1,False,0.316,,,historical (out-of-fold),False
+Arthur Leclerc,Arthur Leclerc,2023,1,DAMS,22.2,Didn't reach F1,False,0.104,,,historical (out-of-fold),False
+Arthur Pic,Arthur Pic,2014,1,Campos Racing,22.2,Didn't reach F1,False,0.484,,,historical (out-of-fold),False
+Arthur Pic,Arthur Pic,2015,2,Campos Racing,23.2,Didn't reach F1,False,0.228,,,historical (out-of-fold),False
+Arthur Pic,Arthur Pic,2016,3,Rapax,24.2,Didn't reach F1,False,0.068,,,historical (out-of-fold),False
+Arvid Lindblad,Arvid Lindblad,2025,1,Campos Racing,17.4,Too early to tell,False,0.877,,,historical (out-of-fold),True
+Axcil Jefferies,Axcil Jefferies,2014,1,Trident,19.7,Didn't reach F1,False,0.117,,,historical (out-of-fold),False
+Ayumu Iwasa,Ayumu Iwasa,2022,1,DAMS,20.3,Didn't reach F1,False,0.702,,,historical (out-of-fold),False
+Ayumu Iwasa,Ayumu Iwasa,2023,2,DAMS,21.3,Didn't reach F1,False,0.58,,,historical (out-of-fold),False
+Ben Hanley,Ben Hanley,2008,1,Barwa International Campos Team,22.9,Didn't reach F1,False,0.038,,,historical (out-of-fold),False
+Bent Viscaal,Bent Viscaal,2021,1,Trident,21.3,Didn't reach F1,False,0.161,,,historical (out-of-fold),False
+Borja García (racing driver),Borja García,2007,2,Durango,24.0,Didn't reach F1,False,0.196,,,historical (out-of-fold),False
+Brad Benavides,Brad Benavides,2023,1,PHM Racing by Charouz (1–12) PHM Racing (13),21.5,Didn't reach F1,False,0.047,,,historical (out-of-fold),False
+Brendon Hartley,Brendon Hartley,2010,1,Scuderia Coloni,20.1,"Reached, didn't stick",False,0.092,,,historical (out-of-fold),True
+Brendon Hartley,Brendon Hartley,2011,2,Ocean Racing Technology,21.1,"Reached, didn't stick",False,0.073,,,historical (out-of-fold),True
+Brendon Hartley,Brendon Hartley,2012,3,Ocean Racing Technology,22.1,"Reached, didn't stick",False,0.046,,,historical (out-of-fold),True
+Bruno Senna,Bruno Senna,2007,1,Arden International,23.2,"Reached, didn't stick",False,0.23,,,historical (out-of-fold),True
+Bruno Senna,Bruno Senna,2008,2,iSport International,24.2,"Reached, didn't stick",False,0.508,,,historical (out-of-fold),True
+Calan Williams,Calan Williams,2022,1,Trident,21.5,Didn't reach F1,False,0.038,,,historical (out-of-fold),False
+Callum Ilott,Callum Ilott,2017,1,Trident,18.1,Didn't reach F1,False,0.192,,,historical (out-of-fold),False
+Callum Ilott,Callum Ilott,2019,2,Sauber Junior Team by Charouz,20.1,Didn't reach F1,False,0.27,,,historical (out-of-fold),False
+Callum Ilott,Callum Ilott,2020,3,UNI-Virtuosi Racing,21.1,Didn't reach F1,False,0.468,,,historical (out-of-fold),False
+Carlos Iaconelli,Carlos Iaconelli,2008,1,BCN Competición,20.5,Didn't reach F1,False,0.086,,,historical (out-of-fold),False
+Cem Bölükbaşı,Cem Bölükbaşı,2022,1,Charouz Racing System,23.9,Didn't reach F1,False,0.016,,,historical (out-of-fold),False
+Charles Leclerc,Charles Leclerc,2017,1,Prema Racing,19.2,Star,False,0.949,,,historical (out-of-fold),True
+Charles Pic,Charles Pic,2010,1,Arden International,19.9,"Reached, didn't stick",False,0.529,,,historical (out-of-fold),True
+Charles Pic,Charles Pic,2011,2,Barwa Addax Team,20.9,"Reached, didn't stick",False,0.586,,,historical (out-of-fold),True
+Christian Bakkerud,Christian Bakkerud,2007,1,DPR,22.2,Didn't reach F1,False,0.03,,,historical (out-of-fold),False
+Christian Bakkerud,Christian Bakkerud,2008,2,Super Nova Racing,23.2,Didn't reach F1,False,0.077,,,historical (out-of-fold),False
+Christian Lundgaard,Christian Lundgaard,2019,1,Trident,17.4,Didn't reach F1,False,0.194,,,historical (out-of-fold),False
+Christian Lundgaard,Christian Lundgaard,2020,2,ART Grand Prix,18.4,Didn't reach F1,False,0.593,,,historical (out-of-fold),False
+Christian Lundgaard,Christian Lundgaard,2021,3,ART Grand Prix,19.4,Didn't reach F1,False,0.226,,,historical (out-of-fold),False
+Christian Mansell,Christian Mansell,2024,1,Trident,18.9,Didn't reach F1,False,0.093,,,historical (out-of-fold),False
+Christian Vietoris,Christian Vietoris,2010,1,Racing Engineering,20.8,Didn't reach F1,False,0.388,,,historical (out-of-fold),False
+Christian Vietoris,Christian Vietoris,2011,2,Racing Engineering,21.8,Didn't reach F1,False,0.337,,,historical (out-of-fold),False
+Cian Shields,Cian Shields,2024,1,PHM AIX Racing (1–3) AIX Racing (4–14),18.8,Pending,False,0.067,0.031,0.113,model estimate,
+Cian Shields,Cian Shields,2025,2,AIX Racing,19.8,Pending,False,0.062,0.015,0.149,model estimate,
+Cian Shields,Cian Shields,2026,3,AIX Racing,20.8,Pending,True,0.061,0.012,0.174,current,
+Clément Novalak,Clément Novalak,2021,1,MP Motorsport,20.0,Didn't reach F1,False,0.157,,,historical (out-of-fold),False
+Clément Novalak,Clément Novalak,2022,2,MP Motorsport,21.0,Didn't reach F1,False,0.276,,,historical (out-of-fold),False
+Clément Novalak,Clément Novalak,2023,3,Trident,22.0,Didn't reach F1,False,0.097,,,historical (out-of-fold),False
+Colton Herta,Colton Herta,2026,1,Hitech,25.8,Pending,True,0.012,0.003,0.028,current,
+Conor Daly,Conor Daly,2013,1,Hilmer Motorsport,21.0,Didn't reach F1,False,0.075,,,historical (out-of-fold),False
+Conor Daly,Conor Daly,2014,2,Venezuela GP Lazarus,22.0,Didn't reach F1,False,0.052,,,historical (out-of-fold),False
+Dan Ticktum,Dan Ticktum,2018,1,BWT Arden,18.6,Didn't reach F1,False,0.124,,,historical (out-of-fold),False
+Dan Ticktum,Dan Ticktum,2020,2,DAMS,20.6,Didn't reach F1,False,0.253,,,historical (out-of-fold),False
+Dan Ticktum,Dan Ticktum,2021,3,Carlin,21.6,Didn't reach F1,False,0.391,,,historical (out-of-fold),False
+Dani Clos,Dani Clos,2009,1,Fat Burner Racing Engineering,20.2,Didn't reach F1,False,0.252,,,historical (out-of-fold),False
+Dani Clos,Dani Clos,2010,2,Racing Engineering,21.2,Didn't reach F1,False,0.489,,,historical (out-of-fold),False
+Dani Clos,Dani Clos,2011,3,Racing Engineering,22.2,Didn't reach F1,False,0.254,,,historical (out-of-fold),False
+Daniel Abt,Daniel Abt,2013,1,ART Grand Prix,20.1,Didn't reach F1,False,0.14,,,historical (out-of-fold),False
+Daniel Abt,Daniel Abt,2014,2,Hilmer Motorsport,21.1,Didn't reach F1,False,0.096,,,historical (out-of-fold),False
+Daniël de Jong,Daniël de Jong,2012,1,Rapax,19.5,Didn't reach F1,False,0.135,,,historical (out-of-fold),False
+Daniël de Jong,Daniël de Jong,2013,2,MP Motorsport,20.5,Didn't reach F1,False,0.085,,,historical (out-of-fold),False
+Daniël de Jong,Daniël de Jong,2014,3,MP Motorsport,21.5,Didn't reach F1,False,0.127,,,historical (out-of-fold),False
+David Beckmann,David Beckmann,2021,1,Charouz Racing System,20.7,Didn't reach F1,False,0.154,,,historical (out-of-fold),False
+David Beckmann,David Beckmann,2022,2,Van Amersfoort Racing,21.7,Didn't reach F1,False,0.073,,,historical (out-of-fold),False
+Davide Rigon,Davide Rigon,2009,1,Trident Racing,22.4,Didn't reach F1,False,0.05,,,historical (out-of-fold),False
+Davide Rigon,Davide Rigon,2011,2,Scuderia Coloni,24.4,Didn't reach F1,False,0.03,,,historical (out-of-fold),False
+Davide Valsecchi,Davide Valsecchi,2008,1,Durango,20.9,Didn't reach F1,False,0.177,,,historical (out-of-fold),False
+Davide Valsecchi,Davide Valsecchi,2009,2,Durango,21.9,Didn't reach F1,False,0.092,,,historical (out-of-fold),False
+Davide Valsecchi,Davide Valsecchi,2010,3,iSport International,22.9,Didn't reach F1,False,0.212,,,historical (out-of-fold),False
+Dean Stoneman,Dean Stoneman,2015,1,Carlin,24.4,Didn't reach F1,False,0.028,,,historical (out-of-fold),False
+Dennis Hauger,Dennis Hauger,2022,1,Prema Racing,18.8,Didn't reach F1,False,0.68,,,historical (out-of-fold),False
+Dennis Hauger,Dennis Hauger,2023,2,MP Motorsport,19.8,Didn't reach F1,False,0.367,,,historical (out-of-fold),False
+Dennis Hauger,Dennis Hauger,2024,3,MP Motorsport,20.8,Didn't reach F1,False,0.286,,,historical (out-of-fold),False
+Diego Nunes (racing driver),Diego Nunes,2008,1,DPR,21.5,Didn't reach F1,False,0.058,,,historical (out-of-fold),False
+Diego Nunes (racing driver),Diego Nunes,2009,2,iSport International,22.5,Didn't reach F1,False,0.168,,,historical (out-of-fold),False
+Dino Beganovic,Dino Beganovic,2024,1,DAMS Lucas Oil,20.0,Pending,False,0.12,0.064,0.186,model estimate,
+Dino Beganovic,Dino Beganovic,2025,2,Hitech TGR,21.0,Pending,False,0.437,0.318,0.587,model estimate,
+Dino Beganovic,Dino Beganovic,2026,3,DAMS Lucas Oil,22.0,Pending,True,0.324,0.17,0.481,current,
+Dorian Boccolacci,Dorian Boccolacci,2018,1,MP Motorsport,19.3,Didn't reach F1,False,0.125,,,historical (out-of-fold),False
+Dorian Boccolacci,Dorian Boccolacci,2019,2,Campos Racing,20.3,Didn't reach F1,False,0.175,,,historical (out-of-fold),False
+Edoardo Mortara,Edoardo Mortara,2009,1,Telmex Arden International,22.0,Didn't reach F1,False,0.192,,,historical (out-of-fold),False
+Edoardo Piscopo,Edoardo Piscopo,2010,1,Trident Racing,21.9,Didn't reach F1,False,0.043,,,historical (out-of-fold),False
+Emerson Fittipaldi Jr.,Emerson Fittipaldi Jr.,2026,1,AIX Racing,18.8,Pending,True,0.18,0.097,0.301,current,
+Emil Bernstorff,Emil Bernstorff,2016,1,Arden International,22.6,Didn't reach F1,False,0.024,,,historical (out-of-fold),False
+Enzo Fittipaldi,Enzo Fittipaldi,2021,1,Charouz Racing System,19.5,Didn't reach F1,False,0.124,,,historical (out-of-fold),False
+Enzo Fittipaldi,Enzo Fittipaldi,2022,2,Charouz Racing System,20.5,Didn't reach F1,False,0.309,,,historical (out-of-fold),False
+Enzo Fittipaldi,Enzo Fittipaldi,2023,3,Rodin Carlin,21.5,Didn't reach F1,False,0.386,,,historical (out-of-fold),False
+E. J. Viso,Ernesto Viso,2007,3,Racing Engineering,21.8,Didn't reach F1,False,0.162,,,historical (out-of-fold),False
+Esteban Gutiérrez,Esteban Gutiérrez,2011,1,Lotus ART,19.4,Established,False,0.384,,,historical (out-of-fold),True
+Esteban Gutiérrez,Esteban Gutiérrez,2012,2,Lotus GP,20.4,Established,False,0.596,,,historical (out-of-fold),True
+Fabio Leimer,Fabio Leimer,2010,1,Ocean Racing Technology,20.7,Didn't reach F1,False,0.102,,,historical (out-of-fold),False
+Fabio Leimer,Fabio Leimer,2011,2,Rapax,21.7,Didn't reach F1,False,0.166,,,historical (out-of-fold),False
+Fabio Leimer,Fabio Leimer,2012,3,Racing Engineering,22.7,Didn't reach F1,False,0.412,,,historical (out-of-fold),False
+Fabio Onidi,Fabio Onidi,2012,1,Scuderia Coloni,23.8,Didn't reach F1,False,0.035,,,historical (out-of-fold),False
+Fabrizio Crestani,Fabrizio Crestani,2010,1,DPR,22.0,Didn't reach F1,False,0.049,,,historical (out-of-fold),False
+Fabrizio Crestani,Fabrizio Crestani,2012,2,Venezuela GP Lazarus,24.0,Didn't reach F1,False,0.04,,,historical (out-of-fold),False
+Fabrizio Crestani,Fabrizio Crestani,2013,3,Venezuela GP Lazarus,25.0,Didn't reach F1,False,0.053,,,historical (out-of-fold),False
+Facu Regalia,Facu Regalia,2014,1,Hilmer Motorsport,22.1,Didn't reach F1,False,0.034,,,historical (out-of-fold),False
+Fairuz Fauzy,Fairuz Fauzy,2011,3,Super Nova Racing,28.2,Didn't reach F1,False,0.173,,,historical (out-of-fold),False
+Federico Leo,Federico Leo,2010,1,Trident Racing,21.3,Didn't reach F1,False,0.041,,,historical (out-of-fold),False
+Felipe Drugovich,Felipe Drugovich,2020,1,MP Motorsport,19.6,Didn't reach F1,False,0.692,,,historical (out-of-fold),False
+Felipe Drugovich,Felipe Drugovich,2021,2,UNI-Virtuosi Racing,20.6,Didn't reach F1,False,0.424,,,historical (out-of-fold),False
+Felipe Drugovich,Felipe Drugovich,2022,3,MP Motorsport,21.6,Didn't reach F1,False,0.737,,,historical (out-of-fold),False
+Felipe Nasr,Felipe Nasr,2012,1,DAMS,19.4,"Reached, didn't stick",False,0.522,,,historical (out-of-fold),True
+Felipe Nasr,Felipe Nasr,2013,2,Carlin,20.4,"Reached, didn't stick",False,0.651,,,historical (out-of-fold),True
+Felipe Nasr,Felipe Nasr,2014,3,Carlin,21.4,"Reached, didn't stick",False,0.516,,,historical (out-of-fold),True
+Filipe Albuquerque,Filipe Albuquerque,2007,1,Arden International,21.6,Didn't reach F1,False,0.071,,,historical (out-of-fold),False
+Franck Perera,Franck Perera,2009,2,DPR,24.8,Didn't reach F1,False,0.027,,,historical (out-of-fold),False
+Franco Colapinto,Franco Colapinto,2023,1,MP Motorsport,19.6,Too early to tell,False,0.047,,,historical (out-of-fold),True
+Franco Colapinto,Franco Colapinto,2024,2,MP Motorsport,20.6,Too early to tell,False,0.371,,,historical (out-of-fold),True
+Frederik Vesti,Frederik Vesti,2022,1,ART Grand Prix,20.0,Didn't reach F1,False,0.559,,,historical (out-of-fold),False
+Frederik Vesti,Frederik Vesti,2023,2,Prema Racing,21.0,Didn't reach F1,False,0.663,,,historical (out-of-fold),False
+Gabriel Bortoleto,Gabriel Bortoleto,2024,1,Invicta Racing,19.2,Too early to tell,False,0.961,,,historical (out-of-fold),True
+Gabriele Minì,Gabriele Minì,2024,1,Prema Racing,18.8,Pending,False,0.131,0.052,0.226,model estimate,
+Gabriele Minì,Gabriele Minì,2025,2,Prema Racing,19.8,Pending,False,0.245,0.136,0.367,model estimate,
+Gabriele Minì,Gabriele Minì,2026,3,MP Motorsport,20.8,Pending,True,0.428,0.218,0.624,current,
+George Russell (racing driver),George Russell,2018,1,ART Grand Prix,19.9,Star,False,0.95,,,historical (out-of-fold),True
+Giacomo Ricci,Giacomo Ricci,2008,1,DPR,22.8,Didn't reach F1,False,0.024,,,historical (out-of-fold),False
+Giacomo Ricci,Giacomo Ricci,2009,2,DPR,23.8,Didn't reach F1,False,0.035,,,historical (out-of-fold),False
+Giacomo Ricci,Giacomo Ricci,2010,3,DPR,24.8,Didn't reach F1,False,0.134,,,historical (out-of-fold),False
+Giancarlo Serenelli,Giancarlo Serenelli,2012,1,Venezuela GP Lazarus,30.5,Didn't reach F1,False,0.001,,,historical (out-of-fold),False
+Gianluca Petecof,Gianluca Petecof,2021,1,Campos Racing,18.1,Didn't reach F1,False,0.215,,,historical (out-of-fold),False
+Gianmarco Raimondo,Gianmarco Raimondo,2013,1,Trident Racing,22.1,Didn't reach F1,False,0.037,,,historical (out-of-fold),False
+Giedo van der Garde,Giedo van der Garde,2009,1,iSport International,23.7,"Reached, didn't stick",False,0.264,,,historical (out-of-fold),True
+Giedo van der Garde,Giedo van der Garde,2010,2,Barwa Addax Team,24.7,"Reached, didn't stick",False,0.226,,,historical (out-of-fold),True
+Giedo van der Garde,Giedo van der Garde,2011,3,Barwa Addax Team,25.7,"Reached, didn't stick",False,0.37,,,historical (out-of-fold),True
+Giuliano Alesi,Giuliano Alesi,2019,1,Trident,19.3,Didn't reach F1,False,0.182,,,historical (out-of-fold),False
+Giuliano Alesi,Giuliano Alesi,2020,2,BWT HWA Racelab,20.3,Didn't reach F1,False,0.1,,,historical (out-of-fold),False
+Zhou Guanyu,Guanyu Zhou,2019,1,UNI-Virtuosi Racing,19.6,Established,False,0.613,,,historical (out-of-fold),True
+Zhou Guanyu,Guanyu Zhou,2020,2,UNI-Virtuosi Racing,20.6,Established,False,0.46,,,historical (out-of-fold),True
+Zhou Guanyu,Guanyu Zhou,2021,3,UNI-Virtuosi Racing,21.6,Established,False,0.473,,,historical (out-of-fold),True
+Guilherme Samaia,Guilherme Samaia,2020,1,Campos Racing,23.2,Didn't reach F1,False,0.024,,,historical (out-of-fold),False
+Guilherme Samaia,Guilherme Samaia,2021,2,Charouz Racing System,24.2,Didn't reach F1,False,0.037,,,historical (out-of-fold),False
+Gustav Malja,Gustav Malja,2015,1,Rapax,19.2,Didn't reach F1,False,0.238,,,historical (out-of-fold),False
+Gustav Malja,Gustav Malja,2016,2,Rapax,20.2,Didn't reach F1,False,0.141,,,historical (out-of-fold),False
+Gustav Malja,Gustav Malja,2017,3,Racing Engineering,21.2,Didn't reach F1,False,0.115,,,historical (out-of-fold),False
+Hiyu Yamakoshi,Hiyu Yamakoshi,2026,1,Van Amersfoort Racing,19.2,Pending,True,0.105,0.058,0.163,current,
+Ho-Pin Tung,Ho-Pin Tung,2007,1,BCN Competición,24.1,Didn't reach F1,False,0.022,,,historical (out-of-fold),False
+Ho-Pin Tung,Ho-Pin Tung,2008,2,Trident Racing,25.1,Didn't reach F1,False,0.068,,,historical (out-of-fold),False
+Ho-Pin Tung,Ho-Pin Tung,2010,3,DAMS,27.1,Didn't reach F1,False,0.114,,,historical (out-of-fold),False
+Isack Hadjar,Isack Hadjar,2023,1,Hitech Pulse-Eight,18.3,Too early to tell,False,0.391,,,historical (out-of-fold),True
+Isack Hadjar,Isack Hadjar,2024,2,Campos Racing,19.3,Too early to tell,False,0.751,,,historical (out-of-fold),True
+Jack Aitken,Jack Aitken,2018,1,ART Grand Prix,22.3,"Reached, didn't stick",False,0.095,,,historical (out-of-fold),True
+Jack Aitken,Jack Aitken,2019,2,Campos Racing,23.3,"Reached, didn't stick",False,0.313,,,historical (out-of-fold),True
+Jack Aitken,Jack Aitken,2020,3,Campos Racing,24.3,"Reached, didn't stick",False,0.082,,,historical (out-of-fold),True
+Jack Doohan,Jack Doohan,2021,1,MP Motorsport,17.9,"Reached, didn't stick",False,0.382,,,historical (out-of-fold),True
+Jack Doohan,Jack Doohan,2022,2,Virtuosi Racing,18.9,"Reached, didn't stick",False,0.408,,,historical (out-of-fold),True
+Jack Doohan,Jack Doohan,2023,3,Invicta Virtuosi Racing,19.9,"Reached, didn't stick",False,0.324,,,historical (out-of-fold),True
+Jak Crawford,Jak Crawford,2023,1,Hitech Pulse-Eight,17.7,Pending,False,0.492,0.334,0.667,model estimate,
+Jak Crawford,Jak Crawford,2024,2,DAMS Lucas Oil,18.7,Pending,False,0.474,0.267,0.672,model estimate,
+Jak Crawford,Jak Crawford,2025,3,DAMS Lucas Oil,19.7,Pending,False,0.452,0.203,0.692,current,
+Jake Hughes,Jake Hughes,2020,1,BWT HWA Racelab,25.6,Didn't reach F1,False,0.01,,,historical (out-of-fold),False
+Jake Hughes,Jake Hughes,2021,2,HWA Racelab,26.6,Didn't reach F1,False,0.031,,,historical (out-of-fold),False
+Jake Hughes,Jake Hughes,2022,3,Van Amersfoort Racing,27.6,Didn't reach F1,False,0.055,,,historical (out-of-fold),False
+Jake Rosenzweig,Jake Rosenzweig,2012,1,Barwa Addax Team,22.7,Didn't reach F1,False,0.027,,,historical (out-of-fold),False
+Jake Rosenzweig,Jake Rosenzweig,2013,2,Barwa Addax Team,23.7,Didn't reach F1,False,0.04,,,historical (out-of-fold),False
+James Calado,James Calado,2012,1,Lotus GP,22.6,Didn't reach F1,False,0.523,,,historical (out-of-fold),False
+James Calado,James Calado,2013,2,ART Grand Prix,23.6,Didn't reach F1,False,0.538,,,historical (out-of-fold),False
+James Jakes,James Jakes,2010,1,Scuderia Coloni,22.4,Didn't reach F1,False,0.033,,,historical (out-of-fold),False
+James Wharton (racing driver),James Wharton,2025,1,Trident,18.5,Pending,False,0.135,0.066,0.232,current,
+Jann Mardenborough,Jann Mardenborough,2015,1,Carlin,23.3,Didn't reach F1,False,0.029,,,historical (out-of-fold),False
+Jason Tahincioğlu,Jason Tahinci,2007,2,Petrol Ofisi FMS International,23.2,Didn't reach F1,False,0.057,,,historical (out-of-fold),False
+Javier Villa,Javier Villa,2007,2,Racing Engineering,19.2,Didn't reach F1,False,0.505,,,historical (out-of-fold),False
+Javier Villa,Javier Villa,2008,3,Racing Engineering,20.2,Didn't reach F1,False,0.253,,,historical (out-of-fold),False
+Jehan Daruvala,Jehan Daruvala,2020,1,Carlin,21.3,Didn't reach F1,False,0.208,,,historical (out-of-fold),False
+Jehan Daruvala,Jehan Daruvala,2021,2,Carlin,22.3,Didn't reach F1,False,0.335,,,historical (out-of-fold),False
+Jehan Daruvala,Jehan Daruvala,2022,3,Prema Racing,23.3,Didn't reach F1,False,0.289,,,historical (out-of-fold),False
+Jimmy Eriksson,Jimmy Eriksson,2016,1,Arden International,24.8,Didn't reach F1,False,0.014,,,historical (out-of-fold),False
+John Bennett (racing driver),John Bennett,2024,1,Van Amersfoort Racing,20.3,Pending,False,0.04,0.021,0.065,model estimate,
+John Bennett (racing driver),John Bennett,2025,2,Van Amersfoort Racing,21.3,Pending,False,0.055,0.015,0.104,model estimate,
+John Bennett (racing driver),John Bennett,2026,3,Trident,22.3,Pending,True,0.13,0.053,0.207,current,
+Johnny Cecotto Jr.,Johnny Cecotto Jr.,2009,1,DPR,19.3,Didn't reach F1,False,0.099,,,historical (out-of-fold),False
+Johnny Cecotto Jr.,Johnny Cecotto Jr.,2010,2,Trident Racing,20.3,Didn't reach F1,False,0.074,,,historical (out-of-fold),False
+Johnny Cecotto Jr.,Johnny Cecotto Jr.,2011,3,Ocean Racing Technology,21.3,Didn't reach F1,False,0.084,,,historical (out-of-fold),False
+Jolyon Palmer,Jolyon Palmer,2011,1,Arden International,19.9,"Reached, didn't stick",False,0.138,,,historical (out-of-fold),True
+Jolyon Palmer,Jolyon Palmer,2012,2,iSport International,20.9,"Reached, didn't stick",False,0.25,,,historical (out-of-fold),True
+Jolyon Palmer,Jolyon Palmer,2013,3,Carlin,21.9,"Reached, didn't stick",False,0.421,,,historical (out-of-fold),True
+Jon Lancaster,Jon Lancaster,2012,1,Ocean Racing Technology,23.1,Didn't reach F1,False,0.021,,,historical (out-of-fold),False
+Jon Lancaster,Jon Lancaster,2013,2,Hilmer Motorsport,24.1,Didn't reach F1,False,0.195,,,historical (out-of-fold),False
+Jon Lancaster,Jon Lancaster,2014,3,Hilmer Motorsport,25.1,Didn't reach F1,False,0.057,,,historical (out-of-fold),False
+Jordan King,Jordan King,2015,1,Racing Engineering,20.8,Didn't reach F1,False,0.436,,,historical (out-of-fold),False
+Jordan King,Jordan King,2016,2,Racing Engineering,21.8,Didn't reach F1,False,0.444,,,historical (out-of-fold),False
+Jordan King,Jordan King,2017,3,MP Motorsport,22.8,Didn't reach F1,False,0.177,,,historical (out-of-fold),False
+Josef Král,Josef Král,2010,1,Super Nova Racing,19.5,Didn't reach F1,False,0.173,,,historical (out-of-fold),False
+Josef Král,Josef Král,2011,2,Arden International,20.5,Didn't reach F1,False,0.197,,,historical (out-of-fold),False
+Josef Král,Josef Král,2012,3,Barwa Addax Team,21.5,Didn't reach F1,False,0.135,,,historical (out-of-fold),False
+Josh Mason,Josh Mason,2023,1,PHM Racing by Charouz (1–12) PHM Racing (13),20.8,Didn't reach F1,False,0.06,,,historical (out-of-fold),False
+Joshua Dürksen,Joshua Dürksen,2024,1,PHM AIX Racing (1–3) AIX Racing (4–14),20.2,Pending,False,0.313,0.18,0.52,model estimate,
+Joshua Dürksen,Joshua Dürksen,2025,2,AIX Racing,21.2,Pending,False,0.223,0.088,0.393,model estimate,
+Joshua Dürksen,Joshua Dürksen,2026,3,Invicta Racing,22.2,Pending,True,0.302,0.105,0.493,current,
+Juan Manuel Correa,Juan Manuel Correa,2019,1,Sauber Junior Team by Charouz,19.4,Didn't reach F1,False,0.323,,,historical (out-of-fold),False
+Juan Manuel Correa,Juan Manuel Correa,2022,2,Van Amersfoort Racing,22.4,Didn't reach F1,False,0.042,,,historical (out-of-fold),False
+Juan Manuel Correa,Juan Manuel Correa,2023,3,Van Amersfoort Racing,23.4,Didn't reach F1,False,0.103,,,historical (out-of-fold),False
+Jules Bianchi,Jules Bianchi,2010,1,ART Grand Prix,20.4,Excluded: career cut short,False,0.705,0.582,0.841,model estimate,
+Jules Bianchi,Jules Bianchi,2011,2,Lotus ART,21.4,Excluded: career cut short,False,0.535,0.409,0.668,model estimate,
+Julián Leal,Julián Leal,2011,1,Rapax,20.6,Didn't reach F1,False,0.114,,,historical (out-of-fold),False
+Julián Leal,Julián Leal,2012,2,Trident Racing,21.6,Didn't reach F1,False,0.098,,,historical (out-of-fold),False
+Julián Leal,Julián Leal,2013,3,Racing Engineering,22.6,Didn't reach F1,False,0.276,,,historical (out-of-fold),False
+Jérôme d'Ambrosio,Jérôme d'Ambrosio,2008,1,DAMS,22.0,"Reached, didn't stick",False,0.218,,,historical (out-of-fold),True
+Jérôme d'Ambrosio,Jérôme d'Ambrosio,2009,2,DAMS,23.0,"Reached, didn't stick",False,0.275,,,historical (out-of-fold),True
+Jérôme d'Ambrosio,Jérôme d'Ambrosio,2010,3,DAMS,24.0,"Reached, didn't stick",False,0.195,,,historical (out-of-fold),True
+Jüri Vips,Jüri Vips,2020,1,DAMS,19.4,Didn't reach F1,False,0.147,,,historical (out-of-fold),False
+Jüri Vips,Jüri Vips,2021,2,Hitech Grand Prix,20.4,Didn't reach F1,False,0.426,,,historical (out-of-fold),False
+Jüri Vips,Jüri Vips,2022,3,Hitech Grand Prix,21.4,Didn't reach F1,False,0.274,,,historical (out-of-fold),False
+Kamui Kobayashi,Kamui Kobayashi,2008,1,DAMS,21.3,Established,False,0.163,,,historical (out-of-fold),True
+Kamui Kobayashi,Kamui Kobayashi,2009,2,DAMS,22.3,Established,False,0.184,,,historical (out-of-fold),True
+Karun Chandhok,Karun Chandhok,2007,1,Durango,23.0,"Reached, didn't stick",False,0.107,,,historical (out-of-fold),True
+Karun Chandhok,Karun Chandhok,2008,2,iSport International,24.0,"Reached, didn't stick",False,0.253,,,historical (out-of-fold),True
+Karun Chandhok,Karun Chandhok,2009,3,Ocean Racing Technology,25.0,"Reached, didn't stick",False,0.081,,,historical (out-of-fold),True
+Kazuki Nakajima,Kazuki Nakajima,2007,1,DAMS,22.0,"Reached, didn't stick",False,0.503,,,historical (out-of-fold),True
+Kevin Ceccon,Kevin Ceccon,2011,1,Scuderia Coloni,17.3,Didn't reach F1,False,0.221,,,historical (out-of-fold),False
+Kevin Ceccon,Kevin Ceccon,2013,2,Trident Racing,19.3,Didn't reach F1,False,0.156,,,historical (out-of-fold),False
+Kevin Giovesi,Kevin Giovesi,2013,1,Venezuela GP Lazarus,19.1,Didn't reach F1,False,0.109,,,historical (out-of-fold),False
+Kevin Giovesi,Kevin Giovesi,2014,2,Rapax,20.1,Didn't reach F1,False,0.091,,,historical (out-of-fold),False
+Kevin Mirocha,Kevin Mirocha,2011,1,Ocean Racing Technology,19.2,Didn't reach F1,False,0.161,,,historical (out-of-fold),False
+Kimiya Sato,Kimiya Sato,2014,1,Campos Racing,24.2,Didn't reach F1,False,0.025,,,historical (out-of-fold),False
+Kohei Hirate,Kohei Hirate,2007,1,Trident Racing,20.8,Didn't reach F1,False,0.115,,,historical (out-of-fold),False
+Kush Maini,Kush Maini,2023,1,Campos Racing,22.3,Pending,False,0.118,0.069,0.193,model estimate,
+Kush Maini,Kush Maini,2024,2,Invicta Racing,23.3,Pending,False,0.255,0.115,0.47,model estimate,
+Kush Maini,Kush Maini,2025,3,DAMS Lucas Oil,24.3,Pending,False,0.175,0.049,0.338,current,
+Lando Norris,Lando Norris,2017,1,Campos Racing,17.1,Star,False,0.204,,,historical (out-of-fold),True
+Lando Norris,Lando Norris,2018,2,Carlin,18.1,Star,False,0.746,,,historical (out-of-fold),True
+Laurens van Hoepen,Laurens van Hoepen,2025,1,Trident,19.3,Pending,False,0.105,0.055,0.171,model estimate,
+Laurens van Hoepen,Laurens van Hoepen,2026,2,Trident,20.3,Pending,True,0.263,0.143,0.379,current,
+Leonardo Fornaroli,Leonardo Fornaroli,2024,1,Rodin Motorsport,19.1,Pending,False,0.056,0.023,0.1,model estimate,
+Leonardo Fornaroli,Leonardo Fornaroli,2025,2,Invicta Racing,20.1,Pending,False,0.766,0.648,0.893,current,
+Liam Lawson,Liam Lawson,2021,1,Hitech Grand Prix,18.9,Too early to tell,False,0.642,,,historical (out-of-fold),True
+Liam Lawson,Liam Lawson,2022,2,Carlin,19.9,Too early to tell,False,0.563,,,historical (out-of-fold),True
+Lirim Zendeli,Lirim Zendeli,2021,1,MP Motorsport,21.2,Didn't reach F1,False,0.157,,,historical (out-of-fold),False
+Lirim Zendeli,Lirim Zendeli,2022,2,Campos Racing,22.2,Didn't reach F1,False,0.034,,,historical (out-of-fold),False
+Logan Sargeant,Logan Sargeant,2021,1,HWA Racelab,20.0,"Reached, didn't stick",False,0.062,,,historical (out-of-fold),True
+Logan Sargeant,Logan Sargeant,2022,2,Carlin,21.0,"Reached, didn't stick",False,0.518,,,historical (out-of-fold),True
+Louis Delétraz,Louis Delétraz,2016,1,Carlin,18.7,Didn't reach F1,False,0.119,,,historical (out-of-fold),False
+Louis Delétraz,Louis Delétraz,2017,2,Racing Engineering,19.7,Didn't reach F1,False,0.133,,,historical (out-of-fold),False
+Louis Delétraz,Louis Delétraz,2018,3,Charouz Racing System,20.7,Didn't reach F1,False,0.149,,,historical (out-of-fold),False
+Luca Filippi,Luca Filippi,2007,2,Super Nova International,21.4,Didn't reach F1,False,0.562,,,historical (out-of-fold),False
+Luca Filippi,Luca Filippi,2008,3,ART Grand Prix,22.4,Didn't reach F1,False,0.178,,,historical (out-of-fold),False
+Luca Ghiotto,Luca Ghiotto,2016,1,Trident,20.9,Didn't reach F1,False,0.501,,,historical (out-of-fold),False
+Luca Ghiotto,Luca Ghiotto,2017,2,Russian Time,21.9,Didn't reach F1,False,0.552,,,historical (out-of-fold),False
+Luca Ghiotto,Luca Ghiotto,2018,3,Campos Vexatec Racing,22.9,Didn't reach F1,False,0.186,,,historical (out-of-fold),False
+Lucas di Grassi,Lucas di Grassi,2007,2,ART Grand Prix,22.4,"Reached, didn't stick",False,0.648,,,historical (out-of-fold),True
+Lucas di Grassi,Lucas di Grassi,2008,3,Barwa International Campos Team,23.4,"Reached, didn't stick",False,0.522,,,historical (out-of-fold),True
+Luiz Razia,Luiz Razia,2009,1,FMSI (1–6) Party Poker Racing.com SC (7–10),19.7,Didn't reach F1,False,0.178,,,historical (out-of-fold),False
+Luiz Razia,Luiz Razia,2010,2,Rapax,20.7,Didn't reach F1,False,0.395,,,historical (out-of-fold),False
+Luiz Razia,Luiz Razia,2011,3,Team AirAsia (1–3) Caterham Team AirAsia (4–9),21.7,Didn't reach F1,False,0.175,,,historical (out-of-fold),False
+Luke Browning,Luke Browning,2024,1,ART Grand Prix,21.9,Pending,False,0.028,0.01,0.052,model estimate,
+Luke Browning,Luke Browning,2025,2,Hitech TGR,22.9,Pending,False,0.505,0.352,0.68,current,
+Ma Qinghua,Ma Qinghua,2013,1,Caterham Racing (1–3) EQ8 Caterham Racing (4–11),25.0,Didn't reach F1,False,0.01,,,historical (out-of-fold),False
+Mahaveer Raghunathan,Mahaveer Raghunathan,2019,1,MP Motorsport,20.1,Didn't reach F1,False,0.092,,,historical (out-of-fold),False
+Marcello Puglisi,Marcello Puglisi,2008,1,Durango,21.6,Didn't reach F1,False,0.048,,,historical (out-of-fold),False
+Marco Sørensen,Marco Sørensen,2014,1,MP Motorsport,23.3,Didn't reach F1,False,0.13,,,historical (out-of-fold),False
+Marco Sørensen,Marco Sørensen,2015,2,Carlin,24.3,Didn't reach F1,False,0.046,,,historical (out-of-fold),False
+Marcos Martínez (racing driver),Marcos Martínez,2007,1,Racing Engineering,21.2,Didn't reach F1,False,0.134,,,historical (out-of-fold),False
+Marcus Armstrong,Marcus Armstrong,2020,1,ART Grand Prix,19.4,Didn't reach F1,False,0.288,,,historical (out-of-fold),False
+Marcus Armstrong,Marcus Armstrong,2021,2,DAMS,20.4,Didn't reach F1,False,0.216,,,historical (out-of-fold),False
+Marcus Armstrong,Marcus Armstrong,2022,3,Hitech Grand Prix,21.4,Didn't reach F1,False,0.235,,,historical (out-of-fold),False
+Marcus Ericsson,Marcus Ericsson,2010,1,Super Nova Racing,19.3,Established,False,0.289,,,historical (out-of-fold),True
+Marcus Ericsson,Marcus Ericsson,2011,2,iSport International,20.3,Established,False,0.373,,,historical (out-of-fold),True
+Marcus Ericsson,Marcus Ericsson,2012,3,iSport International,21.3,Established,False,0.251,,,historical (out-of-fold),True
+Mari Boya,Mari Boya,2026,1,Prema Racing,21.7,Pending,True,0.052,0.029,0.079,current,
+Marino Sato,Marino Sato,2019,1,Campos Racing,19.6,Didn't reach F1,False,0.112,,,historical (out-of-fold),False
+Marino Sato,Marino Sato,2020,2,Trident,20.6,Didn't reach F1,False,0.057,,,historical (out-of-fold),False
+Marino Sato,Marino Sato,2021,3,Trident,21.6,Didn't reach F1,False,0.097,,,historical (out-of-fold),False
+Marko Asmer,Marko Asmer,2008,1,Fisichella Motor Sport International,23.4,Didn't reach F1,False,0.03,,,historical (out-of-fold),False
+Markus Niemelä,Markus Niemelä,2007,1,BCN Competición,22.8,Didn't reach F1,False,0.023,,,historical (out-of-fold),False
+Marlon Stöckinger,Marlon Stöckinger,2015,1,Status Grand Prix,23.7,Didn't reach F1,False,0.048,,,historical (out-of-fold),False
+Martinius Stenshorne,Martinius Stenshorne,2025,1,Rodin Motorsport,18.9,Pending,False,0.108,0.049,0.18,model estimate,
+Martinius Stenshorne,Martinius Stenshorne,2026,2,Rodin Motorsport,19.9,Pending,True,0.382,0.24,0.563,current,
+Marvin Kirchhöfer,Marvin Kirchhöfer,2016,1,Carlin,21.8,Didn't reach F1,False,0.075,,,historical (out-of-fold),False
+Matevos Isaakyan,Matevos Isaakyan,2019,1,Sauber Junior Team by Charouz,20.7,Didn't reach F1,False,0.085,,,historical (out-of-fold),False
+Matteo Nannini,Matteo Nannini,2021,1,Campos Racing,17.5,Didn't reach F1,False,0.323,,,historical (out-of-fold),False
+Max Chilton,Max Chilton,2010,1,Ocean Racing Technology,18.7,"Reached, didn't stick",False,0.137,,,historical (out-of-fold),True
+Max Chilton,Max Chilton,2011,2,Carlin,19.7,"Reached, didn't stick",False,0.095,,,historical (out-of-fold),True
+Max Chilton,Max Chilton,2012,3,Carlin,20.7,"Reached, didn't stick",False,0.352,,,historical (out-of-fold),True
+Max Esterson,Max Esterson,2024,1,Trident,21.2,Pending,False,0.024,0.01,0.041,model estimate,
+Max Esterson,Max Esterson,2025,2,Trident,22.2,Pending,False,0.044,0.012,0.083,current,
+Maximilian Günther,Maximilian Günther,2018,1,BWT Arden,20.5,Didn't reach F1,False,0.143,,,historical (out-of-fold),False
+Meindert van Buuren,Meindert van Buuren,2015,1,MP Motorsport,20.0,Didn't reach F1,False,0.078,,,historical (out-of-fold),False
+Michael Ammermüller,Michael Ammermüller,2007,2,ART Grand Prix,20.9,Didn't reach F1,False,0.222,,,historical (out-of-fold),False
+Michael Herck,Michael Herck,2008,1,DPR,19.4,Didn't reach F1,False,0.1,,,historical (out-of-fold),False
+Michael Herck,Michael Herck,2009,2,DPR,20.4,Didn't reach F1,False,0.064,,,historical (out-of-fold),False
+Michael Herck,Michael Herck,2010,3,DPR,21.4,Didn't reach F1,False,0.141,,,historical (out-of-fold),False
+Mick Schumacher,Mick Schumacher,2019,1,Prema Racing,19.8,"Reached, didn't stick",False,0.216,,,historical (out-of-fold),True
+Mick Schumacher,Mick Schumacher,2020,2,Prema Racing,20.8,"Reached, didn't stick",False,0.684,,,historical (out-of-fold),True
+Mike Conway,Mike Conway,2007,2,Super Nova International,23.4,Didn't reach F1,False,0.199,,,historical (out-of-fold),False
+Mike Conway,Mike Conway,2008,3,Trident Racing,24.4,Didn't reach F1,False,0.124,,,historical (out-of-fold),False
+Mikhail Aleshin,Mikhail Aleshin,2007,1,ART Grand Prix,19.6,Didn't reach F1,False,0.249,,,historical (out-of-fold),False
+Mikhail Aleshin,Mikhail Aleshin,2011,2,Carlin,23.6,Didn't reach F1,False,0.041,,,historical (out-of-fold),False
+Miloš Pavlović (racing driver),Miloš Pavlović,2008,1,BCN Competición,25.2,Didn't reach F1,False,0.01,,,historical (out-of-fold),False
+Mitch Evans,Mitch Evans,2013,1,Arden International,18.5,Didn't reach F1,False,0.546,,,historical (out-of-fold),False
+Mitch Evans,Mitch Evans,2014,2,RT Russian Time,19.5,Didn't reach F1,False,0.632,,,historical (out-of-fold),False
+Mitch Evans,Mitch Evans,2015,3,Russian Time,20.5,Didn't reach F1,False,0.338,,,historical (out-of-fold),False
+Nabil Jeffri,Nabil Jeffri,2016,1,Arden International,22.2,Didn't reach F1,False,0.035,,,historical (out-of-fold),False
+Nabil Jeffri,Nabil Jeffri,2017,2,Trident,23.2,Didn't reach F1,False,0.045,,,historical (out-of-fold),False
+Nathanaël Berthon,Nathanaël Berthon,2012,1,Racing Engineering,22.5,Didn't reach F1,False,0.17,,,historical (out-of-fold),False
+Nathanaël Berthon,Nathanaël Berthon,2013,2,Trident Racing,23.5,Didn't reach F1,False,0.071,,,historical (out-of-fold),False
+Nathanaël Berthon,Nathanaël Berthon,2014,3,Venezuela GP Lazarus,24.5,Didn't reach F1,False,0.068,,,historical (out-of-fold),False
+Nelson Panciatici,Nelson Panciatici,2009,1,Durango,20.3,Didn't reach F1,False,0.1,,,historical (out-of-fold),False
+Nicholas Latifi,Nicholas Latifi,2014,1,Hilmer Motorsport,18.5,Established,False,0.126,,,historical (out-of-fold),True
+Nicholas Latifi,Nicholas Latifi,2015,2,MP Motorsport,19.5,Established,False,0.057,,,historical (out-of-fold),True
+Nicholas Latifi,Nicholas Latifi,2016,3,DAMS,20.5,Established,False,0.155,,,historical (out-of-fold),True
+Nick Yelloly,Nick Yelloly,2015,1,Hilmer Motorsport,24.1,Didn't reach F1,False,0.03,,,historical (out-of-fold),False
+Nico Hülkenberg,Nico Hülkenberg,2009,1,ART Grand Prix,21.4,Established,False,0.906,,,historical (out-of-fold),True
+Nicolás Varrone,Nico Varrone,2026,1,Van Amersfoort Racing,25.1,Pending,True,0.012,0.004,0.027,current,
+Nicolas Lapierre,Nicolas Lapierre,2007,3,DAMS,22.7,Didn't reach F1,False,0.236,,,historical (out-of-fold),False
+Niels Koolen,Niels Koolen,2024,1,PHM AIX Racing (1–3) AIX Racing (4–14),22.6,Didn't reach F1,False,0.013,,,historical (out-of-fold),False
+Nigel Melker,Nigel Melker,2012,1,Ocean Racing Technology,20.9,Didn't reach F1,False,0.131,,,historical (out-of-fold),False
+Nikita Mazepin,Nikita Mazepin,2019,1,ART Grand Prix,19.8,"Reached, didn't stick",False,0.101,,,historical (out-of-fold),True
+Nikita Mazepin,Nikita Mazepin,2020,2,Hitech Grand Prix,20.8,"Reached, didn't stick",False,0.493,,,historical (out-of-fold),True
+Niko Kari,Niko Kari,2018,1,MP Motorsport,18.2,Didn't reach F1,False,0.155,,,historical (out-of-fold),False
+Nikola Tsolov,Nikola Tsolov,2025,1,Campos Racing,18.0,Pending,False,0.21,0.07,0.408,model estimate,
+Nikola Tsolov,Nikola Tsolov,2026,2,Campos Racing,19.0,Pending,True,0.761,0.651,0.886,current,
+Nirei Fukuzumi,Nirei Fukuzumi,2018,1,BWT Arden,20.9,Didn't reach F1,False,0.078,,,historical (out-of-fold),False
+Nobuharu Matsushita,Nobuharu Matsushita,2015,1,ART Grand Prix,21.2,Didn't reach F1,False,0.262,,,historical (out-of-fold),False
+Nobuharu Matsushita,Nobuharu Matsushita,2016,2,ART Grand Prix,22.2,Didn't reach F1,False,0.232,,,historical (out-of-fold),False
+Nobuharu Matsushita,Nobuharu Matsushita,2017,3,ART Grand Prix,23.2,Didn't reach F1,False,0.288,,,historical (out-of-fold),False
+Noel León,Noel León,2026,1,Campos Racing,21.0,Pending,True,0.545,0.372,0.729,current,
+Norman Nato,Norman Nato,2015,1,Arden International,22.5,Didn't reach F1,False,0.077,,,historical (out-of-fold),False
+Norman Nato,Norman Nato,2016,2,Racing Engineering,23.5,Didn't reach F1,False,0.438,,,historical (out-of-fold),False
+Norman Nato,Norman Nato,2017,3,Pertamina Arden,24.5,Didn't reach F1,False,0.161,,,historical (out-of-fold),False
+Nyck de Vries,Nyck de Vries,2017,1,Rapax,21.9,"Reached, didn't stick",False,0.422,,,historical (out-of-fold),True
+Nyck de Vries,Nyck de Vries,2018,2,Pertamina Prema Theodore Racing (1–7) Pertamina Prema Racing (8–12),22.9,"Reached, didn't stick",False,0.379,,,historical (out-of-fold),True
+Nyck de Vries,Nyck de Vries,2019,3,ART Grand Prix,23.9,"Reached, didn't stick",False,0.443,,,historical (out-of-fold),True
+Oliver Bearman,Oliver Bearman,2023,1,Prema Racing,17.7,Too early to tell,False,0.784,,,historical (out-of-fold),True
+Oliver Bearman,Oliver Bearman,2024,2,Prema Racing,18.7,Too early to tell,False,0.303,,,historical (out-of-fold),True
+Oliver Goethe,Oliver Goethe,2024,1,MP Motorsport,19.2,Pending,False,0.18,0.083,0.299,model estimate,
+Oliver Goethe,Oliver Goethe,2025,2,MP Motorsport,20.2,Pending,False,0.199,0.092,0.371,model estimate,
+Oliver Goethe,Oliver Goethe,2026,3,MP Motorsport,21.2,Pending,True,0.214,0.062,0.387,current,
+Oliver Rowland,Oliver Rowland,2015,1,MP Motorsport,22.4,Didn't reach F1,False,0.043,,,historical (out-of-fold),False
+Oliver Rowland,Oliver Rowland,2016,2,MP Motorsport,23.4,Didn't reach F1,False,0.226,,,historical (out-of-fold),False
+Oliver Rowland,Oliver Rowland,2017,3,DAMS,24.4,Didn't reach F1,False,0.305,,,historical (out-of-fold),False
+Oliver Turvey,Oliver Turvey,2010,1,iSport International,22.8,Didn't reach F1,False,0.403,,,historical (out-of-fold),False
+Oliver Turvey,Oliver Turvey,2011,2,Carlin,23.8,Didn't reach F1,False,0.043,,,historical (out-of-fold),False
+Olivier Pla,Olivier Pla,2007,3,DPR,25.2,Didn't reach F1,False,0.062,,,historical (out-of-fold),False
+Olli Caldwell,Olli Caldwell,2021,1,Campos Racing,18.6,Didn't reach F1,False,0.206,,,historical (out-of-fold),False
+Olli Caldwell,Olli Caldwell,2022,2,Campos Racing,19.6,Didn't reach F1,False,0.067,,,historical (out-of-fold),False
+Oscar Piastri,Oscar Piastri,2021,1,Prema Racing,19.7,Star,False,0.907,,,historical (out-of-fold),True
+Paolo Maria Nocera,Paolo Maria Nocera,2008,1,BCN Competición,22.4,Didn't reach F1,False,0.033,,,historical (out-of-fold),False
+Pastor Maldonado,Pastor Maldonado,2007,1,Trident Racing,21.8,Established,False,0.172,,,historical (out-of-fold),True
+Pastor Maldonado,Pastor Maldonado,2008,2,Piquet Sports,22.8,Established,False,0.5,,,historical (out-of-fold),True
+Pastor Maldonado,Pastor Maldonado,2009,3,ART Grand Prix,23.8,Established,False,0.236,,,historical (out-of-fold),True
+Pato O'Ward,Pato O'Ward,2019,1,MP Motorsport,19.7,Didn't reach F1,False,0.092,,,historical (out-of-fold),False
+Patric Niederhauser,Patric Niederhauser,2015,1,Lazarus (1–3) Daiko Team Lazarus (4–11),23.2,Didn't reach F1,False,0.04,,,historical (out-of-fold),False
+Paul Aron,Paul Aron,2023,1,Trident,18.9,Didn't reach F1,False,0.1,,,historical (out-of-fold),False
+Paul Aron,Paul Aron,2024,2,Hitech Pulse-Eight,19.9,Didn't reach F1,False,0.69,,,historical (out-of-fold),False
+Pedro Piquet,Pedro Piquet,2020,1,Charouz Racing System,21.5,Didn't reach F1,False,0.045,,,historical (out-of-fold),False
+Pepe Martí,Pepe Martí,2024,1,Campos Racing,18.6,Pending,False,0.509,0.31,0.702,model estimate,
+Pepe Martí,Pepe Martí,2025,2,Campos Racing,19.6,Pending,False,0.444,0.317,0.62,current,
+Philo Paz Armand,Philo Paz Armand,2016,1,Trident,19.8,Didn't reach F1,False,0.072,,,historical (out-of-fold),False
+Pierre Gasly,Pierre Gasly,2014,1,EQ8 Caterham Racing (1–8) Caterham Racing (9–11),17.9,Established,False,0.293,,,historical (out-of-fold),True
+Pierre Gasly,Pierre Gasly,2015,2,DAMS,18.9,Established,False,0.517,,,historical (out-of-fold),True
+Pierre Gasly,Pierre Gasly,2016,3,Prema Racing,19.9,Established,False,0.469,,,historical (out-of-fold),True
+Pål Varhaug,Pål Varhaug,2011,1,DAMS,19.9,Didn't reach F1,False,0.161,,,historical (out-of-fold),False
+Pål Varhaug,Pål Varhaug,2013,2,Hilmer Motorsport,21.9,Didn't reach F1,False,0.077,,,historical (out-of-fold),False
+Rafael Câmara,Rafael Câmara,2026,1,Invicta Racing,20.7,Pending,True,0.903,0.812,0.967,current,
+Rafael Villagómez,Rafael Villagómez,2024,1,Van Amersfoort Racing,22.1,Pending,False,0.025,0.011,0.043,model estimate,
+Rafael Villagómez,Rafael Villagómez,2025,2,Van Amersfoort Racing,23.1,Pending,False,0.084,0.031,0.147,model estimate,
+Rafael Villagómez,Rafael Villagómez,2026,3,Van Amersfoort Racing,24.1,Pending,True,0.097,0.026,0.19,current,
+Raffaele Marciello,Raffaele Marciello,2014,1,Racing Engineering,19.0,Didn't reach F1,False,0.615,,,historical (out-of-fold),False
+Raffaele Marciello,Raffaele Marciello,2015,2,Trident,20.0,Didn't reach F1,False,0.393,,,historical (out-of-fold),False
+Raffaele Marciello,Raffaele Marciello,2016,3,Russian Time,21.0,Didn't reach F1,False,0.428,,,historical (out-of-fold),False
+Ralph Boschung,Ralph Boschung,2017,1,Campos Racing,19.3,Didn't reach F1,False,0.142,,,historical (out-of-fold),False
+Ralph Boschung,Ralph Boschung,2018,2,MP Motorsport,20.3,Didn't reach F1,False,0.096,,,historical (out-of-fold),False
+Ralph Boschung,Ralph Boschung,2019,3,Trident,21.3,Didn't reach F1,False,0.073,,,historical (out-of-fold),False
+René Binder,René Binder,2012,1,Venezuela GP Lazarus,20.0,Didn't reach F1,False,0.091,,,historical (out-of-fold),False
+René Binder,René Binder,2013,2,Venezuela GP Lazarus,21.0,Didn't reach F1,False,0.069,,,historical (out-of-fold),False
+René Binder,René Binder,2014,3,Arden International,22.0,Didn't reach F1,False,0.097,,,historical (out-of-fold),False
+Ricardo Risatti,Ricardo Risatti,2007,1,Trident Racing,20.3,Didn't reach F1,False,0.082,,,historical (out-of-fold),False
+Ricardo Teixeira (racing driver),Ricardo Teixeira,2009,1,Trident Racing,24.4,Didn't reach F1,False,0.016,,,historical (out-of-fold),False
+Ricardo Teixeira (racing driver),Ricardo Teixeira,2012,2,Rapax,27.4,Didn't reach F1,False,0.029,,,historical (out-of-fold),False
+Ricardo Teixeira (racing driver),Ricardo Teixeira,2013,3,Trident Racing,28.4,Didn't reach F1,False,0.064,,,historical (out-of-fold),False
+Richard Verschoor,Richard Verschoor,2021,1,MP Motorsport,20.0,Pending,False,0.471,0.386,0.596,model estimate,
+Richard Verschoor,Richard Verschoor,2022,2,Trident,21.0,Pending,False,0.189,0.077,0.314,model estimate,
+Richard Verschoor,Richard Verschoor,2023,3,Van Amersfoort Racing,22.0,Pending,False,0.215,0.087,0.36,current,
+Richie Stanaway,Richie Stanaway,2015,1,Status Grand Prix,23.1,Didn't reach F1,False,0.175,,,historical (out-of-fold),False
+Rio Haryanto,Rio Haryanto,2012,1,Carlin,18.9,"Reached, didn't stick",False,0.332,,,historical (out-of-fold),True
+Rio Haryanto,Rio Haryanto,2013,2,Barwa Addax Team,19.9,"Reached, didn't stick",False,0.101,,,historical (out-of-fold),True
+Rio Haryanto,Rio Haryanto,2014,3,EQ8 Caterham Racing (1–8) Caterham Racing (9–11),20.9,"Reached, didn't stick",False,0.155,,,historical (out-of-fold),True
+Ritomo Miyata,Ritomo Miyata,2024,1,Rodin Motorsport,24.4,Pending,False,0.015,0.005,0.033,model estimate,
+Ritomo Miyata,Ritomo Miyata,2025,2,ART Grand Prix,25.4,Pending,False,0.05,0.016,0.093,model estimate,
+Ritomo Miyata,Ritomo Miyata,2026,3,Hitech,26.4,Pending,True,0.119,0.032,0.253,current,
+Robert Shwartzman,Robert Shwartzman,2020,1,Prema Racing,20.3,Didn't reach F1,False,0.745,,,historical (out-of-fold),False
+Robert Shwartzman,Robert Shwartzman,2021,2,Prema Racing,21.3,Didn't reach F1,False,0.55,,,historical (out-of-fold),False
+Robert Vișoiu,Robert Vișoiu,2015,1,Rapax,18.9,Didn't reach F1,False,0.354,,,historical (out-of-fold),False
+Robert Vișoiu,Robert Vișoiu,2017,2,Campos Racing,20.9,Didn't reach F1,False,0.056,,,historical (out-of-fold),False
+Robin Frijns,Robin Frijns,2013,1,Hilmer Motorsport,21.4,Didn't reach F1,False,0.207,,,historical (out-of-fold),False
+Rodolfo González (racing driver),Rodolfo González,2009,1,Trident Racing,22.6,Didn't reach F1,False,0.033,,,historical (out-of-fold),False
+Rodolfo González (racing driver),Rodolfo González,2010,2,Arden International,23.6,Didn't reach F1,False,0.091,,,historical (out-of-fold),False
+Rodolfo González (racing driver),Rodolfo González,2011,3,Trident Racing,24.6,Didn't reach F1,False,0.124,,,historical (out-of-fold),False
+Roldán Rodríguez,Roldán Rodríguez,2007,1,Minardi Piquet Sports,22.1,Didn't reach F1,False,0.098,,,historical (out-of-fold),False
+Roldán Rodríguez,Roldán Rodríguez,2008,2,Fisichella Motor Sport International,23.1,Didn't reach F1,False,0.123,,,historical (out-of-fold),False
+Roldán Rodríguez,Roldán Rodríguez,2009,3,Piquet GP,24.1,Didn't reach F1,False,0.198,,,historical (out-of-fold),False
+Romain Grosjean,Romain Grosjean,2008,1,ART Grand Prix,21.7,Established,False,0.784,,,historical (out-of-fold),True
+Romain Grosjean,Romain Grosjean,2009,2,Barwa Campos Team (1) Barwa Addax Team (2–10),22.7,Established,False,0.376,,,historical (out-of-fold),True
+Roman Bilinski,Roman Bilinski,2026,1,DAMS Lucas Oil,22.0,Pending,True,0.087,0.044,0.148,current,
+Roman Staněk,Roman Staněk,2023,1,Trident,18.9,Pending,False,0.173,0.105,0.262,model estimate,
+Roman Staněk,Roman Staněk,2024,2,Trident,19.8,Pending,False,0.08,0.025,0.177,model estimate,
+Roman Staněk,Roman Staněk,2025,3,Invicta Racing,20.9,Pending,False,0.398,0.15,0.64,current,
+Roy Nissany,Roy Nissany,2018,1,Campos Vexatec Racing,23.1,Didn't reach F1,False,0.026,,,historical (out-of-fold),False
+Roy Nissany,Roy Nissany,2020,2,Trident,25.1,Didn't reach F1,False,0.032,,,historical (out-of-fold),False
+Roy Nissany,Roy Nissany,2021,3,DAMS,26.1,Didn't reach F1,False,0.125,,,historical (out-of-fold),False
+Ryan Tveter,Ryan Tveter,2019,1,Trident,24.6,Didn't reach F1,False,0.009,,,historical (out-of-fold),False
+Sam Bird,Sam Bird,2010,1,ART Grand Prix,23.0,Didn't reach F1,False,0.389,,,historical (out-of-fold),False
+Sam Bird,Sam Bird,2011,2,iSport International,24.0,Didn't reach F1,False,0.417,,,historical (out-of-fold),False
+Sam Bird,Sam Bird,2013,3,Russian Time,26.0,Didn't reach F1,False,0.596,,,historical (out-of-fold),False
+Sami Meguetounif,Sami Meguetounif,2025,1,Trident,20.6,Pending,False,0.074,0.04,0.116,current,
+Santino Ferrucci,Santino Ferrucci,2017,1,Trident,18.6,Didn't reach F1,False,0.189,,,historical (out-of-fold),False
+Santino Ferrucci,Santino Ferrucci,2018,2,Trident,19.6,Didn't reach F1,False,0.071,,,historical (out-of-fold),False
+Sean Gelael,Sean Gelael,2015,1,Carlin,18.2,Didn't reach F1,False,0.256,,,historical (out-of-fold),False
+Sean Gelael,Sean Gelael,2016,2,Pertamina Campos Racing,19.2,Didn't reach F1,False,0.199,,,historical (out-of-fold),False
+Sean Gelael,Sean Gelael,2017,3,Pertamina Arden,20.2,Didn't reach F1,False,0.123,,,historical (out-of-fold),False
+Sebastián Montoya,Sebastián Montoya,2025,1,Prema Racing,19.7,Pending,False,0.485,0.391,0.61,model estimate,
+Sebastián Montoya,Sebastián Montoya,2026,2,Prema Racing,20.7,Pending,True,0.085,0.026,0.157,current,
+Sergey Sirotkin,Sergey Sirotkin,2015,1,Rapax,19.3,"Reached, didn't stick",False,0.756,,,historical (out-of-fold),True
+Sergey Sirotkin,Sergey Sirotkin,2016,2,ART Grand Prix,20.3,"Reached, didn't stick",False,0.524,,,historical (out-of-fold),True
+Sergey Sirotkin,Sergey Sirotkin,2017,3,ART Grand Prix,21.3,"Reached, didn't stick",False,0.114,,,historical (out-of-fold),True
+Sergio Campana (racing driver),Sergio Campana,2013,1,Trident Racing,26.6,Didn't reach F1,False,0.005,,,historical (out-of-fold),False
+Sergio Campana (racing driver),Sergio Campana,2014,2,Venezuela GP Lazarus,27.6,Didn't reach F1,False,0.018,,,historical (out-of-fold),False
+Sergio Canamasas,Sergio Canamasas,2012,1,Venezuela GP Lazarus,25.7,Didn't reach F1,False,0.009,,,historical (out-of-fold),False
+Sergio Canamasas,Sergio Canamasas,2013,2,Caterham Racing (1–3) EQ8 Caterham Racing (4–11),26.7,Didn't reach F1,False,0.036,,,historical (out-of-fold),False
+Sergio Canamasas,Sergio Canamasas,2014,3,Trident,27.7,Didn't reach F1,False,0.142,,,historical (out-of-fold),False
+Sergio Hernández (racing driver),Sergio Hernández,2007,3,Trident Racing,23.1,Didn't reach F1,False,0.07,,,historical (out-of-fold),False
+Sergio Pérez,Sergio Pérez,2009,1,Telmex Arden International,18.9,Star,False,0.523,,,historical (out-of-fold),True
+Sergio Pérez,Sergio Pérez,2010,2,Barwa Addax Team,19.9,Star,False,0.704,,,historical (out-of-fold),True
+Simon Trummer,Simon Trummer,2012,1,Arden International,22.6,Didn't reach F1,False,0.059,,,historical (out-of-fold),False
+Simon Trummer,Simon Trummer,2013,2,Rapax,23.6,Didn't reach F1,False,0.095,,,historical (out-of-fold),False
+Simon Trummer,Simon Trummer,2014,3,Rapax,24.6,Didn't reach F1,False,0.118,,,historical (out-of-fold),False
+Stefano Coletti,Stefano Coletti,2009,1,Durango,19.7,Didn't reach F1,False,0.119,,,historical (out-of-fold),False
+Stefano Coletti,Stefano Coletti,2011,2,Trident Racing,21.7,Didn't reach F1,False,0.241,,,historical (out-of-fold),False
+Stefano Coletti,Stefano Coletti,2012,3,Scuderia Coloni,22.7,Didn't reach F1,False,0.13,,,historical (out-of-fold),False
+Stoffel Vandoorne,Stoffel Vandoorne,2014,1,ART Grand Prix,21.8,"Reached, didn't stick",False,0.836,,,historical (out-of-fold),True
+Stoffel Vandoorne,Stoffel Vandoorne,2015,2,ART Grand Prix,22.8,"Reached, didn't stick",False,0.732,,,historical (out-of-fold),True
+Stéphane Richelmi,Stéphane Richelmi,2011,1,Trident Racing,20.8,Didn't reach F1,False,0.11,,,historical (out-of-fold),False
+Stéphane Richelmi,Stéphane Richelmi,2012,2,Trident Racing,21.8,Didn't reach F1,False,0.118,,,historical (out-of-fold),False
+Stéphane Richelmi,Stéphane Richelmi,2013,3,DAMS,22.8,Didn't reach F1,False,0.301,,,historical (out-of-fold),False
+Sébastien Buemi,Sébastien Buemi,2007,1,ART Grand Prix,18.2,Established,False,0.358,,,historical (out-of-fold),True
+Sébastien Buemi,Sébastien Buemi,2008,2,Trust Team Arden,19.2,Established,False,0.541,,,historical (out-of-fold),True
+Sérgio Jimenez,Sérgio Jimenez,2007,1,Racing Engineering,22.6,Didn't reach F1,False,0.07,,,historical (out-of-fold),False
+Sérgio Sette Câmara,Sérgio Sette Câmara,2017,1,MP Motorsport,18.6,Didn't reach F1,False,0.473,,,historical (out-of-fold),False
+Sérgio Sette Câmara,Sérgio Sette Câmara,2018,2,Carlin,19.6,Didn't reach F1,False,0.588,,,historical (out-of-fold),False
+Sérgio Sette Câmara,Sérgio Sette Câmara,2019,3,DAMS,20.6,Didn't reach F1,False,0.522,,,historical (out-of-fold),False
+Tadasuke Makino,Tadasuke Makino,2018,1,Russian Time,20.5,Didn't reach F1,False,0.208,,,historical (out-of-fold),False
+Takuya Izawa,Takuya Izawa,2014,1,ART Grand Prix,29.6,Didn't reach F1,False,0.005,,,historical (out-of-fold),False
+Tasanapol Inthraphuvasak,Tasanapol Inthraphuvasak,2025,1,Trident,19.1,Pending,False,0.11,0.057,0.182,model estimate,
+Tasanapol Inthraphuvasak,Tasanapol Inthraphuvasak,2026,2,ART Grand Prix,20.1,Pending,True,0.237,0.136,0.342,current,
+Tatiana Calderón,Tatiana Calderón,2019,1,BWT Arden,25.8,Didn't reach F1,False,0.009,,,historical (out-of-fold),False
+Tatiana Calderón,Tatiana Calderón,2022,2,Charouz Racing System,28.8,Didn't reach F1,False,0.019,,,historical (out-of-fold),False
+Taylor Barnard,Taylor Barnard,2024,1,PHM AIX Racing (1–3) AIX Racing (4–14),19.6,Didn't reach F1,False,0.084,,,historical (out-of-fold),False
+Théo Pourchaire,Théo Pourchaire,2020,1,BWT HWA Racelab,16.4,Didn't reach F1,False,0.329,,,historical (out-of-fold),False
+Théo Pourchaire,Théo Pourchaire,2021,2,ART Grand Prix,17.4,Didn't reach F1,False,0.615,,,historical (out-of-fold),False
+Théo Pourchaire,Théo Pourchaire,2022,3,ART Grand Prix,18.4,Didn't reach F1,False,0.466,,,historical (out-of-fold),False
+Tio Ellinas,Tio Ellinas,2014,1,MP Motorsport,21.9,Didn't reach F1,False,0.088,,,historical (out-of-fold),False
+Tom Dillmann,Tom Dillmann,2012,1,Rapax,22.7,Didn't reach F1,False,0.087,,,historical (out-of-fold),False
+Tom Dillmann,Tom Dillmann,2013,2,Russian Time,23.7,Didn't reach F1,False,0.342,,,historical (out-of-fold),False
+Tom Dillmann,Tom Dillmann,2014,3,EQ8 Caterham Racing (1–8) Caterham Racing (9–11),24.7,Didn't reach F1,False,0.138,,,historical (out-of-fold),False
+Victor Guerin (racing driver),Victor Guerin,2012,1,Ocean Racing Technology,19.5,Didn't reach F1,False,0.107,,,historical (out-of-fold),False
+Victor Martins,Victor Martins,2023,1,ART Grand Prix,21.5,Pending,False,0.543,0.369,0.731,model estimate,
+Victor Martins,Victor Martins,2024,2,ART Grand Prix,22.5,Pending,False,0.233,0.137,0.333,model estimate,
+Victor Martins,Victor Martins,2025,3,ART Grand Prix,23.5,Pending,False,0.143,0.049,0.255,current,
+Vitaly Petrov,Vitaly Petrov,2007,2,Campos Grand Prix,22.3,Established,False,0.249,,,historical (out-of-fold),True
+Vitaly Petrov,Vitaly Petrov,2008,3,Barwa International Campos Team,23.3,Established,False,0.31,,,historical (out-of-fold),True
+Vittorio Ghirelli,Vittorio Ghirelli,2013,1,Venezuela GP Lazarus,18.7,Didn't reach F1,False,0.143,,,historical (out-of-fold),False
+Vladimir Arabadzhiev,Vladimir Arabadzhiev,2010,1,Scuderia Coloni,25.8,Didn't reach F1,False,0.007,,,historical (out-of-fold),False
+Yelmer Buurman,Yelmer Buurman,2008,1,Trust Team Arden,20.9,Didn't reach F1,False,0.13,,,historical (out-of-fold),False
+Yuki Tsunoda,Yuki Tsunoda,2020,1,Carlin,19.6,Established,False,0.916,,,historical (out-of-fold),True
+Zak O'Sullivan,Zak O'Sullivan,2024,1,ART Grand Prix,18.9,Didn't reach F1,False,0.315,,,historical (out-of-fold),False
+Zane Maloney,Zane Maloney,2022,1,Trident,18.3,Didn't reach F1,False,0.133,,,historical (out-of-fold),False
+Zane Maloney,Zane Maloney,2023,2,Rodin Carlin,19.2,Didn't reach F1,False,0.462,,,historical (out-of-fold),False
+Zane Maloney,Zane Maloney,2024,3,Rodin Motorsport,20.2,Didn't reach F1,False,0.225,,,historical (out-of-fold),False
+Zoël Amberg,Zoël Amberg,2015,1,Lazarus (1–3) Daiko Team Lazarus (4–11),22.3,Didn't reach F1,False,0.06,,,historical (out-of-fold),False
+Álex Palou,Álex Palou,2017,1,Campos Racing,19.8,Didn't reach F1,False,0.106,,,historical (out-of-fold),False
+Álvaro Parente,Álvaro Parente,2008,1,Super Nova Racing,23.2,Didn't reach F1,False,0.278,,,historical (out-of-fold),False
+Álvaro Parente,Álvaro Parente,2009,2,Ocean Racing Technology,24.2,Didn't reach F1,False,0.15,,,historical (out-of-fold),False
+Álvaro Parente,Álvaro Parente,2010,3,Scuderia Coloni,25.2,Didn't reach F1,False,0.082,,,historical (out-of-fold),False

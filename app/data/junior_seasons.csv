@@ -1,0 +1,657 @@
+season,series,driver_key,driver_name,team,pos_text,final_pos,points,age,k,season_in_progress,performance_rating,teammate_gap,team_strength,confidence
+2005,GP2,Adam Carroll (racing driver),Adam Carroll,Super Nova International,5,5.0,53,22.2,1,False,68,0.033,0.818,High
+2006,GP2,Adam Carroll (racing driver),Adam Carroll,Racing Engineering,8,8.0,33,23.2,2,False,82,0.289,0.500,High
+2007,GP2,Adam Carroll (racing driver),Adam Carroll,Petrol Ofisi FMS International,7,7.0,36,24.2,3,False,91,0.398,0.333,Low
+2008,GP2,Adam Carroll (racing driver),Adam Carroll,Fisichella Motor Sport International,25,25.0,1,25.2,4,False,31,-0.171,0.250,Low
+2011,GP2,Adam Carroll (racing driver),Adam Carroll,Super Nova Racing,17,17.0,6,28.2,5,False,11,-0.596,0.667,Low
+2013,GP2,Adrian Quaife-Hobbs,Adrian Quaife-Hobbs,MP Motorsport,13,13.0,56,21.9,1,False,79,0.139,0.250,Medium
+2014,GP2,Adrian Quaife-Hobbs,Adrian Quaife-Hobbs,Rapax,13,13.0,30,22.9,2,False,65,0.014,0.333,High
+2007,GP2,Adrian Zaugg,Adrian Zaugg,Arden International,18,18.0,10,20.2,1,False,32,-0.273,0.500,High
+2010,GP2,Adrian Zaugg,Adrian Zaugg,Trident Racing,18,18.0,9,23.2,2,False,66,0.046,0.091,High
+2006,GP2,Adrián Vallés,Adrián Vallés,Campos Racing,18,18.0,7,19.6,1,False,62,0.018,0.083,High
+2008,GP2,Adrián Vallés,Adrián Vallés,BCN Competición,21,21.0,5,21.6,2,False,64,0.066,0.083,Medium
+2008,GP2,Alberto Valerio,Alberto Valério,Durango,26,26.0,0,22.3,1,False,34,-0.145,0.167,High
+2009,GP2,Alberto Valerio,Alberto Valério,Piquet GP,15,15.0,16,23.3,2,False,47,-0.090,0.500,High
+2010,GP2,Alberto Valerio,Alberto Valério,Scuderia Coloni,22,22.0,4,24.3,3,False,42,-0.115,0.182,Low
+2021,F2,Alessio Deledda,Alessio Deledda,HWA Racelab,25,25.0,0,26.1,1,False,43,-0.032,0.000,High
+2018,F2,Alessio Lorandi,Alessio Lorandi,Trident,20,20.0,6,19.3,1,False,42,-0.087,0.000,Low
+2025,F2,Alex Dunne,Alex Dunne,Rodin Motorsport,5,5.0,150,19.1,1,False,99,0.687,0.400,High
+2026,F2,Alex Dunne,Alex Dunne,Rodin Motorsport,3,3.0,189,20.1,2,True,92,0.396,0.800,High
+2015,GP2,Alex Lynn,Alex Lynn,DAMS,6,6.0,110,21.3,1,False,65,0.000,0.833,High
+2016,GP2,Alex Lynn,Alex Lynn,DAMS,6,6.0,124,22.3,2,False,89,0.461,0.600,High
+2017,F2,Alex Albon,Alexander Albon,ART Grand Prix,10,10.0,86,20.8,1,False,49,-0.191,0.667,High
+2018,F2,Alex Albon,Alexander Albon,DAMS,3,3.0,212,21.8,2,False,91,0.422,0.778,High
+2013,GP2,Alexander Rossi,Alexander Rossi,Caterham Racing (1–3) EQ8 Caterham Racing (4–11),9,9.0,92,21.3,1,False,92,0.443,0.333,High
+2014,GP2,Alexander Rossi,Alexander Rossi,EQ8 Caterham Racing (1–8) Caterham Racing (9–11),21,21.0,12,22.3,2,False,35,-0.123,0.417,Low
+2015,GP2,Alexander Rossi,Alexander Rossi,Racing Engineering,2,2.0,181.5,23.3,3,False,85,0.356,0.917,High
+2005,GP2,Alexandre Sarnes Negrão,Alexandre Negrão,Hitech Piquet Sports,19,19.0,4,19.2,1,False,14,-0.350,0.545,High
+2006,GP2,Alexandre Sarnes Negrão,Alexandre Negrão,Piquet Sports,13,13.0,13,20.2,2,False,5,-0.781,0.917,High
+2007,GP2,Alexandre Sarnes Negrão,Alexandre Negrão,Minardi Piquet Sports,20,20.0,8,21.2,3,False,58,-0.068,0.167,High
+2005,GP2,Alexandre Prémat,Alexandre Prémat,ART Grand Prix,4,4.0,67,22.7,1,False,39,-0.442,1.000,High
+2006,GP2,Alexandre Prémat,Alexandre Prémat,ART Grand Prix,3,3.0,66,23.7,2,False,45,-0.421,1.000,High
+2022,F2,Amaury Cordeel,Amaury Cordeel,Van Amersfoort Racing,17,17.0,26,19.5,1,False,58,-0.094,0.100,High
+2023,F2,Amaury Cordeel,Amaury Cordeel,Invicta Virtuosi Racing,20,20.0,8,20.5,2,False,2,-0.788,0.600,High
+2024,F2,Amaury Cordeel,Amaury Cordeel,Hitech Pulse-Eight,17,17.0,39,21.5,3,False,10,-0.578,0.800,High
+2025,F2,Amaury Cordeel,Amaury Cordeel,Rodin Motorsport,19,19.0,3,22.5,4,False,7,-0.706,0.400,High
+2024,F2,Kimi Antonelli,Andrea Kimi Antonelli,Prema Racing,6,6.0,113,17.4,1,False,81,0.149,0.600,High
+2006,GP2,Andreas Zuber,Andreas Zuber,Trident Racing,14,14.0,12,22.2,1,False,33,-0.184,0.667,High
+2007,GP2,Andreas Zuber,Andreas Zuber,iSport International,9,9.0,30,23.2,2,False,16,-0.659,1.000,High
+2008,GP2,Andreas Zuber,Andreas Zuber,Piquet Sports,9,9.0,32,24.2,3,False,37,-0.368,0.833,High
+2009,GP2,Andreas Zuber,Andreas Zuber,FMSI (1–6) Party Poker Racing.com SC (7–10),13,13.0,21,25.2,4,False,74,0.130,0.250,High
+2014,GP2,André Negrão,André Negrão,Arden International,12,12.0,31,21.5,1,False,76,0.101,0.167,High
+2015,GP2,André Negrão,André Negrão,Arden International,20,20.0,5,22.5,2,False,56,-0.044,0.167,High
+2007,GP2,Andy Soucek,Andy Soucek,DPR,16,16.0,15,21.5,1,False,79,0.170,0.083,High
+2008,GP2,Andy Soucek,Andy Soucek,Super Nova Racing,14,14.0,14,22.5,2,False,42,-0.263,0.500,Medium
+2019,F2,Anthoine Hubert,Anthoine Hubert,BWT Arden,10,10.0,77,22.3,1,False,80,0.229,0.333,High
+2017,F2,Antonio Fuoco,Antonio Fuoco,Prema Racing,8,8.0,98,20.6,1,False,19,-0.652,0.889,High
+2018,F2,Antonio Fuoco,Antonio Fuoco,Charouz Racing System,7,7.0,141,21.6,2,False,84,0.233,0.444,High
+2016,GP2,Antonio Giovinazzi,Antonio Giovinazzi,Prema Racing,2,2.0,211,22.0,1,False,78,-0.037,1.000,High
+2007,GP2,Antônio Pizzonia,Antônio Pizzonia,Petrol Ofisi FMS International,27,27.0,1,26.3,1,False,17,-0.398,0.333,Low
+2018,F2,Arjun Maini,Arjun Maini,Trident,16,16.0,24,20.1,1,False,63,0.038,0.000,High
+2019,F2,Arjun Maini,Arjun Maini,Campos Racing,24,24.0,0,21.1,2,False,2,-0.711,0.556,Low
+2014,GP2,Artem Markelov,Artem Markelov,RT Russian Time,24,24.0,6,19.3,1,False,5,-0.609,0.667,High
+2015,GP2,Artem Markelov,Artem Markelov,Russian Time,13,13.0,48,20.3,2,False,36,-0.255,0.667,High
+2016,GP2,Artem Markelov,Artem Markelov,Russian Time,10,10.0,97,21.3,3,False,37,-0.283,0.800,High
+2017,F2,Artem Markelov,Artem Markelov,Russian Time,2,2.0,210,22.3,4,False,78,0.089,1.000,High
+2018,F2,Artem Markelov,Artem Markelov,Russian Time,5,5.0,186,23.3,5,False,91,0.481,0.667,High
+2019,F2,Artem Markelov,Artem Markelov,BWT Arden,16,16.0,16,24.3,6,False,35,-0.229,0.333,Low
+2020,F2,Artem Markelov,Artem Markelov,BWT HWA Racelab,18,18.0,5,25.3,7,False,53,-0.033,0.100,High
+2023,F2,Arthur Leclerc,Arthur Leclerc,DAMS,15,15.0,49,22.2,1,False,12,-0.571,0.700,High
+2014,GP2,Arthur Pic,Arthur Pic,Campos Racing,7,7.0,124,22.2,1,False,90,0.442,0.500,High
+2015,GP2,Arthur Pic,Arthur Pic,Campos Racing,11,11.0,60,23.2,2,False,39,-0.228,0.750,High
+2016,GP2,Arthur Pic,Arthur Pic,Rapax,14,14.0,36,24.2,3,False,55,-0.160,0.200,High
+2025,F2,Arvid Lindblad,Arvid Lindblad,Campos Racing,6,6.0,134,17.4,1,False,74,0.047,0.800,High
+2014,GP2,Axcil Jefferies,Axcil Jefferies,Trident,34,34.0,0,19.7,1,False,2,-0.612,0.583,Low
+2022,F2,Ayumu Iwasa,Ayumu Iwasa,DAMS,5,5.0,141,20.3,1,False,92,0.457,0.500,High
+2023,F2,Ayumu Iwasa,Ayumu Iwasa,DAMS,4,4.0,165,21.3,2,False,95,0.571,0.700,High
+2008,GP2,Ben Hanley,Ben Hanley,Barwa International Campos Team,24,24.0,1,22.9,1,False,0,-1.329,1.000,Low
+2021,F2,Bent Viscaal,Bent Viscaal,Trident,14,14.0,34,21.3,1,False,71,0.131,0.200,High
+2005,GP2,Borja García (racing driver),Borja García,Racing Engineering,14,14.0,17.5,22.0,1,False,29,-0.254,0.636,High
+2007,GP2,Borja García (racing driver),Borja García,Durango,10,10.0,28,24.0,2,False,76,0.136,0.500,High
+2023,F2,Brad Benavides,Brad Benavides,PHM Racing by Charouz (1–12) PHM Racing (13),22,22.0,0,21.5,1,False,43,0.000,0.000,Low
+2010,GP2,Brendon Hartley,Brendon Hartley,Scuderia Coloni,27,27.0,1,20.1,1,False,28,-0.184,0.182,Low
+2011,GP2,Brendon Hartley,Brendon Hartley,Ocean Racing Technology,19,19.0,4,21.1,2,False,63,0.045,0.083,Low
+2012,GP2,Brendon Hartley,Brendon Hartley,Ocean Racing Technology,25,25.0,1,22.1,3,False,43,-0.097,0.083,Low
+2007,GP2,Bruno Senna,Bruno Senna,Arden International,8,8.0,34,23.2,1,False,84,0.273,0.500,High
+2008,GP2,Bruno Senna,Bruno Senna,iSport International,2,2.0,64,24.2,2,False,91,0.434,0.917,High
+2022,F2,Calan Williams,Calan Williams,Trident,23,23.0,5,21.5,1,False,20,-0.370,0.200,High
+2017,F2,Callum Ilott,Callum Ilott,Trident,26,26.0,0,18.1,1,False,30,-0.096,0.111,Low
+2019,F2,Callum Ilott,Callum Ilott,Sauber Junior Team by Charouz,11,11.0,74,20.1,2,False,71,0.143,0.444,High
+2020,F2,Callum Ilott,Callum Ilott,UNI-Virtuosi Racing,2,2.0,201,21.1,3,False,87,0.230,0.900,High
+2005,GP2,Can Artam,Can Artam,iSport International,22,22.0,2,23.5,1,False,3,-0.546,0.727,High
+2008,GP2,Carlos Iaconelli,Carlos Iaconelli,BCN Competición,28,28.0,0,20.5,1,False,39,-0.066,0.083,Low
+2022,F2,Cem Bölükbaşı,Cem Bölükbaşı,Charouz Racing System,24,24.0,0,23.9,1,False,13,-0.475,0.300,Low
+2017,F2,Charles Leclerc,Charles Leclerc,Prema Racing,1,1.0,282,19.2,1,False,98,0.652,0.889,High
+2010,GP2,Charles Pic,Charles Pic,Arden International,10,10.0,28,19.9,1,False,81,0.276,0.455,High
+2011,GP2,Charles Pic,Charles Pic,Barwa Addax Team,4,4.0,52,20.9,2,False,69,0.034,1.000,High
+2007,GP2,Christian Bakkerud,Christian Bakkerud,DPR,34,34.0,0,22.2,1,False,26,-0.170,0.083,High
+2008,GP2,Christian Bakkerud,Christian Bakkerud,Super Nova Racing,27,27.0,0,23.2,2,False,5,-0.632,0.500,Low
+2019,F2,Christian Lundgaard,Christian Lundgaard,Trident,23,23.0,0,17.4,1,False,40,-0.086,0.000,Low
+2020,F2,Christian Lundgaard,Christian Lundgaard,ART Grand Prix,7,7.0,149,18.4,2,False,90,0.451,0.600,High
+2021,F2,Christian Lundgaard,Christian Lundgaard,ART Grand Prix,12,12.0,50,19.4,3,False,32,-0.356,0.600,High
+2024,F2,Christian Mansell,Christian Mansell,Trident,25,25.0,10,18.9,1,False,16,-0.513,0.200,Low
+2010,GP2,Christian Vietoris,Christian Vietoris,Racing Engineering,9,9.0,29,20.8,1,False,47,-0.253,0.727,High
+2011,GP2,Christian Vietoris,Christian Vietoris,Racing Engineering,7,7.0,35,21.8,2,False,73,0.056,0.667,High
+2024,F2,Cian Shields,Cian Shields,PHM AIX Racing (1–3) AIX Racing (4–14),30,30.0,0,18.8,1,False,13,-0.490,0.100,Low
+2025,F2,Cian Shields,Cian Shields,AIX Racing,24,24.0,0,19.8,2,False,10,-0.507,0.200,High
+2026,F2,Cian Shields,Cian Shields,AIX Racing,22,22.0,10,20.8,3,True,33,-0.087,0.000,High
+2005,GP2,Clivio Piccione,Clivio Piccione,Durango,15,15.0,14,20.9,1,False,67,0.075,0.091,High
+2006,GP2,Clivio Piccione,Clivio Piccione,"DPR (1–2, 8–11) DPR Direxiv (3–7)",12,12.0,18,21.9,2,False,75,0.158,0.250,High
+2021,F2,Clément Novalak,Clément Novalak,MP Motorsport,28,28.0,0,20.0,1,False,8,-0.301,0.500,Low
+2022,F2,Clément Novalak,Clément Novalak,MP Motorsport,14,14.0,40,21.0,2,False,3,-0.849,1.000,High
+2023,F2,Clément Novalak,Clément Novalak,Trident,17,17.0,28,22.0,3,False,61,0.064,0.100,High
+2026,F2,Colton Herta,Colton Herta,Hitech,19,19.0,26,25.8,1,True,27,-0.213,0.300,High
+2013,GP2,Conor Daly,Conor Daly,Hilmer Motorsport,26,26.0,2,21.0,1,False,7,-0.587,0.500,Low
+2014,GP2,Conor Daly,Conor Daly,Venezuela GP Lazarus,26,26.0,2,22.0,2,False,49,-0.054,0.000,High
+2018,F2,Dan Ticktum,Dan Ticktum,BWT Arden,23,23.0,0,18.6,1,False,23,-0.202,0.111,Low
+2020,F2,Dan Ticktum,Dan Ticktum,DAMS,11,11.0,96.5,20.6,2,False,85,0.360,0.300,High
+2021,F2,Dan Ticktum,Dan Ticktum,Carlin,4,4.0,159.5,21.6,3,False,81,0.184,0.800,High
+2009,GP2,Dani Clos,Dani Clos,Fat Burner Racing Engineering,21,21.0,4,20.2,1,False,4,-0.590,0.833,High
+2010,GP2,Dani Clos,Dani Clos,Racing Engineering,4,4.0,51,21.2,2,False,85,0.253,0.727,High
+2011,GP2,Dani Clos,Dani Clos,Racing Engineering,9,9.0,30,22.2,3,False,62,-0.056,0.667,High
+2012,GP2,Dani Clos,Dani Clos,Barwa Addax Team,28,28.0,0,23.2,4,False,8,-0.530,0.417,Low
+2013,GP2,Dani Clos,Dani Clos,MP Motorsport,18,18.0,25,24.2,5,False,52,-0.169,0.250,Low
+2013,GP2,Daniel Abt,Daniel Abt,ART Grand Prix,22,22.0,11,20.1,1,False,5,-0.726,0.667,High
+2014,GP2,Daniel Abt,Daniel Abt,Hilmer Motorsport,16,16.0,27,21.1,2,False,73,0.076,0.083,High
+2012,GP2,Daniël de Jong,Daniël de Jong,Rapax,26,26.0,0,19.5,1,False,36,-0.117,0.167,Low
+2013,GP2,Daniël de Jong,Daniël de Jong,MP Motorsport,24,24.0,3,20.5,2,False,24,-0.388,0.250,High
+2014,GP2,Daniël de Jong,Daniël de Jong,MP Motorsport,28,28.0,2,21.5,3,False,23,-0.188,0.333,High
+2015,GP2,Daniël de Jong,Daniël de Jong,MP Motorsport,23,23.0,1,22.5,4,False,59,-0.006,0.000,Medium
+2016,GP2,Daniël de Jong,Daniël de Jong,MP Motorsport,21,21.0,6,23.5,5,False,11,-0.461,0.400,High
+2021,F2,David Beckmann,David Beckmann,Charouz Racing System,15,15.0,32,20.7,1,False,73,0.119,0.100,Medium
+2022,F2,David Beckmann,David Beckmann,Van Amersfoort Racing,18,18.0,25,21.7,2,False,55,-0.102,0.100,Low
+2009,GP2,Davide Rigon,Davide Rigon,Trident Racing,22,22.0,3,22.4,1,False,54,0.030,0.083,High
+2011,GP2,Davide Rigon,Davide Rigon,Scuderia Coloni,29,29.0,0,24.4,2,False,41,-0.011,0.000,Low
+2008,GP2,Davide Valsecchi,Davide Valsecchi,Durango,15,15.0,11,20.9,1,False,75,0.145,0.167,High
+2009,GP2,Davide Valsecchi,Davide Valsecchi,Durango,17,17.0,12,21.9,2,False,67,0.120,0.167,Medium
+2010,GP2,Davide Valsecchi,Davide Valsecchi,iSport International,8,8.0,31,22.9,3,False,59,-0.184,0.636,High
+2011,GP2,Davide Valsecchi,Davide Valsecchi,Team AirAsia (1–3) Caterham Team AirAsia (4–9),8,8.0,30,23.9,4,False,77,0.124,0.500,High
+2012,GP2,Davide Valsecchi,Davide Valsecchi,DAMS,1,1.0,247,24.9,5,False,96,0.615,1.000,High
+2015,GP2,Dean Stoneman,Dean Stoneman,Carlin,24,24.0,1,24.4,1,False,38,-0.108,0.250,Low
+2022,F2,Dennis Hauger,Dennis Hauger,Prema Racing,10,10.0,115,18.8,1,False,61,-0.042,0.700,High
+2023,F2,Dennis Hauger,Dennis Hauger,MP Motorsport,8,8.0,113,19.8,2,False,84,0.266,0.500,High
+2024,F2,Dennis Hauger,Dennis Hauger,MP Motorsport,11,11.0,85.5,20.8,3,False,56,-0.114,0.700,High
+2008,GP2,Diego Nunes (racing driver),Diego Nunes,DPR,22,22.0,3,21.5,1,False,62,0.039,0.000,High
+2009,GP2,Diego Nunes (racing driver),Diego Nunes,iSport International,20,20.0,8,22.5,2,False,18,-0.260,0.667,High
+2024,F2,Dino Beganovic,Dino Beganovic,DAMS Lucas Oil,20,20.0,22,20.0,1,False,11,-0.625,0.500,Low
+2025,F2,Dino Beganovic,Dino Beganovic,Hitech TGR,7,7.0,116,21.0,2,False,52,-0.218,0.900,High
+2026,F2,Dino Beganovic,Dino Beganovic,DAMS Lucas Oil,5,5.0,137,22.0,3,True,92,0.488,0.600,High
+2018,F2,Dorian Boccolacci,Dorian Boccolacci,MP Motorsport,21,21.0,3,19.3,1,False,21,-0.261,0.222,Low
+2019,F2,Dorian Boccolacci,Dorian Boccolacci,Campos Racing,14,14.0,30,20.3,2,False,19,-0.485,0.556,Low
+2009,GP2,Edoardo Mortara,Edoardo Mortara,Telmex Arden International,14,14.0,19,22.0,1,False,55,-0.030,0.500,High
+2010,GP2,Edoardo Piscopo,Edoardo Piscopo,Trident Racing,26,26.0,2,21.9,1,False,36,-0.115,0.091,Low
+2026,F2,Emerson Fittipaldi Jr.,Emerson Fittipaldi Jr.,AIX Racing,18,18.0,28,18.8,1,True,60,0.087,0.000,High
+2016,GP2,Emil Bernstorff,Emil Bernstorff,Arden International,25,25.0,0,22.6,1,False,34,-0.055,0.000,Low
+2021,F2,Enzo Fittipaldi,Enzo Fittipaldi,Charouz Racing System,20,20.0,2,19.5,1,False,45,-0.119,0.100,Low
+2022,F2,Enzo Fittipaldi,Enzo Fittipaldi,Charouz Racing System,8,8.0,126,20.5,2,False,93,0.475,0.300,High
+2023,F2,Enzo Fittipaldi,Enzo Fittipaldi,Rodin Carlin,7,7.0,124,21.5,3,False,74,0.138,0.800,High
+2024,F2,Enzo Fittipaldi,Enzo Fittipaldi,Van Amersfoort Racing,15,15.0,61,22.5,4,False,83,0.205,0.000,High
+2005,GP2,E. J. Viso,Ernesto Viso,BCN Competición,11,11.0,21,19.8,1,False,70,0.058,0.273,High
+2006,GP2,E. J. Viso,Ernesto Viso,iSport International,6,6.0,42,20.8,2,False,54,-0.193,0.833,High
+2007,GP2,E. J. Viso,Ernesto Viso,Racing Engineering,29,29.0,0,21.8,3,False,5,-0.580,0.583,Low
+2011,GP2,Esteban Gutiérrez,Esteban Gutiérrez,Lotus ART,13,13.0,15,19.4,1,False,23,-0.427,0.750,High
+2012,GP2,Esteban Gutiérrez,Esteban Gutiérrez,Lotus GP,3,3.0,176,20.4,2,False,78,0.065,0.917,High
+2010,GP2,Fabio Leimer,Fabio Leimer,Ocean Racing Technology,19,19.0,8,20.7,1,False,67,0.057,0.000,High
+2011,GP2,Fabio Leimer,Fabio Leimer,Rapax,14,14.0,15,21.7,2,False,72,0.169,0.333,High
+2012,GP2,Fabio Leimer,Fabio Leimer,Racing Engineering,7,7.0,152,22.7,3,False,86,0.372,0.750,High
+2013,GP2,Fabio Leimer,Fabio Leimer,Racing Engineering,1,1.0,201,23.7,4,False,99,0.692,0.833,High
+2012,GP2,Fabio Onidi,Fabio Onidi,Scuderia Coloni,20,20.0,13,23.8,1,False,32,-0.267,0.333,High
+2010,GP2,Fabrizio Crestani,Fabrizio Crestani,DPR,30,30.0,0,22.0,1,False,12,-0.322,0.364,Low
+2012,GP2,Fabrizio Crestani,Fabrizio Crestani,Venezuela GP Lazarus,24,24.0,1,24.0,2,False,57,0.004,0.000,Low
+2013,GP2,Fabrizio Crestani,Fabrizio Crestani,Venezuela GP Lazarus,33,33.0,0,25.0,3,False,35,-0.060,0.000,Low
+2014,GP2,Facu Regalia,Facu Regalia,Hilmer Motorsport,31,31.0,0,22.1,1,False,30,-0.120,0.083,Low
+2005,GP2,Fairuz Fauzy,Fairuz Fauzy,DAMS,24,24.0,0,22.2,1,False,13,-0.300,0.364,High
+2006,GP2,Fairuz Fauzy,Fairuz Fauzy,Super Nova International,24,24.0,0,23.2,2,False,18,-0.263,0.417,High
+2011,GP2,Fairuz Fauzy,Fairuz Fauzy,Super Nova Racing,18,18.0,5,28.2,3,False,9,-0.618,0.667,High
+2010,GP2,Federico Leo,Federico Leo,Trident Racing,32,32.0,0,21.3,1,False,24,-0.161,0.091,Low
+2020,F2,Felipe Drugovich,Felipe Drugovich,MP Motorsport,9,9.0,121,19.6,1,False,86,0.367,0.500,High
+2021,F2,Felipe Drugovich,Felipe Drugovich,UNI-Virtuosi Racing,8,8.0,105,20.6,2,False,37,-0.309,0.900,High
+2022,F2,Felipe Drugovich,Felipe Drugovich,MP Motorsport,1,1.0,265,21.6,3,False,99,0.849,1.000,High
+2012,GP2,Felipe Nasr,Felipe Nasr,DAMS,10,10.0,95,19.4,1,False,17,-0.615,1.000,High
+2013,GP2,Felipe Nasr,Felipe Nasr,Carlin,4,4.0,154,20.4,2,False,80,0.174,1.000,High
+2014,GP2,Felipe Nasr,Felipe Nasr,Carlin,3,3.0,224,21.4,3,False,94,0.565,0.917,High
+2005,GP2,Ferdinando Monfardini,Ferdinando Monfardini,Durango,17,17.0,5,20.1,1,False,54,-0.075,0.091,Medium
+2006,GP2,Ferdinando Monfardini,Ferdinando Monfardini,DAMS,21,21.0,6,21.1,2,False,50,-0.018,0.167,High
+2007,GP2,Filipe Albuquerque,Filipe Albuquerque,Arden International,32,32.0,0,21.6,1,False,6,-0.500,0.500,Low
+2006,GP2,Franck Perera,Franck Perera,DAMS,16,16.0,8,21.8,1,False,63,0.018,0.167,High
+2009,GP2,Franck Perera,Franck Perera,DPR,28,28.0,0,24.8,2,False,40,0.000,0.000,Low
+2023,F2,Franco Colapinto,Franco Colapinto,MP Motorsport,25,25.0,0,19.6,1,False,1,-0.847,0.500,Low
+2024,F2,Franco Colapinto,Franco Colapinto,MP Motorsport,9,9.0,96,20.6,2,False,65,-0.016,0.700,Low
+2022,F2,Frederik Vesti,Frederik Vesti,ART Grand Prix,9,9.0,117,20.0,1,False,52,-0.177,0.800,High
+2023,F2,Frederik Vesti,Frederik Vesti,Prema Racing,2,2.0,192,21.0,2,False,89,0.305,0.900,High
+2006,GP2,Félix Porteiro,Félix Porteiro,Campos Racing,22,22.0,5,22.4,1,False,52,-0.018,0.083,High
+2024,F2,Gabriel Bortoleto,Gabriel Bortoleto,Invicta Racing,1,1.0,214.5,19.2,1,False,96,0.655,1.000,High
+2024,F2,Gabriele Minì,Gabriele Minì,Prema Racing,27,27.0,6,18.8,1,False,1,-0.848,0.600,Low
+2025,F2,Gabriele Minì,Gabriele Minì,Prema Racing,13,13.0,72,19.8,2,False,56,-0.090,0.500,High
+2026,F2,Gabriele Minì,Gabriele Minì,MP Motorsport,4,4.0,163,20.8,3,True,95,0.609,0.700,High
+2018,F2,George Russell (racing driver),George Russell,ART Grand Prix,1,1.0,287,19.9,1,False,99,0.780,0.889,High
+2008,GP2,Giacomo Ricci,Giacomo Ricci,DPR,31,31.0,0,22.8,1,False,38,-0.039,0.000,Low
+2009,GP2,Giacomo Ricci,Giacomo Ricci,DPR,27,27.0,0,23.8,2,False,42,0.000,0.000,Low
+2010,GP2,Giacomo Ricci,Giacomo Ricci,DPR,13,13.0,16,24.8,3,False,66,0.046,0.364,Low
+2012,GP2,Giancarlo Serenelli,Giancarlo Serenelli,Venezuela GP Lazarus,33,33.0,0,30.5,1,False,36,-0.004,0.000,High
+2021,F2,Gianluca Petecof,Gianluca Petecof,Campos Racing,27,27.0,0,18.1,1,False,16,-0.240,0.300,Low
+2013,GP2,Gianmarco Raimondo,Gianmarco Raimondo,Trident Racing,30,30.0,0,22.1,1,False,25,-0.244,0.167,Low
+2005,GP2,Gianmaria Bruni,Gianmaria Bruni,Coloni Motorsport,10,10.0,35,23.6,1,False,78,0.267,0.455,Medium
+2006,GP2,Gianmaria Bruni,Gianmaria Bruni,Trident Racing,7,7.0,33,24.6,2,False,75,0.184,0.667,High
+2009,GP2,Giedo van der Garde,Giedo van der Garde,iSport International,7,7.0,34,23.7,1,False,79,0.260,0.667,High
+2010,GP2,Giedo van der Garde,Giedo van der Garde,Barwa Addax Team,7,7.0,39,24.7,2,False,39,-0.368,0.909,High
+2011,GP2,Giedo van der Garde,Giedo van der Garde,Barwa Addax Team,5,5.0,49,25.7,3,False,64,-0.034,1.000,High
+2012,GP2,Giedo van der Garde,Giedo van der Garde,Caterham Racing,6,6.0,160,26.7,4,False,96,0.623,0.500,High
+2005,GP2,Giorgio Mondini,Giorgio Mondini,DPR,26,26.0,0,24.5,1,False,19,-0.183,0.182,Low
+2005,GP2,Giorgio Pantano,Giorgio Pantano,Super Nova International,6,6.0,49,25.9,1,False,62,-0.033,0.818,High
+2006,GP2,Giorgio Pantano,Giorgio Pantano,FMS International (1–2) Petrol Ofisi FMS International (3–11),5,5.0,44,26.9,2,False,87,0.386,0.583,Low
+2007,GP2,Giorgio Pantano,Giorgio Pantano,Campos Grand Prix,3,3.0,59,27.9,3,False,90,0.432,0.833,High
+2008,GP2,Giorgio Pantano,Giorgio Pantano,Racing Engineering,1,1.0,76,28.9,4,False,100,0.895,0.750,High
+2019,F2,Giuliano Alesi,Giuliano Alesi,Trident,15,15.0,20,19.3,1,False,70,0.064,0.000,High
+2020,F2,Giuliano Alesi,Giuliano Alesi,BWT HWA Racelab,17,17.0,12,20.3,2,False,59,0.033,0.100,Medium
+2019,F2,Zhou Guanyu,Guanyu Zhou,UNI-Virtuosi Racing,7,7.0,140,19.6,1,False,48,-0.252,0.889,High
+2020,F2,Zhou Guanyu,Guanyu Zhou,UNI-Virtuosi Racing,6,6.0,151.5,20.6,2,False,58,-0.230,0.900,High
+2021,F2,Zhou Guanyu,Guanyu Zhou,UNI-Virtuosi Racing,3,3.0,183,21.6,3,False,86,0.309,0.900,High
+2020,F2,Guilherme Samaia,Guilherme Samaia,Campos Racing,24,24.0,0,23.2,1,False,20,-0.223,0.200,High
+2021,F2,Guilherme Samaia,Guilherme Samaia,Charouz Racing System,24,24.0,0,24.2,2,False,33,-0.135,0.100,High
+2015,GP2,Gustav Malja,Gustav Malja,Rapax,25,25.0,1,19.2,1,False,9,-0.463,0.583,Low
+2016,GP2,Gustav Malja,Gustav Malja,Rapax,13,13.0,53,20.2,2,False,66,-0.005,0.200,High
+2017,F2,Gustav Malja,Gustav Malja,Racing Engineering,13,13.0,44,21.2,3,False,72,0.099,0.222,High
+2005,GP2,Heikki Kovalainen,Heikki Kovalainen,Arden International,2,2.0,105,23.2,1,False,97,0.700,0.909,High
+2005,GP2,Hiroki Yoshimoto,Hiroki Yoshimoto,BCN Competición,16,16.0,14,24.3,1,False,51,-0.058,0.273,High
+2006,GP2,Hiroki Yoshimoto,Hiroki Yoshimoto,BCN Competición,15,15.0,12,25.3,2,False,61,0.044,0.333,High
+2026,F2,Hiyu Yamakoshi,Hiyu Yamakoshi,Van Amersfoort Racing,23,23.0,2,19.2,1,True,15,-0.266,0.200,Low
+2007,GP2,Ho-Pin Tung,Ho-Pin Tung,BCN Competición,23,23.0,4,24.1,1,False,64,0.045,0.000,High
+2008,GP2,Ho-Pin Tung,Ho-Pin Tung,Trident Racing,18,18.0,7,25.1,2,False,45,-0.171,0.333,High
+2010,GP2,Ho-Pin Tung,Ho-Pin Tung,DAMS,28,28.0,0,27.1,3,False,7,-0.402,0.545,Medium
+2023,F2,Isack Hadjar,Isack Hadjar,Hitech Pulse-Eight,14,14.0,55,18.3,1,False,60,-0.010,0.300,High
+2024,F2,Isack Hadjar,Isack Hadjar,Campos Racing,2,2.0,192,19.3,2,False,95,0.606,0.900,High
+2018,F2,Jack Aitken,Jack Aitken,ART Grand Prix,11,11.0,63,22.3,1,False,6,-0.780,0.889,High
+2019,F2,Jack Aitken,Jack Aitken,Campos Racing,5,5.0,159,23.3,2,False,93,0.485,0.556,High
+2020,F2,Jack Aitken,Jack Aitken,Campos Racing,14,14.0,48,24.3,3,False,75,0.223,0.200,High
+2021,F2,Jack Aitken,Jack Aitken,HWA Racelab,23,23.0,0,25.3,4,False,47,-0.032,0.000,Low
+2021,F2,Jack Doohan,Jack Doohan,MP Motorsport,19,19.0,7,17.9,1,False,24,-0.246,0.500,Low
+2022,F2,Jack Doohan,Jack Doohan,Virtuosi Racing,6,6.0,128,18.9,2,False,92,0.460,0.400,High
+2023,F2,Jack Doohan,Jack Doohan,Invicta Virtuosi Racing,3,3.0,168,19.9,3,False,99,0.788,0.600,High
+2023,F2,Jak Crawford,Jak Crawford,Hitech Pulse-Eight,13,13.0,57,17.7,1,False,64,0.010,0.300,High
+2024,F2,Jak Crawford,Jak Crawford,DAMS Lucas Oil,5,5.0,125,18.7,2,False,90,0.336,0.500,High
+2025,F2,Jak Crawford,Jak Crawford,DAMS Lucas Oil,2,2.0,175,19.7,3,False,98,0.678,0.700,High
+2020,F2,Jake Hughes,Jake Hughes,BWT HWA Racelab,23,23.0,0,25.6,1,False,32,-0.079,0.100,Low
+2021,F2,Jake Hughes,Jake Hughes,HWA Racelab,18,18.0,8,26.6,2,False,64,0.032,0.000,Low
+2022,F2,Jake Hughes,Jake Hughes,Van Amersfoort Racing,16,16.0,26,27.6,3,False,59,-0.094,0.100,Low
+2012,GP2,Jake Rosenzweig,Jake Rosenzweig,Barwa Addax Team,32,32.0,0,22.7,1,False,5,-0.530,0.417,Low
+2013,GP2,Jake Rosenzweig,Jake Rosenzweig,Barwa Addax Team,28,28.0,0,23.7,2,False,37,-0.109,0.083,High
+2012,GP2,James Calado,James Calado,Lotus GP,5,5.0,160,22.6,1,False,67,-0.065,0.917,High
+2013,GP2,James Calado,James Calado,ART Grand Prix,3,3.0,157,23.6,2,False,98,0.726,0.667,High
+2010,GP2,James Jakes,James Jakes,Scuderia Coloni,31,31.0,0,22.4,1,False,19,-0.207,0.182,Low
+2025,F2,James Wharton (racing driver),James Wharton,Trident,27,27.0,0,18.5,1,False,34,-0.009,0.000,Low
+2015,GP2,Jann Mardenborough,Jann Mardenborough,Carlin,35,35.0,0,23.3,1,False,20,-0.114,0.250,Low
+2006,GP2,Jason Tahincioğlu,Jason Tahinci,FMS International (1–2) Petrol Ofisi FMS International (3–11),30,30.0,0,22.2,1,False,4,-0.386,0.583,High
+2007,GP2,Jason Tahincioğlu,Jason Tahinci,Petrol Ofisi FMS International,33,33.0,0,23.2,2,False,9,-0.420,0.333,High
+2006,GP2,Javier Villa,Javier Villa,Racing Engineering,26,26.0,0,18.2,1,False,13,-0.289,0.500,High
+2007,GP2,Javier Villa,Javier Villa,Racing Engineering,6,6.0,42,19.2,2,False,88,0.375,0.583,High
+2008,GP2,Javier Villa,Javier Villa,Racing Engineering,17,17.0,8,20.2,3,False,4,-0.895,0.750,High
+2009,GP2,Javier Villa,Javier Villa,Super Nova Racing,10,10.0,27,21.2,4,False,45,-0.130,0.833,High
+2020,F2,Jehan Daruvala,Jehan Daruvala,Carlin,12,12.0,72,21.3,1,False,15,-0.595,0.800,High
+2021,F2,Jehan Daruvala,Jehan Daruvala,Carlin,7,7.0,113,22.3,2,False,56,-0.184,0.800,High
+2022,F2,Jehan Daruvala,Jehan Daruvala,Prema Racing,7,7.0,126,23.3,3,False,71,0.042,0.700,High
+2023,F2,Jehan Daruvala,Jehan Daruvala,MP Motorsport,12,12.0,59,24.3,4,False,41,-0.266,0.500,High
+2016,GP2,Jimmy Eriksson,Jimmy Eriksson,Arden International,20,20.0,10,24.8,1,False,57,0.037,0.000,High
+2024,F2,John Bennett (racing driver),John Bennett,Van Amersfoort Racing,28,28.0,4,20.3,1,False,26,-0.326,0.000,Low
+2025,F2,John Bennett (racing driver),John Bennett,Van Amersfoort Racing,22,22.0,1,21.3,2,False,30,-0.199,0.100,High
+2026,F2,John Bennett (racing driver),John Bennett,Trident,14,14.0,38,22.3,3,True,34,-0.251,0.400,High
+2009,GP2,Johnny Cecotto Jr.,Johnny Cecotto Jr.,DPR,30,30.0,0,19.3,1,False,35,0.000,0.000,Low
+2010,GP2,Johnny Cecotto Jr.,Johnny Cecotto Jr.,Trident Racing,23,23.0,3,20.3,2,False,46,-0.092,0.091,High
+2011,GP2,Johnny Cecotto Jr.,Johnny Cecotto Jr.,Ocean Racing Technology,24,24.0,0,21.3,3,False,46,-0.045,0.083,High
+2012,GP2,Johnny Cecotto Jr.,Johnny Cecotto Jr.,Barwa Addax Team,9,9.0,104,22.3,4,False,86,0.312,0.417,High
+2013,GP2,Johnny Cecotto Jr.,Johnny Cecotto Jr.,Arden International,16,16.0,41,23.3,5,False,57,-0.075,0.417,High
+2014,GP2,Johnny Cecotto Jr.,Johnny Cecotto Jr.,Trident,5,5.0,140,24.3,6,False,90,0.402,0.583,High
+2015,GP2,Johnny Cecotto Jr.,Johnny Cecotto Jr.,Trident,28,28.0,0,25.3,7,False,14,-0.328,0.500,Low
+2016,GP2,Johnny Cecotto Jr.,Johnny Cecotto Jr.,Rapax,18,18.0,18,26.3,8,False,29,-0.324,0.200,Low
+2017,F2,Johnny Cecotto Jr.,Johnny Cecotto Jr.,Rapax,16,16.0,16,27.3,9,False,20,-0.404,0.556,Low
+2011,GP2,Jolyon Palmer,Jolyon Palmer,Arden International,28,28.0,0,19.9,1,False,21,-0.169,0.333,High
+2012,GP2,Jolyon Palmer,Jolyon Palmer,iSport International,11,11.0,78,20.9,2,False,56,-0.186,0.583,High
+2013,GP2,Jolyon Palmer,Jolyon Palmer,Carlin,7,7.0,119,21.9,3,False,55,-0.174,1.000,High
+2014,GP2,Jolyon Palmer,Jolyon Palmer,DAMS,1,1.0,276,22.9,4,False,98,0.736,1.000,High
+2012,GP2,Jon Lancaster,Jon Lancaster,Ocean Racing Technology,34,34.0,0,23.1,1,False,27,-0.105,0.083,Low
+2013,GP2,Jon Lancaster,Jon Lancaster,Hilmer Motorsport,11,11.0,73,24.1,2,False,75,0.119,0.500,Low
+2014,GP2,Jon Lancaster,Jon Lancaster,Hilmer Motorsport,23,23.0,6,25.1,3,False,51,-0.076,0.083,Low
+2015,GP2,Jon Lancaster,Jon Lancaster,Hilmer Motorsport,32,32.0,0,26.1,4,False,33,-0.056,0.083,Low
+2015,GP2,Jordan King,Jordan King,Racing Engineering,12,12.0,60,20.8,1,False,25,-0.356,0.917,High
+2016,GP2,Jordan King,Jordan King,Racing Engineering,7,7.0,122,21.8,2,False,60,-0.064,0.900,High
+2017,F2,Jordan King,Jordan King,MP Motorsport,11,11.0,62,22.8,3,False,66,0.053,0.444,High
+2019,F2,Jordan King,Jordan King,MP Motorsport,9,9.0,79,24.8,4,False,86,0.293,0.222,High
+2010,GP2,Josef Král,Josef Král,Super Nova Racing,24,24.0,3,19.5,1,False,31,-0.149,0.273,Low
+2011,GP2,Josef Král,Josef Král,Arden International,15,15.0,15,20.5,2,False,70,0.169,0.333,High
+2012,GP2,Josef Král,Josef Král,Barwa Addax Team,17,17.0,27,21.5,3,False,34,-0.312,0.417,Low
+2023,F2,Josh Mason,Josh Mason,PHM Racing by Charouz (1–12) PHM Racing (13),23,23.0,0,20.8,1,False,41,0.000,0.000,Low
+2024,F2,Joshua Dürksen,Joshua Dürksen,PHM AIX Racing (1–3) AIX Racing (4–14),10,10.0,87,20.2,1,False,91,0.322,0.100,High
+2025,F2,Joshua Dürksen,Joshua Dürksen,AIX Racing,9,9.0,107,21.2,2,False,94,0.507,0.200,High
+2026,F2,Joshua Dürksen,Joshua Dürksen,Invicta Racing,8,8.0,90,22.2,3,True,21,-0.565,0.900,High
+2005,GP2,José María López,José María López,DAMS,9,9.0,36,21.7,1,False,82,0.300,0.364,High
+2006,GP2,José María López,José María López,Super Nova International,10,10.0,30,22.7,2,False,80,0.263,0.417,High
+2005,GP2,Juan Cruz Álvarez,Juan Cruz Álvarez,Campos Racing,18,18.0,4.5,19.1,1,False,59,0.013,0.000,High
+2019,F2,Juan Manuel Correa,Juan Manuel Correa,Sauber Junior Team by Charouz,13,13.0,36,19.4,1,False,47,-0.143,0.444,High
+2022,F2,Juan Manuel Correa,Juan Manuel Correa,Van Amersfoort Racing,27,27.0,0,22.4,2,False,20,-0.291,0.100,Low
+2023,F2,Juan Manuel Correa,Juan Manuel Correa,Van Amersfoort Racing,19,19.0,13,23.4,3,False,14,-0.468,0.400,High
+2024,F2,Juan Manuel Correa,Juan Manuel Correa,DAMS Lucas Oil,18,18.0,31,24.4,4,False,17,-0.541,0.500,High
+2010,GP2,Jules Bianchi,Jules Bianchi,ART Grand Prix,3,3.0,52,20.4,1,False,77,0.046,0.818,High
+2011,GP2,Jules Bianchi,Jules Bianchi,Lotus ART,3,3.0,53,21.4,2,False,90,0.427,0.750,High
+2011,GP2,Julián Leal,Julián Leal,Rapax,27,27.0,0,20.6,1,False,23,-0.169,0.333,High
+2012,GP2,Julián Leal,Julián Leal,Trident Racing,21,21.0,9,21.6,2,False,47,-0.065,0.250,High
+2013,GP2,Julián Leal,Julián Leal,Racing Engineering,12,12.0,62,22.6,3,False,15,-0.692,0.833,High
+2014,GP2,Julián Leal,Julián Leal,Carlin,10,10.0,68,23.6,4,False,18,-0.565,0.917,High
+2015,GP2,Julián Leal,Julián Leal,Carlin,14,14.0,38,24.6,5,False,73,0.108,0.250,Low
+2008,GP2,Jérôme d'Ambrosio,Jérôme d'Ambrosio,DAMS,11,11.0,21,22.0,1,False,76,0.145,0.417,High
+2009,GP2,Jérôme d'Ambrosio,Jérôme d'Ambrosio,DAMS,9,9.0,29,23.0,2,False,71,0.160,0.667,High
+2010,GP2,Jérôme d'Ambrosio,Jérôme d'Ambrosio,DAMS,12,12.0,21,24.0,3,False,65,0.080,0.545,High
+2020,F2,Jüri Vips,Jüri Vips,DAMS,16,16.0,16,19.4,1,False,27,-0.388,0.300,Low
+2021,F2,Jüri Vips,Jüri Vips,Hitech Grand Prix,6,6.0,120,20.4,2,False,74,0.067,0.700,High
+2022,F2,Jüri Vips,Jüri Vips,Hitech Grand Prix,11,11.0,114,21.4,3,False,68,0.079,0.600,High
+2008,GP2,Kamui Kobayashi,Kamui Kobayashi,DAMS,16,16.0,10,21.3,1,False,48,-0.145,0.417,High
+2009,GP2,Kamui Kobayashi,Kamui Kobayashi,DAMS,16,16.0,13,22.3,2,False,31,-0.160,0.667,High
+2007,GP2,Karun Chandhok,Karun Chandhok,Durango,15,15.0,16,23.0,1,False,51,-0.136,0.500,High
+2008,GP2,Karun Chandhok,Karun Chandhok,iSport International,10,10.0,31,24.0,2,False,29,-0.434,0.917,High
+2009,GP2,Karun Chandhok,Karun Chandhok,Ocean Racing Technology,18,18.0,10,25.0,3,False,37,-0.200,0.333,High
+2007,GP2,Kazuki Nakajima,Kazuki Nakajima,DAMS,5,5.0,44,22.0,1,False,84,0.239,0.667,High
+2011,GP2,Kevin Ceccon,Kevin Ceccon,Scuderia Coloni,30,30.0,0,17.3,1,False,38,-0.011,0.000,Low
+2013,GP2,Kevin Ceccon,Kevin Ceccon,Trident Racing,17,17.0,28,19.3,2,False,67,0.035,0.167,Low
+2013,GP2,Kevin Giovesi,Kevin Giovesi,Venezuela GP Lazarus,29,29.0,0,19.1,1,False,43,-0.060,0.000,Low
+2014,GP2,Kevin Giovesi,Kevin Giovesi,Rapax,33,33.0,0,20.1,2,False,15,-0.203,0.333,Low
+2011,GP2,Kevin Mirocha,Kevin Mirocha,Ocean Racing Technology,22,22.0,0,19.2,1,False,52,-0.045,0.083,High
+2014,GP2,Kimiya Sato,Kimiya Sato,Campos Racing,27,27.0,2,24.2,1,False,9,-0.442,0.500,High
+2007,GP2,Kohei Hirate,Kohei Hirate,Trident Racing,19,19.0,9,20.8,1,False,47,-0.193,0.250,High
+2023,F2,Kush Maini,Kush Maini,Campos Racing,11,11.0,62,22.3,1,False,76,0.123,0.200,High
+2024,F2,Kush Maini,Kush Maini,Invicta Racing,13,13.0,74,23.3,2,False,10,-0.655,1.000,High
+2025,F2,Kush Maini,Kush Maini,DAMS Lucas Oil,16,16.0,32,24.3,3,False,7,-0.678,0.700,High
+2026,F2,Kush Maini,Kush Maini,ART Grand Prix,9,9.0,90,25.3,4,True,72,0.092,0.500,High
+2017,F2,Lando Norris,Lando Norris,Campos Racing,25,25.0,0,17.1,1,False,41,-0.060,0.000,Low
+2018,F2,Lando Norris,Lando Norris,Carlin,2,2.0,219,18.1,2,False,82,0.192,1.000,High
+2025,F2,Laurens van Hoepen,Laurens van Hoepen,Trident,25,25.0,0,19.3,1,False,40,-0.009,0.000,Low
+2026,F2,Laurens van Hoepen,Laurens van Hoepen,Trident,10,10.0,90,20.3,2,True,80,0.251,0.400,High
+2024,F2,Leonardo Fornaroli,Leonardo Fornaroli,Rodin Motorsport,29,29.0,0,19.1,1,False,3,-0.797,0.300,Low
+2025,F2,Leonardo Fornaroli,Leonardo Fornaroli,Invicta Racing,1,1.0,211,20.1,2,False,94,0.502,1.000,High
+2006,GP2,Lewis Hamilton,Lewis Hamilton,ART Grand Prix,1,1.0,114,21.0,1,False,92,0.421,1.000,High
+2021,F2,Liam Lawson,Liam Lawson,Hitech Grand Prix,9,9.0,103,18.9,1,False,60,-0.067,0.700,High
+2022,F2,Liam Lawson,Liam Lawson,Carlin,3,3.0,149,19.9,2,False,72,0.004,0.900,High
+2021,F2,Lirim Zendeli,Lirim Zendeli,MP Motorsport,17,17.0,13,21.2,1,False,30,-0.198,0.500,High
+2022,F2,Lirim Zendeli,Lirim Zendeli,Campos Racing,29,29.0,0,22.2,2,False,22,-0.253,0.000,Low
+2021,F2,Logan Sargeant,Logan Sargeant,HWA Racelab,29,29.0,0,20.0,1,False,32,-0.032,0.000,Low
+2022,F2,Logan Sargeant,Logan Sargeant,Carlin,4,4.0,148,21.0,2,False,70,-0.004,0.900,High
+2016,GP2,Louis Delétraz,Louis Delétraz,Carlin,26,26.0,0,18.7,1,False,22,-0.174,0.100,Low
+2017,F2,Louis Delétraz,Louis Delétraz,Racing Engineering,17,17.0,16,19.7,2,False,50,-0.099,0.222,Medium
+2018,F2,Louis Delétraz,Louis Delétraz,Charouz Racing System,10,10.0,74,20.7,3,False,50,-0.233,0.444,High
+2019,F2,Louis Delétraz,Louis Delétraz,Carlin,8,8.0,92,21.7,4,False,54,-0.195,0.667,High
+2020,F2,Louis Delétraz,Louis Delétraz,Charouz Racing System,8,8.0,134,22.7,5,False,95,0.609,0.400,High
+2006,GP2,Luca Filippi,Luca Filippi,BCN Competición,19,19.0,7,20.4,1,False,45,-0.044,0.333,Medium
+2007,GP2,Luca Filippi,Luca Filippi,Super Nova International,4,4.0,59,21.4,2,False,91,0.455,0.750,High
+2008,GP2,Luca Filippi,Luca Filippi,ART Grand Prix,19,19.0,6,22.4,3,False,6,-0.776,0.667,Medium
+2009,GP2,Luca Filippi,Luca Filippi,Super Nova Racing,5,5.0,40,23.4,4,False,73,0.130,0.833,High
+2010,GP2,Luca Filippi,Luca Filippi,Super Nova Racing,20,20.0,5,24.4,5,False,44,-0.103,0.273,Low
+2011,GP2,Luca Filippi,Luca Filippi,Super Nova Racing,2,2.0,54,25.4,6,False,94,0.483,0.667,Medium
+2012,GP2,Luca Filippi,Luca Filippi,Scuderia Coloni,16,16.0,29,26.4,7,False,53,-0.138,0.333,Low
+2016,GP2,Luca Ghiotto,Luca Ghiotto,Trident,8,8.0,111,20.9,1,False,93,0.507,0.300,High
+2017,F2,Luca Ghiotto,Luca Ghiotto,Russian Time,4,4.0,185,21.9,2,False,65,-0.089,1.000,High
+2018,F2,Luca Ghiotto,Luca Ghiotto,Campos Vexatec Racing,8,8.0,111,22.9,3,False,87,0.383,0.333,High
+2019,F2,Luca Ghiotto,Luca Ghiotto,UNI-Virtuosi Racing,3,3.0,207,23.9,4,False,85,0.252,0.889,High
+2020,F2,Luca Ghiotto,Luca Ghiotto,Hitech Grand Prix,10,10.0,106,24.9,5,False,46,-0.270,0.700,High
+2022,F2,Luca Ghiotto,Luca Ghiotto,DAMS,25,25.0,0,26.9,6,False,4,-0.608,0.500,Low
+2006,GP2,Lucas di Grassi,Lucas di Grassi,Durango,17,17.0,8,21.4,1,False,69,0.061,0.000,High
+2007,GP2,Lucas di Grassi,Lucas di Grassi,ART Grand Prix,2,2.0,77,22.4,2,False,97,0.761,0.917,High
+2008,GP2,Lucas di Grassi,Lucas di Grassi,Barwa International Campos Team,3,3.0,63,23.4,3,False,85,0.303,1.000,Low
+2009,GP2,Lucas di Grassi,Lucas di Grassi,Fat Burner Racing Engineering,3,3.0,63,24.4,4,False,93,0.590,0.833,High
+2009,GP2,Luiz Razia,Luiz Razia,FMSI (1–6) Party Poker Racing.com SC (7–10),19,19.0,8,19.7,1,False,43,-0.130,0.250,High
+2010,GP2,Luiz Razia,Luiz Razia,Rapax,11,11.0,28,20.7,2,False,12,-0.678,1.000,High
+2011,GP2,Luiz Razia,Luiz Razia,Team AirAsia (1–3) Caterham Team AirAsia (4–9),12,12.0,19,21.7,3,False,56,-0.124,0.500,High
+2012,GP2,Luiz Razia,Luiz Razia,Arden International,2,2.0,222,22.7,4,False,100,0.883,0.833,High
+2024,F2,Luke Browning,Luke Browning,ART Grand Prix,26,26.0,7,21.9,1,False,4,-0.741,0.400,Low
+2025,F2,Luke Browning,Luke Browning,Hitech TGR,4,4.0,162,22.9,2,False,82,0.218,0.900,High
+2013,GP2,Ma Qinghua,Ma Qinghua,Caterham Racing (1–3) EQ8 Caterham Racing (4–11),35,35.0,0,25.0,1,False,6,-0.473,0.333,Low
+2019,F2,Mahaveer Raghunathan,Mahaveer Raghunathan,MP Motorsport,20,20.0,1,20.1,1,False,27,-0.293,0.222,High
+2008,GP2,Marcello Puglisi,Marcello Puglisi,Durango,34,34.0,0,21.6,1,False,22,-0.145,0.167,Low
+2014,GP2,Marco Sørensen,Marco Sørensen,MP Motorsport,11,11.0,47,23.3,1,False,76,0.138,0.333,Low
+2015,GP2,Marco Sørensen,Marco Sørensen,Carlin,33,33.0,0,24.3,2,False,23,-0.114,0.250,Low
+2007,GP2,Marcos Martínez (racing driver),Marcos Martínez,Racing Engineering,22,22.0,5,21.2,1,False,14,-0.466,0.583,Low
+2020,F2,Marcus Armstrong,Marcus Armstrong,ART Grand Prix,13,13.0,52,19.4,1,False,25,-0.451,0.600,High
+2021,F2,Marcus Armstrong,Marcus Armstrong,DAMS,13,13.0,49,20.4,2,False,68,0.131,0.400,High
+2022,F2,Marcus Armstrong,Marcus Armstrong,Hitech Grand Prix,13,13.0,93,21.4,3,False,55,-0.079,0.600,High
+2010,GP2,Marcus Ericsson,Marcus Ericsson,Super Nova Racing,17,17.0,11,19.3,1,False,61,0.034,0.273,High
+2011,GP2,Marcus Ericsson,Marcus Ericsson,iSport International,10,10.0,25,20.3,2,False,40,-0.225,0.833,High
+2012,GP2,Marcus Ericsson,Marcus Ericsson,iSport International,8,8.0,124,21.3,3,False,81,0.186,0.583,High
+2013,GP2,Marcus Ericsson,Marcus Ericsson,DAMS,6,6.0,121,22.3,4,False,78,0.090,0.750,High
+2026,F2,Mari Boya,Mari Boya,Prema Racing,20,20.0,21,21.7,1,True,40,-0.043,0.100,High
+2019,F2,Marino Sato,Marino Sato,Campos Racing,21,21.0,0,19.6,1,False,3,-0.711,0.556,Low
+2020,F2,Marino Sato,Marino Sato,Trident,22,22.0,1,20.6,2,False,45,-0.019,0.000,High
+2021,F2,Marino Sato,Marino Sato,Trident,21,21.0,1,21.6,3,False,36,-0.131,0.200,High
+2022,F2,Marino Sato,Marino Sato,Virtuosi Racing,22,22.0,6,22.6,4,False,13,-0.460,0.400,High
+2008,GP2,Marko Asmer,Marko Asmer,Fisichella Motor Sport International,29,29.0,0,23.4,1,False,24,-0.197,0.250,Low
+2007,GP2,Markus Niemelä,Markus Niemelä,BCN Competición,31,31.0,0,22.8,1,False,42,-0.045,0.000,Low
+2015,GP2,Marlon Stöckinger,Marlon Stöckinger,Status Grand Prix,26,26.0,0,23.7,1,False,26,-0.176,0.417,High
+2025,F2,Martinius Stenshorne,Martinius Stenshorne,Rodin Motorsport,20,20.0,2,18.9,1,False,6,-0.716,0.400,Low
+2026,F2,Martinius Stenshorne,Martinius Stenshorne,Rodin Motorsport,7,7.0,107,19.9,2,True,39,-0.396,0.800,High
+2016,GP2,Marvin Kirchhöfer,Marvin Kirchhöfer,Carlin,17,17.0,21,21.8,1,False,60,0.018,0.100,High
+2019,F2,Matevos Isaakyan,Matevos Isaakyan,Sauber Junior Team by Charouz,25,25.0,0,20.7,1,False,7,-0.414,0.444,Low
+2005,GP2,Mathias Lauda,Mathias Lauda,Coloni Motorsport,21,21.0,3,23.9,1,False,16,-0.267,0.455,High
+2021,F2,Matteo Nannini,Matteo Nannini,Campos Racing,22,22.0,1,17.5,1,False,26,-0.232,0.300,Low
+2010,GP2,Max Chilton,Max Chilton,Ocean Racing Technology,25,25.0,3,18.7,1,False,48,-0.057,0.000,High
+2011,GP2,Max Chilton,Max Chilton,Carlin,20,20.0,4,19.7,2,False,54,-0.045,0.167,High
+2012,GP2,Max Chilton,Max Chilton,Carlin,4,4.0,169,20.7,3,False,94,0.530,0.667,High
+2024,F2,Max Esterson,Max Esterson,Trident,31,31.0,0,21.2,1,False,6,-0.606,0.200,Low
+2025,F2,Max Esterson,Max Esterson,Trident,23,23.0,0,22.2,2,False,45,-0.009,0.000,High
+2018,F2,Maximilian Günther,Maximilian Günther,BWT Arden,14,14.0,41,20.5,1,False,67,0.084,0.111,High
+2015,GP2,Meindert van Buuren,Meindert van Buuren,MP Motorsport,—,,0,20.0,1,False,34,-0.012,0.000,Low
+2006,GP2,Michael Ammermüller,Michael Ammermüller,Arden International Ltd,11,11.0,25,19.9,1,False,49,-0.061,0.750,High
+2007,GP2,Michael Ammermüller,Michael Ammermüller,ART Grand Prix,26,26.0,1,20.9,2,False,0,-0.966,0.917,Low
+2008,GP2,Michael Herck,Michael Herck,DPR,30,30.0,0,19.4,1,False,41,-0.039,0.000,Low
+2009,GP2,Michael Herck,Michael Herck,DPR,23,23.0,0,20.4,2,False,53,0.000,0.000,High
+2010,GP2,Michael Herck,Michael Herck,DPR,16,16.0,12,21.4,3,False,57,-0.046,0.364,High
+2011,GP2,Michael Herck,Michael Herck,Scuderia Coloni,21,21.0,1,22.4,4,False,60,0.011,0.000,High
+2019,F2,Mick Schumacher,Mick Schumacher,Prema Racing,12,12.0,53,19.8,1,False,78,0.143,0.111,High
+2020,F2,Mick Schumacher,Mick Schumacher,Prema Racing,1,1.0,215,20.8,2,False,87,0.177,1.000,High
+2006,GP2,Mike Conway,Mike Conway,"DPR (1–2, 8–11) DPR Direxiv (3–7)",29,29.0,0,22.4,1,False,20,-0.158,0.250,Low
+2007,GP2,Mike Conway,Mike Conway,Super Nova International,14,14.0,19,23.4,2,False,24,-0.455,0.750,High
+2008,GP2,Mike Conway,Mike Conway,Trident Racing,12,12.0,20,24.4,3,False,78,0.171,0.333,High
+2007,GP2,Mikhail Aleshin,Mikhail Aleshin,ART Grand Prix,25,25.0,3,19.6,1,False,1,-0.920,0.917,Low
+2011,GP2,Mikhail Aleshin,Mikhail Aleshin,Carlin,32,32.0,0,23.6,2,False,22,-0.135,0.167,Low
+2008,GP2,Miloš Pavlović (racing driver),Miloš Pavlović,BCN Competición,32,32.0,0,25.2,1,False,31,-0.066,0.083,Low
+2013,GP2,Mitch Evans,Mitch Evans,Arden International,14,14.0,56,18.5,1,False,69,0.075,0.417,High
+2014,GP2,Mitch Evans,Mitch Evans,RT Russian Time,4,4.0,174,19.5,2,False,95,0.609,0.667,High
+2015,GP2,Mitch Evans,Mitch Evans,Russian Time,5,5.0,135,20.5,3,False,83,0.255,0.667,High
+2016,GP2,Mitch Evans,Mitch Evans,Pertamina Campos Racing,12,12.0,90,21.5,4,False,76,0.301,0.500,High
+2016,GP2,Nabil Jeffri,Nabil Jeffri,Arden International,22,22.0,2,22.2,1,False,44,-0.037,0.000,High
+2017,F2,Nabil Jeffri,Nabil Jeffri,Trident,23,23.0,2,23.2,2,False,39,-0.082,0.111,High
+2012,GP2,Nathanaël Berthon,Nathanaël Berthon,Racing Engineering,12,12.0,60,22.5,1,False,30,-0.372,0.750,High
+2013,GP2,Nathanaël Berthon,Nathanaël Berthon,Trident Racing,20,20.0,21,23.5,2,False,59,-0.035,0.167,High
+2014,GP2,Nathanaël Berthon,Nathanaël Berthon,Venezuela GP Lazarus,20,20.0,17,24.5,3,False,67,0.054,0.000,High
+2015,GP2,Nathanaël Berthon,Nathanaël Berthon,Lazarus (1–3) Daiko Team Lazarus (4–11),16,16.0,27,25.5,4,False,60,0.000,0.333,High
+2005,GP2,Neel Jani,Neel Jani,Racing Engineering,7,7.0,48,21.1,1,False,79,0.254,0.636,High
+2006,GP2,Neel Jani,Neel Jani,Arden International Ltd,25,25.0,0,22.1,2,False,4,-0.500,0.750,Low
+2009,GP2,Nelson Panciatici,Nelson Panciatici,Durango,24,24.0,0,20.3,1,False,33,-0.120,0.167,High
+2005,GP2,Nelson Piquet Jr.,Nelson Piquet Jr.,Hitech Piquet Sports,8,8.0,46,19.4,1,False,83,0.350,0.545,High
+2006,GP2,Nelson Piquet Jr.,Nelson Piquet Jr.,Piquet Sports,2,2.0,102,20.4,2,False,98,0.781,0.917,High
+2014,GP2,Nicholas Latifi,Nicholas Latifi,Hilmer Motorsport,32,32.0,0,18.5,1,False,29,-0.120,0.083,Low
+2015,GP2,Nicholas Latifi,Nicholas Latifi,MP Motorsport,27,27.0,0,19.5,2,False,52,-0.012,0.000,Low
+2016,GP2,Nicholas Latifi,Nicholas Latifi,DAMS,16,16.0,23,20.5,3,False,15,-0.461,0.600,High
+2017,F2,Nicholas Latifi,Nicholas Latifi,DAMS,5,5.0,178,21.5,4,False,72,-0.046,0.778,High
+2018,F2,Nicholas Latifi,Nicholas Latifi,DAMS,9,9.0,91,22.5,5,False,29,-0.422,0.778,High
+2019,F2,Nicholas Latifi,Nicholas Latifi,DAMS,2,2.0,214,23.5,6,False,77,0.038,1.000,High
+2015,GP2,Nick Yelloly,Nick Yelloly,Hilmer Motorsport,19,19.0,19,24.1,1,False,66,0.056,0.083,Low
+2009,GP2,Nico Hülkenberg,Nico Hülkenberg,ART Grand Prix,1,1.0,100,21.4,1,False,96,0.640,1.000,High
+2005,GP2,Nico Rosberg,Nico Rosberg,ART Grand Prix,1,1.0,120,19.5,1,False,93,0.442,1.000,High
+2026,F2,Nicolás Varrone,Nico Varrone,Van Amersfoort Racing,21,21.0,15,25.1,1,True,27,-0.140,0.200,High
+2005,GP2,Nicolas Lapierre,Nicolas Lapierre,Arden International,12,12.0,21,20.8,1,False,7,-0.700,0.909,High
+2006,GP2,Nicolas Lapierre,Nicolas Lapierre,Arden International Ltd,9,9.0,32,21.7,2,False,62,0.061,0.750,High
+2007,GP2,Nicolas Lapierre,Nicolas Lapierre,DAMS,12,12.0,23,22.7,3,False,44,-0.239,0.667,High
+2024,F2,Niels Koolen,Niels Koolen,PHM AIX Racing (1–3) AIX Racing (4–14),32,32.0,0,22.6,1,False,10,-0.490,0.100,Low
+2012,GP2,Nigel Melker,Nigel Melker,Ocean Racing Technology,19,19.0,25,20.9,1,False,69,0.097,0.083,High
+2019,F2,Nikita Mazepin,Nikita Mazepin,ART Grand Prix,18,18.0,11,19.8,1,False,1,-0.959,0.778,High
+2020,F2,Nikita Mazepin,Nikita Mazepin,Hitech Grand Prix,5,5.0,164,20.8,2,False,87,0.270,0.700,High
+2018,F2,Niko Kari,Niko Kari,MP Motorsport,24,24.0,0,18.2,1,False,14,-0.282,0.222,Low
+2025,F2,Nikola Tsolov,Nikola Tsolov,Campos Racing,18,18.0,12,18.0,1,False,1,-1.109,0.800,Low
+2026,F2,Nikola Tsolov,Nikola Tsolov,Campos Racing,2,2.0,200,19.0,2,True,88,0.324,1.000,High
+2018,F2,Nirei Fukuzumi,Nirei Fukuzumi,BWT Arden,17,17.0,17,20.9,1,False,47,-0.084,0.111,High
+2015,GP2,Nobuharu Matsushita,Nobuharu Matsushita,ART Grand Prix,9,9.0,68.5,21.2,1,False,8,-0.799,1.000,High
+2016,GP2,Nobuharu Matsushita,Nobuharu Matsushita,ART Grand Prix,11,11.0,92,22.2,2,False,37,-0.306,0.700,High
+2017,F2,Nobuharu Matsushita,Nobuharu Matsushita,ART Grand Prix,6,6.0,131,23.2,3,False,77,0.128,0.667,High
+2019,F2,Nobuharu Matsushita,Nobuharu Matsushita,Carlin,6,6.0,144,25.2,4,False,80,0.195,0.667,High
+2020,F2,Nobuharu Matsushita,Nobuharu Matsushita,MP Motorsport,15,15.0,42,26.2,5,False,27,-0.367,0.500,High
+2026,F2,Noel León,Noel León,Campos Racing,6,6.0,133,21.0,1,True,42,-0.324,1.000,High
+2015,GP2,Norman Nato,Norman Nato,Arden International,18,18.0,20,22.5,1,False,65,0.044,0.167,High
+2016,GP2,Norman Nato,Norman Nato,Racing Engineering,5,5.0,136,23.5,2,False,72,0.064,0.900,High
+2017,F2,Norman Nato,Norman Nato,Pertamina Arden,9,9.0,91,24.5,3,False,84,0.262,0.333,High
+2017,F2,Nyck de Vries,Nyck de Vries,Rapax,7,7.0,114,21.9,1,False,83,0.291,0.556,Medium
+2018,F2,Nyck de Vries,Nyck de Vries,Pertamina Prema Theodore Racing (1–7) Pertamina Prema Racing (8–12),4,4.0,202,22.9,2,False,96,0.603,0.556,High
+2019,F2,Nyck de Vries,Nyck de Vries,ART Grand Prix,1,1.0,266,23.9,3,False,100,0.959,0.778,High
+2023,F2,Oliver Bearman,Oliver Bearman,Prema Racing,6,6.0,130,17.7,1,False,50,-0.305,0.900,High
+2024,F2,Oliver Bearman,Oliver Bearman,Prema Racing,12,12.0,75,18.7,2,False,51,-0.205,0.600,High
+2024,F2,Oliver Goethe,Oliver Goethe,MP Motorsport,23,23.0,14,19.2,1,False,2,-0.781,0.700,Low
+2025,F2,Oliver Goethe,Oliver Goethe,MP Motorsport,15,15.0,37,20.2,2,False,10,-0.630,0.700,High
+2026,F2,Oliver Goethe,Oliver Goethe,MP Motorsport,15,15.0,37,21.2,3,True,8,-0.609,0.700,High
+2015,GP2,Oliver Rowland,Oliver Rowland,MP Motorsport,21,21.0,3,22.4,1,False,62,0.006,0.000,Low
+2016,GP2,Oliver Rowland,Oliver Rowland,MP Motorsport,9,9.0,107,23.4,2,False,89,0.461,0.400,High
+2017,F2,Oliver Rowland,Oliver Rowland,DAMS,3,3.0,191,24.4,3,False,80,0.046,0.778,High
+2010,GP2,Oliver Turvey,Oliver Turvey,iSport International,6,6.0,47,22.8,1,False,82,0.184,0.636,High
+2011,GP2,Oliver Turvey,Oliver Turvey,Carlin,25,25.0,0,23.8,2,False,33,-0.135,0.167,Low
+2005,GP2,Olivier Pla,Olivier Pla,DPR,13,13.0,20,23.2,1,False,74,0.150,0.182,High
+2006,GP2,Olivier Pla,Olivier Pla,"DPR (1–2, 8–11) DPR Direxiv (3–7)",27,27.0,0,24.2,2,False,24,-0.158,0.250,Low
+2007,GP2,Olivier Pla,Olivier Pla,DPR,35,35.0,0,25.2,3,False,25,-0.170,0.083,Low
+2021,F2,Olli Caldwell,Olli Caldwell,Campos Racing,26,26.0,0,18.6,1,False,18,-0.240,0.300,Low
+2022,F2,Olli Caldwell,Olli Caldwell,Campos Racing,21,21.0,12,19.6,2,False,46,-0.162,0.000,High
+2021,F2,Oscar Piastri,Oscar Piastri,Prema Racing,1,1.0,252.5,19.7,1,False,88,0.240,1.000,High
+2008,GP2,Paolo Maria Nocera,Paolo Maria Nocera,BCN Competición,33,33.0,0,22.4,1,False,29,-0.066,0.083,Low
+2007,GP2,Pastor Maldonado,Pastor Maldonado,Trident Racing,11,11.0,25,21.8,1,False,82,0.170,0.250,Low
+2008,GP2,Pastor Maldonado,Pastor Maldonado,Piquet Sports,5,5.0,60,22.8,2,False,88,0.368,0.833,High
+2009,GP2,Pastor Maldonado,Pastor Maldonado,ART Grand Prix,6,6.0,36,23.8,3,False,19,-0.640,1.000,High
+2010,GP2,Pastor Maldonado,Pastor Maldonado,Rapax,1,1.0,87,24.8,4,False,97,0.678,1.000,High
+2019,F2,Pato O'Ward,Pato O'Ward,MP Motorsport,26,26.0,0,19.7,1,False,15,-0.301,0.222,Low
+2015,GP2,Patric Niederhauser,Patric Niederhauser,Lazarus (1–3) Daiko Team Lazarus (4–11),34,34.0,0,23.2,1,False,17,-0.158,0.333,Low
+2023,F2,Paul Aron,Paul Aron,Trident,24,24.0,0,18.9,1,False,22,-0.212,0.100,Low
+2024,F2,Paul Aron,Paul Aron,Hitech Pulse-Eight,3,3.0,163,19.9,2,False,94,0.578,0.800,High
+2020,F2,Pedro Piquet,Pedro Piquet,Charouz Racing System,20,20.0,3,21.5,1,False,8,-0.609,0.400,High
+2024,F2,Pepe Martí,Pepe Martí,Campos Racing,14,14.0,62,18.6,1,False,13,-0.606,0.900,High
+2025,F2,Pepe Martí,Pepe Martí,Campos Racing,8,8.0,112,19.6,2,False,57,-0.161,0.800,High
+2016,GP2,Philo Paz Armand,Philo Paz Armand,Trident,24,24.0,0,19.8,1,False,8,-0.507,0.300,High
+2014,GP2,Pierre Gasly,Pierre Gasly,EQ8 Caterham Racing (1–8) Caterham Racing (9–11),29,29.0,0,17.9,1,False,17,-0.210,0.417,Low
+2015,GP2,Pierre Gasly,Pierre Gasly,DAMS,8,8.0,110,18.9,2,False,61,0.000,0.833,High
+2016,GP2,Pierre Gasly,Pierre Gasly,Prema Racing,1,1.0,219,19.9,3,False,82,0.037,1.000,High
+2011,GP2,Pål Varhaug,Pål Varhaug,DAMS,23,23.0,0,19.9,1,False,0,-1.000,0.917,High
+2013,GP2,Pål Varhaug,Pål Varhaug,Hilmer Motorsport,31,31.0,0,21.9,2,False,4,-0.607,0.500,Low
+2026,F2,Rafael Câmara,Rafael Câmara,Invicta Racing,1,1.0,207,20.7,1,True,96,0.565,0.900,High
+2024,F2,Rafael Villagómez,Rafael Villagómez,Van Amersfoort Racing,24,24.0,13,22.1,1,False,38,-0.242,0.000,High
+2025,F2,Rafael Villagómez,Rafael Villagómez,Van Amersfoort Racing,14,14.0,43,23.1,2,False,77,0.199,0.100,High
+2026,F2,Rafael Villagómez,Rafael Villagómez,Van Amersfoort Racing,13,13.0,42,24.1,3,True,68,0.121,0.200,High
+2014,GP2,Raffaele Marciello,Raffaele Marciello,Racing Engineering,8,8.0,74,19.0,1,False,49,-0.225,0.750,High
+2015,GP2,Raffaele Marciello,Raffaele Marciello,Trident,7,7.0,110,20.0,2,False,85,0.316,0.500,High
+2016,GP2,Raffaele Marciello,Raffaele Marciello,Russian Time,4,4.0,159,21.0,3,False,86,0.283,0.800,High
+2017,F2,Raffaele Marciello,Raffaele Marciello,Trident,29,29.0,0,22.0,4,False,26,-0.096,0.111,Low
+2017,F2,Ralph Boschung,Ralph Boschung,Campos Racing,19,19.0,11,19.3,1,False,61,0.018,0.000,High
+2018,F2,Ralph Boschung,Ralph Boschung,MP Motorsport,18,18.0,17,20.3,2,False,33,-0.164,0.222,High
+2019,F2,Ralph Boschung,Ralph Boschung,Trident,19,19.0,3,21.3,3,False,54,-0.064,0.000,Low
+2020,F2,Ralph Boschung,Ralph Boschung,Campos Racing,25,25.0,0,22.3,4,False,18,-0.223,0.200,Low
+2021,F2,Ralph Boschung,Ralph Boschung,Campos Racing,10,10.0,59.5,23.3,5,False,81,0.232,0.300,High
+2022,F2,Ralph Boschung,Ralph Boschung,Campos Racing,15,15.0,40,24.3,6,False,73,0.049,0.000,High
+2023,F2,Ralph Boschung,Ralph Boschung,Campos Racing,16,16.0,37,25.3,7,False,50,-0.123,0.200,High
+2012,GP2,René Binder,René Binder,Venezuela GP Lazarus,31,31.0,0,20.0,1,False,41,-0.004,0.000,Low
+2013,GP2,René Binder,René Binder,Venezuela GP Lazarus,23,23.0,11,21.0,2,False,63,0.050,0.000,High
+2014,GP2,René Binder,René Binder,Arden International,25,25.0,3,22.0,3,False,40,-0.101,0.167,High
+2015,GP2,René Binder,René Binder,Trident,22,22.0,2,23.0,4,False,21,-0.316,0.500,Medium
+2016,GP2,René Binder,René Binder,ART Grand Prix,23,23.0,0,24.0,5,False,0,-1.146,0.700,Low
+2017,F2,René Binder,René Binder,Rapax,28,28.0,0,25.0,6,False,3,-0.518,0.556,Low
+2007,GP2,Ricardo Risatti,Ricardo Risatti,Trident Racing,28,28.0,1,20.3,1,False,19,-0.375,0.250,Low
+2009,GP2,Ricardo Teixeira (racing driver),Ricardo Teixeira,Trident Racing,26,26.0,0,24.4,1,False,38,-0.030,0.083,High
+2012,GP2,Ricardo Teixeira (racing driver),Ricardo Teixeira,Rapax,29,29.0,0,27.4,2,False,30,-0.117,0.167,High
+2013,GP2,Ricardo Teixeira (racing driver),Ricardo Teixeira,Trident Racing,34,34.0,0,28.4,3,False,18,-0.244,0.167,Low
+2021,F2,Richard Verschoor,Richard Verschoor,MP Motorsport,11,11.0,56,20.0,1,False,70,0.143,0.500,Medium
+2022,F2,Richard Verschoor,Richard Verschoor,Trident,12,12.0,103,21.0,2,False,87,0.370,0.200,High
+2023,F2,Richard Verschoor,Richard Verschoor,Van Amersfoort Racing,9,9.0,108,22.0,3,False,89,0.468,0.400,High
+2024,F2,Richard Verschoor,Richard Verschoor,Trident,8,8.0,106,23.0,4,False,93,0.382,0.200,Medium
+2025,F2,Richard Verschoor,Richard Verschoor,MP Motorsport,3,3.0,170,24.0,5,False,97,0.630,0.700,High
+2015,GP2,Richie Stanaway,Richie Stanaway,Status Grand Prix,10,10.0,60,23.1,1,False,76,0.176,0.417,High
+2012,GP2,Rio Haryanto,Rio Haryanto,Carlin,14,14.0,38,18.9,1,False,20,-0.530,0.667,High
+2013,GP2,Rio Haryanto,Rio Haryanto,Barwa Addax Team,19,19.0,22,19.9,2,False,71,0.109,0.083,High
+2014,GP2,Rio Haryanto,Rio Haryanto,EQ8 Caterham Racing (1–8) Caterham Racing (9–11),15,15.0,28,20.9,3,False,58,-0.007,0.417,High
+2015,GP2,Rio Haryanto,Rio Haryanto,Campos Racing,4,4.0,138,21.9,4,False,81,0.228,0.750,High
+2024,F2,Ritomo Miyata,Ritomo Miyata,Rodin Motorsport,19,19.0,31,24.4,1,False,25,-0.508,0.300,High
+2025,F2,Ritomo Miyata,Ritomo Miyata,ART Grand Prix,17,17.0,30,25.4,2,False,31,-0.318,0.300,High
+2026,F2,Ritomo Miyata,Ritomo Miyata,Hitech,12,12.0,70,26.4,3,True,75,0.213,0.300,High
+2020,F2,Robert Shwartzman,Robert Shwartzman,Prema Racing,4,4.0,177,20.3,1,False,64,-0.177,1.000,High
+2021,F2,Robert Shwartzman,Robert Shwartzman,Prema Racing,2,2.0,192,21.3,2,False,64,-0.240,1.000,High
+2015,GP2,Robert Vișoiu,Robert Vișoiu,Rapax,17,17.0,20,18.9,1,False,26,-0.351,0.583,High
+2017,F2,Robert Vișoiu,Robert Vișoiu,Campos Racing,24,24.0,1,20.9,2,False,44,-0.053,0.000,Low
+2017,F2,Roberto Merhi,Roberto Merhi,Rapax,18,18.0,16,25.8,1,False,17,-0.404,0.556,Low
+2018,F2,Roberto Merhi,Roberto Merhi,MP Motorsport,12,12.0,61,26.8,2,False,73,0.143,0.222,Medium
+2022,F2,Roberto Merhi,Roberto Merhi,Campos Racing,20,20.0,15,30.8,3,False,51,-0.140,0.000,Low
+2013,GP2,Robin Frijns,Robin Frijns,Hilmer Motorsport,15,15.0,47,21.4,1,False,53,-0.139,0.500,Low
+2009,GP2,Rodolfo González (racing driver),Rodolfo González,Trident Racing,29,29.0,0,22.6,1,False,31,-0.030,0.083,Low
+2010,GP2,Rodolfo González (racing driver),Rodolfo González,Arden International,21,21.0,4,23.6,2,False,25,-0.276,0.455,High
+2011,GP2,Rodolfo González (racing driver),Rodolfo González,Trident Racing,26,26.0,0,24.6,3,False,18,-0.247,0.417,High
+2012,GP2,Rodolfo González (racing driver),Rodolfo González,Caterham Racing,22,22.0,6,25.6,4,False,9,-0.623,0.500,High
+2007,GP2,Roldán Rodríguez,Roldán Rodríguez,Minardi Piquet Sports,17,17.0,14,22.1,1,False,71,0.068,0.167,High
+2008,GP2,Roldán Rodríguez,Roldán Rodríguez,Fisichella Motor Sport International,13,13.0,14,23.1,2,False,77,0.171,0.250,High
+2009,GP2,Roldán Rodríguez,Roldán Rodríguez,Piquet GP,11,11.0,25,24.1,3,False,68,0.090,0.500,High
+2008,GP2,Romain Grosjean,Romain Grosjean,ART Grand Prix,4,4.0,62,21.7,1,False,98,0.697,0.667,High
+2009,GP2,Romain Grosjean,Romain Grosjean,Barwa Campos Team (1) Barwa Addax Team (2–10),4,4.0,45,22.7,2,False,51,-0.300,0.917,Low
+2010,GP2,Romain Grosjean,Romain Grosjean,DAMS,14,14.0,14,23.7,3,False,51,-0.080,0.545,Low
+2011,GP2,Romain Grosjean,Romain Grosjean,DAMS,1,1.0,89,24.7,4,False,100,1.000,0.917,High
+2026,F2,Roman Bilinski,Roman Bilinski,DAMS Lucas Oil,16,16.0,36,22.0,1,True,13,-0.488,0.600,High
+2023,F2,Roman Staněk,Roman Staněk,Trident,18,18.0,15,18.9,1,False,49,-0.064,0.100,High
+2024,F2,Roman Staněk,Roman Staněk,Trident,22,22.0,14,19.8,2,False,22,-0.476,0.200,High
+2025,F2,Roman Staněk,Roman Staněk,Invicta Racing,10,10.0,105,20.9,3,False,21,-0.502,1.000,High
+2018,F2,Roy Nissany,Roy Nissany,Campos Vexatec Racing,22,22.0,1,23.1,1,False,11,-0.383,0.333,High
+2020,F2,Roy Nissany,Roy Nissany,Trident,19,19.0,5,25.1,2,False,57,0.019,0.000,High
+2021,F2,Roy Nissany,Roy Nissany,DAMS,16,16.0,16,26.1,3,False,42,-0.131,0.400,High
+2022,F2,Roy Nissany,Roy Nissany,DAMS,19,19.0,20,27.1,4,False,15,-0.457,0.500,High
+2023,F2,Roy Nissany,Roy Nissany,PHM Racing by Charouz (1–12) PHM Racing (13),21,21.0,0,28.1,5,False,46,0.000,0.000,High
+2005,GP2,Ryan Sharp,Ryan Sharp,DPR,23,23.0,2,25.7,1,False,28,-0.150,0.182,Low
+2019,F2,Ryan Tveter,Ryan Tveter,Trident,27,27.0,0,24.6,1,False,29,-0.086,0.000,Low
+2007,GP2,Sakon Yamamoto,Sakon Yamamoto,BCN Competición,30,30.0,0,24.5,1,False,44,-0.045,0.000,Low
+2008,GP2,Sakon Yamamoto,Sakon Yamamoto,ART Grand Prix,23,23.0,3,25.5,2,False,2,-0.855,0.667,Low
+2010,GP2,Sam Bird,Sam Bird,ART Grand Prix,5,5.0,48,23.0,1,False,69,-0.046,0.818,High
+2011,GP2,Sam Bird,Sam Bird,iSport International,6,6.0,45,24.0,2,False,79,0.225,0.833,High
+2013,GP2,Sam Bird,Sam Bird,Russian Time,2,2.0,181,26.0,3,False,91,0.443,1.000,High
+2025,F2,Sami Meguetounif,Sami Meguetounif,Trident,21,21.0,2,20.6,1,False,53,0.009,0.000,High
+2017,F2,Santino Ferrucci,Santino Ferrucci,Trident,22,22.0,4,18.6,1,False,43,-0.067,0.111,Low
+2018,F2,Santino Ferrucci,Santino Ferrucci,Trident,19,19.0,7,19.6,2,False,46,-0.080,0.000,Low
+2005,GP2,Scott Speed,Scott Speed,iSport International,3,3.0,67.5,21.9,1,False,93,0.546,0.727,High
+2015,GP2,Sean Gelael,Sean Gelael,Carlin,30,30.0,0,18.2,1,False,28,-0.114,0.250,Low
+2016,GP2,Sean Gelael,Sean Gelael,Pertamina Campos Racing,15,15.0,24,19.2,2,False,28,-0.301,0.500,High
+2017,F2,Sean Gelael,Sean Gelael,Pertamina Arden,15,15.0,17,20.2,3,False,38,-0.262,0.333,High
+2018,F2,Sean Gelael,Sean Gelael,Pertamina Prema Theodore Racing (1–7) Pertamina Prema Racing (8–12),15,15.0,29,21.2,4,False,10,-0.603,0.556,High
+2019,F2,Sean Gelael,Sean Gelael,Prema Racing,17,17.0,15,22.2,5,False,49,-0.143,0.111,High
+2020,F2,Sean Gelael,Sean Gelael,DAMS,21,21.0,3,23.2,6,False,12,-0.509,0.300,Low
+2025,F2,Sebastián Montoya,Sebastián Montoya,Prema Racing,12,12.0,91,19.7,1,False,68,0.090,0.500,High
+2026,F2,Sebastián Montoya,Sebastián Montoya,Prema Racing,17,17.0,30,20.7,2,True,58,0.043,0.100,High
+2015,GP2,Sergey Sirotkin,Sergey Sirotkin,Rapax,3,3.0,139,19.3,1,False,89,0.346,0.583,High
+2016,GP2,Sergey Sirotkin,Sergey Sirotkin,ART Grand Prix,3,3.0,159,20.3,2,False,89,0.306,0.700,High
+2017,F2,Sergey Sirotkin,Sergey Sirotkin,ART Grand Prix,20,20.0,9,21.3,3,False,3,-0.738,0.667,Low
+2013,GP2,Sergio Campana (racing driver),Sergio Campana,Trident Racing,32,32.0,0,26.6,1,False,21,-0.244,0.167,Low
+2014,GP2,Sergio Campana (racing driver),Sergio Campana,Venezuela GP Lazarus,30,30.0,0,27.6,2,False,38,-0.069,0.000,Low
+2012,GP2,Sergio Canamasas,Sergio Canamasas,Venezuela GP Lazarus,27,27.0,0,25.7,1,False,50,-0.004,0.000,Low
+2013,GP2,Sergio Canamasas,Sergio Canamasas,Caterham Racing (1–3) EQ8 Caterham Racing (4–11),25,25.0,3,26.7,2,False,16,-0.443,0.333,High
+2014,GP2,Sergio Canamasas,Sergio Canamasas,Trident,14,14.0,29,27.7,3,False,28,-0.402,0.583,High
+2015,GP2,Sergio Canamasas,Sergio Canamasas,Lazarus (1–3) Daiko Team Lazarus (4–11),15,15.0,27,28.7,4,False,62,0.000,0.333,Medium
+2016,GP2,Sergio Canamasas,Sergio Canamasas,Carlin,19,19.0,17,29.7,5,False,53,-0.018,0.100,High
+2017,F2,Sergio Canamasas,Sergio Canamasas,Trident,14,14.0,21,30.7,6,False,69,0.053,0.111,Low
+2005,GP2,Sergio Hernández (racing driver),Sergio Hernández,Campos Racing,20,20.0,3,21.1,1,False,53,-0.013,0.000,High
+2006,GP2,Sergio Hernández (racing driver),Sergio Hernández,Durango,23,23.0,1,22.1,2,False,48,-0.061,0.000,High
+2007,GP2,Sergio Hernández (racing driver),Sergio Hernández,Trident Racing,36,36.0,0,23.1,3,False,9,-0.398,0.250,Low
+2009,GP2,Sergio Pérez,Sergio Pérez,Telmex Arden International,12,12.0,22,18.9,1,False,63,0.030,0.500,High
+2010,GP2,Sergio Pérez,Sergio Pérez,Barwa Addax Team,2,2.0,71,19.9,2,False,89,0.368,0.909,High
+2012,GP2,Simon Trummer,Simon Trummer,Arden International,23,23.0,4,22.6,1,False,1,-0.883,0.833,High
+2013,GP2,Simon Trummer,Simon Trummer,Rapax,21,21.0,20,23.6,2,False,12,-0.572,0.583,High
+2014,GP2,Simon Trummer,Simon Trummer,Rapax,17,17.0,26,24.6,3,False,58,-0.014,0.333,High
+2015,GP2,Simon Trummer,Simon Trummer,Hilmer Motorsport,31,31.0,0,25.6,4,False,35,-0.056,0.083,Low
+2009,GP2,Stefano Coletti,Stefano Coletti,Durango,25,25.0,0,19.7,1,False,31,-0.120,0.167,Low
+2011,GP2,Stefano Coletti,Stefano Coletti,Trident Racing,11,11.0,22,21.7,2,False,79,0.247,0.417,High
+2012,GP2,Stefano Coletti,Stefano Coletti,Scuderia Coloni,13,13.0,50,22.7,3,False,69,0.032,0.333,Medium
+2013,GP2,Stefano Coletti,Stefano Coletti,Rapax,5,5.0,135,23.7,4,False,95,0.572,0.583,High
+2014,GP2,Stefano Coletti,Stefano Coletti,Racing Engineering,6,6.0,136,24.7,5,False,80,0.225,0.750,High
+2017,F2,Stefano Coletti,Stefano Coletti,Campos Racing,27,27.0,0,27.7,6,False,35,-0.060,0.000,Low
+2014,GP2,Stoffel Vandoorne,Stoffel Vandoorne,ART Grand Prix,2,2.0,229,21.8,1,False,98,0.736,0.833,High
+2015,GP2,Stoffel Vandoorne,Stoffel Vandoorne,ART Grand Prix,1,1.0,341.5,22.8,2,False,99,0.799,1.000,High
+2011,GP2,Stéphane Richelmi,Stéphane Richelmi,Trident Racing,31,31.0,0,20.8,1,False,12,-0.247,0.417,Low
+2012,GP2,Stéphane Richelmi,Stéphane Richelmi,Trident Racing,18,18.0,25,21.8,2,False,63,0.065,0.250,High
+2013,GP2,Stéphane Richelmi,Stéphane Richelmi,DAMS,8,8.0,103,22.8,3,False,65,-0.090,0.750,High
+2014,GP2,Stéphane Richelmi,Stéphane Richelmi,DAMS,9,9.0,73,23.8,4,False,11,-0.736,1.000,High
+2007,GP2,Sébastien Buemi,Sébastien Buemi,ART Grand Prix,21,21.0,6,18.2,1,False,2,-0.852,0.917,Low
+2008,GP2,Sébastien Buemi,Sébastien Buemi,Trust Team Arden,6,6.0,50,19.2,2,False,95,0.592,0.583,High
+2007,GP2,Sérgio Jimenez,Sérgio Jimenez,Racing Engineering,24,24.0,4,22.6,1,False,11,-0.489,0.583,Low
+2017,F2,Sérgio Sette Câmara,Sérgio Sette Câmara,MP Motorsport,12,12.0,47,18.6,1,False,58,-0.053,0.444,High
+2018,F2,Sérgio Sette Câmara,Sérgio Sette Câmara,Carlin,6,6.0,164,19.6,2,False,49,-0.192,1.000,High
+2019,F2,Sérgio Sette Câmara,Sérgio Sette Câmara,DAMS,4,4.0,204,20.6,3,False,70,-0.038,1.000,High
+2018,F2,Tadasuke Makino,Tadasuke Makino,Russian Time,13,13.0,48,20.5,1,False,16,-0.481,0.667,High
+2014,GP2,Takuya Izawa,Takuya Izawa,ART Grand Prix,18,18.0,26,29.6,1,False,5,-0.736,0.833,High
+2025,F2,Tasanapol Inthraphuvasak,Tasanapol Inthraphuvasak,Trident,26,26.0,0,19.1,1,False,36,-0.009,0.000,Low
+2026,F2,Tasanapol Inthraphuvasak,Tasanapol Inthraphuvasak,ART Grand Prix,11,11.0,71,20.1,2,True,56,-0.092,0.500,High
+2019,F2,Tatiana Calderón,Tatiana Calderón,BWT Arden,22,22.0,0,25.8,1,False,16,-0.350,0.333,High
+2022,F2,Tatiana Calderón,Tatiana Calderón,Charouz Racing System,28,28.0,0,28.8,2,False,7,-0.475,0.300,Low
+2024,F2,Taylor Barnard,Taylor Barnard,PHM AIX Racing (1–3) AIX Racing (4–14),21,21.0,18,19.6,1,False,36,-0.322,0.100,Low
+2020,F2,Théo Pourchaire,Théo Pourchaire,BWT HWA Racelab,26,26.0,0,16.4,1,False,27,-0.079,0.100,Low
+2021,F2,Théo Pourchaire,Théo Pourchaire,ART Grand Prix,5,5.0,140,17.4,2,False,88,0.356,0.600,High
+2022,F2,Théo Pourchaire,Théo Pourchaire,ART Grand Prix,2,2.0,164,18.4,3,False,83,0.177,0.800,High
+2023,F2,Théo Pourchaire,Théo Pourchaire,ART Grand Prix,1,1.0,203,19.4,4,False,88,0.261,1.000,High
+2006,GP2,Timo Glock,Timo Glock,iSport International,4,4.0,58,23.8,1,False,75,0.088,0.833,Medium
+2007,GP2,Timo Glock,Timo Glock,iSport International,1,1.0,88,24.8,2,False,97,0.659,1.000,High
+2014,GP2,Tio Ellinas,Tio Ellinas,MP Motorsport,22,22.0,7,21.9,1,False,35,-0.152,0.333,Low
+2012,GP2,Tom Dillmann,Tom Dillmann,Rapax,15,15.0,29,22.7,1,False,74,0.117,0.167,Low
+2013,GP2,Tom Dillmann,Tom Dillmann,Russian Time,10,10.0,92,23.7,2,False,28,-0.443,1.000,High
+2014,GP2,Tom Dillmann,Tom Dillmann,EQ8 Caterham Racing (1–8) Caterham Racing (9–11),19,19.0,18,24.7,3,False,44,-0.080,0.417,Low
+2005,GP2,Toni Vilander,Toni Vilander,Coloni Motorsport,25,25.0,0,24.4,1,False,9,-0.317,0.455,Low
+2006,GP2,Tristan Gommendy,Tristan Gommendy,iSport International,20,20.0,6,27.0,1,False,2,-0.825,0.833,Low
+2012,GP2,Victor Guerin (racing driver),Victor Guerin,Ocean Racing Technology,30,30.0,0,19.5,1,False,32,-0.105,0.083,High
+2023,F2,Victor Martins,Victor Martins,ART Grand Prix,5,5.0,150,21.5,1,False,55,-0.261,1.000,High
+2024,F2,Victor Martins,Victor Martins,ART Grand Prix,7,7.0,107,22.5,2,False,85,0.191,0.400,High
+2025,F2,Victor Martins,Victor Martins,ART Grand Prix,11,11.0,97,23.5,3,False,84,0.318,0.300,High
+2006,GP2,Vitaly Petrov,Vitaly Petrov,"DPR (1–2, 8–11) DPR Direxiv (3–7)",28,28.0,0,21.3,1,False,22,-0.158,0.250,Low
+2007,GP2,Vitaly Petrov,Vitaly Petrov,Campos Grand Prix,13,13.0,21,22.3,2,False,24,-0.432,0.833,High
+2008,GP2,Vitaly Petrov,Vitaly Petrov,Barwa International Campos Team,7,7.0,39,23.3,3,False,40,-0.329,1.000,High
+2009,GP2,Vitaly Petrov,Vitaly Petrov,Barwa Campos Team (1) Barwa Addax Team (2–10),2,2.0,75,24.3,4,False,87,0.300,0.917,High
+2013,GP2,Vittorio Ghirelli,Vittorio Ghirelli,Venezuela GP Lazarus,27,27.0,1,18.7,1,False,48,-0.050,0.000,Low
+2010,GP2,Vladimir Arabadzhiev,Vladimir Arabadzhiev,Scuderia Coloni,29,29.0,0,25.8,1,False,23,-0.207,0.182,High
+2008,GP2,Yelmer Buurman,Yelmer Buurman,Trust Team Arden,20,20.0,5,20.9,1,False,11,-0.592,0.583,Low
+2020,F2,Yuki Tsunoda,Yuki Tsunoda,Carlin,3,3.0,200,19.6,1,False,96,0.595,0.800,High
+2024,F2,Zak O'Sullivan,Zak O'Sullivan,ART Grand Prix,16,16.0,59,18.9,1,False,44,-0.256,0.400,High
+2022,F2,Zane Maloney,Zane Maloney,Trident,26,26.0,0,18.3,1,False,14,-0.408,0.200,Low
+2023,F2,Zane Maloney,Zane Maloney,Rodin Carlin,10,10.0,96,19.2,2,False,48,-0.138,0.800,High
+2024,F2,Zane Maloney,Zane Maloney,Rodin Motorsport,4,4.0,140,20.2,3,False,97,0.508,0.300,High
+2015,GP2,Zoël Amberg,Zoël Amberg,Lazarus (1–3) Daiko Team Lazarus (4–11),29,29.0,0,22.3,1,False,25,-0.158,0.333,Low
+2017,F2,Álex Palou,Álex Palou,Campos Racing,21,21.0,5,19.8,1,False,55,-0.025,0.000,Low
+2008,GP2,Álvaro Parente,Álvaro Parente,Super Nova Racing,8,8.0,34,23.2,1,False,84,0.263,0.500,High
+2009,GP2,Álvaro Parente,Álvaro Parente,Ocean Racing Technology,8,8.0,30,24.2,2,False,83,0.200,0.333,High
+2010,GP2,Álvaro Parente,Álvaro Parente,Scuderia Coloni,15,15.0,13,25.2,3,False,71,0.092,0.182,Low
+2011,GP2,Álvaro Parente,Álvaro Parente,Carlin,16,16.0,8,26.2,4,False,66,0.045,0.167,Low

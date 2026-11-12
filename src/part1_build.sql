@@ -13,7 +13,7 @@ SELECT
     s.driver_name,
     s.pos_text,
     CASE WHEN s.pos_text ~ '^\d+$' THEN s.pos_text::int END AS final_pos,
-    -- '0' prefix handles a lone '½' and guarantees a numeric match
+    
     COALESCE(
         substring('0' || replace(s.points_text, '½', '.5') FROM '^[0-9]+(?:\.[0-9]+)?')::numeric,
         0) AS points
@@ -35,7 +35,7 @@ SELECT
     r.last_round
 FROM raw_junior_entries e
 LEFT JOIN title_map m ON m.raw_title = e.wiki_title
--- Expand round lists like '1–5', '6–12' or '1, 3–5' and count the rounds
+
 LEFT JOIN LATERAL (
     SELECT COUNT(DISTINCT n) AS rounds_covered, MAX(n) AS last_round
     FROM regexp_matches(COALESCE(e.rounds, ''), '(\d+)(?:\s*[–-]\s*(\d+))?', 'g') AS m,

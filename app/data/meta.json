@@ -1,0 +1,11 @@
+{
+  "built": "2026-11-07",
+  "current_season": 2026,
+  "features": [
+    "rating_ts_raw",
+    "teammate_gap",
+    "age",
+    "team_strength"
+  ],
+  "bootstrap_interval": "90%"
+}

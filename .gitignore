@@ -1,5 +1,5 @@
 # Data: rebuilt by the pipeline, not tracked
-data/
+/data/
 
 # Python environments and caches
 .venv/

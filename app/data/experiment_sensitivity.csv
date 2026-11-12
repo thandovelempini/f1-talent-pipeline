@@ -1,0 +1,16 @@
+question,prediction_point,drivers,positives,comparison,delta,delta_ci_low,delta_ci_high,verdict
+RQ1 progression,end of season 1,206,45,team strength beyond performance + age,0.051,-0.014,0.116,not clearly
+RQ1 progression,end of season 1,206,45,age beyond performance + team strength,0.048,-0.044,0.116,not clearly
+RQ1 progression,end of season 1,206,45,team strength alone vs performance alone,0.021,-0.114,0.179,not clearly
+RQ1 progression,end of season 2,138,37,team strength beyond performance + age,0.047,-0.054,0.124,not clearly
+RQ1 progression,end of season 2,138,37,age beyond performance + team strength,-0.005,-0.085,0.03,not clearly
+RQ1 progression,end of season 2,138,37,team strength alone vs performance alone,0.019,-0.123,0.173,not clearly
+RQ1 progression,end of season 3,87,20,team strength beyond performance + age,0.119,-0.052,0.312,not clearly
+RQ1 progression,end of season 3,87,20,age beyond performance + team strength,-0.022,-0.164,0.035,not clearly
+RQ1 progression,end of season 3,87,20,team strength alone vs performance alone,0.13,-0.103,0.458,not clearly
+RQ2 establishment,end of season 1,39,19,team strength beyond performance + age,0.026,-0.203,0.197,not clearly
+RQ2 establishment,end of season 1,39,19,age beyond performance + team strength,0.172,-0.144,0.493,not clearly
+RQ2 establishment,end of season 1,39,19,team strength alone vs performance alone,0.082,-0.375,0.507,not clearly
+RQ2 establishment,end of season 2,33,13,team strength beyond performance + age,0.024,-0.255,0.273,not clearly
+RQ2 establishment,end of season 2,33,13,age beyond performance + team strength,0.116,-0.2,0.406,not clearly
+RQ2 establishment,end of season 2,33,13,team strength alone vs performance alone,-0.029,-0.489,0.456,not clearly

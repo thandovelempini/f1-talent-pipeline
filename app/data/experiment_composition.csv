@@ -1,0 +1,6 @@
+question,prediction_point,drivers,positives,negatives,positive_rate,entered_at_this_stage,left_with_positive_outcome,left_with_negative_outcome,continued_to_next_season
+RQ1 progression,end of season 1,206,45,161,0.218,,10.0,69.0,127.0
+RQ1 progression,end of season 2,138,37,101,0.268,11.0,17.0,41.0,80.0
+RQ1 progression,end of season 3,87,20,67,0.23,7.0,,,
+RQ2 establishment,end of season 1,39,19,20,0.487,,7.0,1.0,31.0
+RQ2 establishment,end of season 2,33,13,20,0.394,2.0,7.0,6.0,20.0
