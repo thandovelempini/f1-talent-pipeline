@@ -238,14 +238,14 @@ nav.radio("Go to", PAGES, key="page", horizontal=True, label_visibility="collaps
 def footer():
     st.divider()
     st.caption(f"**Junior seasons:** GP2 (2005–2016) and Formula 2 (2017–{CURRENT}). "
-               f"F1 seasons: 2000–{CURRENT}. "
-               f"Data last updated: {date.today():%d %B %Y}. "
+               f"**F1 seasons:** 2000–{CURRENT}. "
+               f"**Data last updated:** {date.today():%d %B %Y}. "
                f"The {CURRENT} season remains provisional until completion.")
     st.caption("**Data sources:** GP2 and Formula 2 standings from [Wikipedia](https://en.wikipedia.org) (CC BY-SA 4.0), "
                "F1 results from the [Jolpica-F1 API](https://github.com/jolpica/jolpica-f1), "
                "and dates of birth and nationalities from [Wikidata](https://www.wikidata.org) (CC0). "
                "Flags from [flagcdn.com](https://flagcdn.com). \n\n"
-               f"Built by Thando Velempini · [Code on GitHub]({REPO_URL})")
+               f"**Built by Thando Velempini**")
 
 
 def num(row, col):
@@ -357,7 +357,7 @@ def page_overview():
             '<span style="font-size:17px;line-height:1.4">Can performance, age and team context predict who reaches '
             'F1?</span><div class="row" style="margin-top:auto;align-items:flex-end"><div style="display:flex;'
             f'flex-direction:column"><span class="wide" style="font-size:44px;line-height:1">{D.f2(strict["auc"])}</span>'
-            f'<span style="font-size:13px;opacity:0.85">AUC · {"Answer: yes" if strict["ci_low"] > 0.5 else "Unclear"}'
+            f'<span style="font-size:13px;opacity:0.85">AUC · {"Answer: Yes" if strict["ci_low"] > 0.5 else "Unclear"}'
             '</span></div>' + D.link("Explore →", "Reaching F1", "#FFFFFF", D.RQ1_HERO) + '</div></div>')
     if rq2_best is not None:
         cards.append(
@@ -388,25 +388,25 @@ def page_overview():
         + arrow("RQ1", D.RQ1) + stage(2, "F1 entry", "Has the driver started an F1 race?", D.RQ1, "#161C40")
         + arrow("RQ2", D.RQ2) + stage(3, "F1 progression", "Established or a Star?", D.RQ2, "#2E1E0E")
         + '</div><span class="muted" style="font-size:13px;margin-top:auto">AUC measures how well a model ranks '
-        'drivers: 0.5 is a coin flip, 1.0 is perfect.</span></div>')
+        'drivers: <strong>0.5</strong> is a coin flip, <strong>1.0</strong> is perfect</span></div>')
 
     findings = []
     if cv_base is not None:
         findings.append((D.f2(cv_base["auc"]), D.TEXT, "Junior results carry real signal",
                          "Rookie-season results alone rank future F1 entrants "
-                         + ("clearly better than chance." if cv_base["oob_ci_low"] > 0.5 else "only loosely.")))
+                         + ("clearly better than chance" if cv_base["oob_ci_low"] > 0.5 else "only loosely.")))
     if age is not None and age_base is not None:
         delta = num(age, "delta")
         delta = age["auc"] - age_base["auc"] if delta is None else delta
         findings.append((f"+{delta:.2f}", "#6F86FF", "Age adds information",
-                         "Adding age improves predictions on later generations of drivers."))
+                         "Adding age improves predictions on later generations of drivers"))
     if strict is not None:
         findings.append((D.f2(strict["auc"]), D.RQ1, "The combination works best",
-                         "Combining performance, age and team strength works best on cohorts the model has never seen."))
+                         "Combining performance, age and team strength works best on cohorts the model has never seen"))
     if rq2_best is not None:
         findings.append((D.f2(rq2_best["auc"]), D.RQ2, "Lasting in F1 is far harder",
                          f"With {int(rq2_best['drivers'])} drivers, "
-                         + ("no model clearly beats a coin flip." if rq2_unclear else "the signal is weaker.")))
+                         + ("no model clearly beats a coin flip" if rq2_unclear else "the signal is weaker.")))
     span = 12 // max(len(findings), 1)
     for i, (value, colour, title, body) in enumerate(findings, 1):
         cards.append(
@@ -420,7 +420,7 @@ def page_overview():
         '<div class="card" style="grid-column:1 / span 7;grid-row:4">'
         + D.card_head("How the performance rating is calculated", "Performance rating, 0–100") + D.recipe_bar()
         + '<span class="muted" style="font-size:13px;margin-top:auto">Models then predict at the end of a driver\'s '
-        'rookie, second and third seasons, using only what was known at the time.</span></div>')
+        'rookie, second and third seasons, using only what was known at the time</span></div>')
 
     now = preds[(preds["kind"] == "current") & (preds["season"] == CURRENT)].sort_values("probability", ascending=False)
     if not now.empty:
@@ -434,7 +434,7 @@ def page_overview():
             for _, r in now.iloc[1:4].iterrows())
         cards.append(
             '<div class="card" style="grid-column:8 / span 5;grid-row:4">'
-            + D.card_head("Today's highest predicted chances of reaching F1", f"{CURRENT} grid")
+            + D.card_head("Today's highest predicted chances of reaching F1", f"{CURRENT} Grid")
             + '<div style="display:flex;align-items:center;gap:16px">' + D.code_tile(D.driver_code(lead["driver_name"]),
                                                                                        D.RQ1, 64)
             + f'<div style="display:flex;flex-direction:column;flex-grow:1;min-width:0"><span style="font-weight:600;'
@@ -464,7 +464,7 @@ def rq1_cards():
     cards = [D.hero(
         D.RQ1_HERO, "#FFFFFF", "RESEARCH QUESTION 1",
         "Can performance, age and team context predict who reaches F1?",
-        D.f2(strict["auc"]), "AUC on unseen cohorts", f"95% CI {D.f2(strict['ci_low'])}–{D.f2(strict['ci_high'])}",
+        D.f2(strict["auc"]), "AUC on unseen cohorts", f"95% CI <strong>{D.f2(strict['ci_low'])}–{D.f2(strict['ci_high'])}</strong>",
         f"Junior performance alone achieves {D.f2(strict_base['auc'])}. Adding age and team "
         f"strength increases this to {D.f2(strict['auc'])}.",
         ["Answer: yes" if strict["ci_low"] > 0.5 else "Answer: unclear", "Strict five-year test",
@@ -487,11 +487,11 @@ def rq1_cards():
     trio = []
     if cv is not None and cv_base is not None:
         trio.append(D.stat_card("Cross-validation", D.f2(cv["auc"]),
-                                f"95% CI {D.f2(cv['oob_ci_low'])}–{D.f2(cv['oob_ci_high'])}", gain_of(cv, cv_base),
+                                f"95% CI <strong>{D.f2(cv['oob_ci_low'])}–{D.f2(cv['oob_ci_high'])}</strong>", gain_of(cv, cv_base),
                                 f"{int(cv['drivers'])} drivers · {int(cv['positives'])} reached F1"))
     for label, row, base in [("Later cohorts", eventual, eventual_base), ("Strict five-year", strict, strict_base)]:
         if row is not None and base is not None:
-            trio.append(D.stat_card(label, D.f2(row["auc"]), f"95% CI {D.f2(row['ci_low'])}–{D.f2(row['ci_high'])}",
+            trio.append(D.stat_card(label, D.f2(row["auc"]), f"95% CI <strong>{D.f2(row['ci_low'])}–{D.f2(row['ci_high'])}</strong>",
                                     gain_of(row, base), f"{int(row['test_drivers'])} test drivers"))
     cards.append(f'<div class="sub3" style="grid-column:6 / span 7;grid-row:2">{"".join(trio)}</div>')
 
@@ -530,8 +530,8 @@ def rq1_cards():
                 f'<span style="font-weight:600">Best model {D.f2(best["auc"])}</span></div>'
                 f'<span class="muted" style="font-size:12px">{model_name(best["features"])}</span></div>')
         fades = len(bests) > 1 and bests[-1] < bests[0]
-        key = ('<span class="muted" style="font-size:12px;line-height:1.5">Bar length = drivers remaining in GP2/F2 · '
-               f'<span style="color:{D.RQ1}">Blue</span> = eventually reached F1 · AUC measures how well models rank '
+        key = ('<span class="muted" style="font-size:12px;line-height:1.5">Bar length = Drivers remaining in GP2/F2 · '
+               f'<span style="color:{D.RQ1}">Blue</span> = Eventually reached F1 · AUC measures how well models rank '
                'drivers (0.5 = chance)</span>')
         cards.append('<div class="card" style="grid-column:6 / span 4;grid-row:3"><span class="lbl">'
                      + ("Predictive power across junior seasons" if fades else "Predictions by season")
@@ -543,7 +543,7 @@ def rq1_cards():
             '<span class="lbl">Team strength vs results</span><div style="display:flex;flex-direction:column;gap:10px;'
             'margin-top:6px">' + D.meter("Team strength", cv_team["auc"]) + D.meter("Results", cv_base["auc"])
             + '</div><span style="font-size:14px;line-height:1.45;margin-top:auto">Top teams sign drivers already rated '
-            'as prospects, so a team reflects talent, backing and opportunity.</span></div>')
+            'as prospects, so a team reflects talent, backing and opportunity</span></div>')
 
     st.markdown(f'<div class="bento">{"".join(cards)}</div>', unsafe_allow_html=True)
 
@@ -555,7 +555,7 @@ def page_rq1():
     st.markdown("""
 - **Outcome:** The driver starts at least one F1 race after the prediction point.
 - **Who is included:** GP2/F2 drivers from 2007 onwards who had not yet raced in F1. Drivers still waiting
-  for an opportunity (**Pending**) are excluded because their outcomes are not yet known. They are not counted
+  for an opportunity (**pending**) are excluded because their outcomes are not yet known. They are not counted
   as failures.
 - **When predictions are made:** At the end of a driver's rookie, second and third junior seasons.
   Each successive prediction point asks a narrower question: *Among drivers still competing in GP2/F2, who goes
@@ -666,7 +666,7 @@ def _calibration(r1):
 def ci_text(row):
     if row is None:
         return "n/a"
-    return f"{row['auc']:.2f} [95% CI: {row['ci_low']:.2f}–{row['ci_high']:.2f}]"
+    return f"**{row['auc']:.2f}** [95% CI **{row['ci_low']:.2f}–{row['ci_high']:.2f}**]"
 
 
 def _rq1_rest(chrono):
@@ -675,7 +675,7 @@ def _rq1_rest(chrono):
     base = result_row(chrono, version="eventual outcome", features="performance")
     st.markdown(f"""
 Combining performance, age and team strength improved chronological predictive performance over junior
-performance alone (**{ci_text(base)}** to **{ci_text(eventual)}**) in the main evaluation. The improvement
+performance alone ({ci_text(base)} to {ci_text(eventual)}) in the main evaluation. The improvement
 also held when only outcomes known at the time of prediction were considered.
 
 However, the analysis could not establish how much age and team strength each contribute independently.
@@ -756,7 +756,7 @@ data cannot establish why.
         labels = (alt.Chart(top[top["side"] == "right"]).mark_text(align="left", dx=10, **text).encode(**enc) +
                   alt.Chart(top[top["side"] == "left"]).mark_text(align="right", dx=-10, **text).encode(**enc))
         show_chart((leaders + dots + labels).properties(height=400))
-        st.caption("**The six highest chances are labelled.**")
+        st.caption("The six highest chances are labelled")
 
 
 # 3. Establishing in F1 (RQ2)
@@ -808,12 +808,13 @@ def rq2_cards():
         if at.empty or b is None:
             continue
         top = at.loc[at["auc"].idxmax()]
-        trio.append(D.stat_card(point_label(point), int(top["drivers"]), f"Drivers · {int(top['positives'])} lasted",
-                                "", f"Performance only {D.f2(b['auc'])} · Best model {D.f2(top['auc'])}"))
-    verdict_bg, verdict_fg, verdict = ("#3A2F0B", "#FACC15", "NOT CLEARLY") if unclear else ("#15803D", "#FFFFFF", "YES")
+        trio.append(D.stat_card(f"<strong>{point_label(point)}</strong>", int(top["drivers"]), f"Drivers · {int(top['positives'])} lasted",
+                                "", f"<span style='white-space:nowrap'>Performance only <strong>{D.f2(b['auc'])}</strong> · Best model <strong>{D.f2(top['auc'])}</strong></span>",
+                                style="padding-left:15px;padding-right:15px"))
+        verdict_bg, verdict_fg, verdict = ("#3A2F0B", "#FACC15", "NOT CLEARLY") if unclear else ("#15803D", "#FFFFFF", "YES")
     trio.append(
         f'<div class="solid" style="background:{verdict_bg};color:{verdict_fg};padding:22px;gap:8px">'
-        f'<span style="font-size:13px">Verdict</span><span class="wide" style="font-size:20px;line-height:1.35">{verdict}</span>'
+        f'<span style="font-size:13px"><strong>Verdict</strong></span><span class="wide" style="font-size:20px;line-height:1.35">{verdict}</span>'
         f'<span style="font-size:14px;line-height:1.45;opacity:0.85">With only {n} drivers, the analysis cannot reliably '
         'distinguish a moderate effect from no effect. More data is needed.</span></div>' if unclear else
         f'<div class="solid" style="background:{verdict_bg};color:{verdict_fg};padding:22px;gap:8px">'
@@ -835,7 +836,7 @@ def rq2_cards():
         '<div style="display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px 18px;font-size:14px">'
         + "".join(D.legend_item(fills[t][0], outcome_label(t)) for t in tiers)
         + '</div><span class="muted" style="font-size:13px">Drivers whose careers are still too early to classify '
-        'are excluded from RQ2.</span></div>')
+        'are excluded from RQ2</span></div>')
 
     rated = seasons[seasons["performance_rating"].notna() & (seasons["confidence"] != "Low")
                     & ~seasons["season_in_progress"]]
@@ -867,9 +868,9 @@ def rq2_cards():
             f'<div class="solid" style="grid-column:10 / span 3;grid-row:3;background:{D.RQ1_HERO};color:#FFFFFF;padding:26px">'
             f'<span class="lbl">{"Team strength predicts entry, not establishment" if faded else "Team strength in both questions"}'
             '</span><div style="display:flex;flex-direction:column;gap:4px;margin-top:8px">'
-            '<span style="font-size:13px;opacity:0.8">Reaching F1</span>'
+            '<span style="font-size:13px;opacity:0.8"><strong>Reaching F1</strong></span>'
             f'<span class="wide" style="font-size:22px">{D.f2(team1["auc"])}</span></div>'
-            '<div style="display:flex;flex-direction:column;gap:4px"><span style="font-size:13px;opacity:0.8">Lasting in F1'
+            '<div style="display:flex;flex-direction:column;gap:4px"><span style="font-size:13px;opacity:0.8"><strong>Lasting in F1</strong>'
             f'</span><span class="wide" style="font-size:22px">{D.f2(team2["auc"])}</span></div>'
             '<span style="font-size:14px;line-height:1.45;margin-top:12px">'
             + ("Team strength is associated with reaching F1, but provides much less separation between "
@@ -891,7 +892,7 @@ def page_rq2():
        }), column_config={"Category": st.column_config.TextColumn("Category", width="medium")})
     st.markdown("""
 
-**Established or Star** counts as success. Drivers still early in their F1 careers **(Too early to tell)**
+**Established or Star** counts as success. Drivers still early in their F1 careers **(too early to tell)**
 are left out, because their outcome is not known yet.
 """)
     entrants = drivers[drivers["outcome"].isin(ENTRANT_TIERS + ["Too early to tell"])]
@@ -901,11 +902,11 @@ are left out, because their outcome is not known yet.
     left, _ = st.columns([3, 2])
     with left:
         bars = alt.Chart(counts).encode(
-            x=alt.X("Drivers:Q", axis=alt.Axis(tickMinStep=1, format="d")),
-            y=alt.Y("Outcome:N", sort=None, title=None))
-        show_chart((bars.mark_bar(color=RQ2_COLOUR) +
-                    bars.mark_text(align="left", dx=4, color=D.TEXT).encode(text="Drivers:Q"))
-                   .properties(height=170))
+        x=alt.X("Drivers:Q", axis=alt.Axis(tickMinStep=1, format="d")),
+        y=alt.Y("Outcome:N", sort=None, title=None))
+    show_chart((bars.mark_bar(color=RQ2_COLOUR) +
+                bars.mark_text(align="left", dx=4, color=D.TEXT).encode(text="Drivers:Q"))
+               .properties(height=200))
 
     st.header("Junior profiles of F1 entrants")
     rookie = seasons[(seasons["k"] == 1) & seasons["outcome"].isin(ENTRANT_TIERS)].copy()
@@ -936,7 +937,7 @@ are left out, because their outcome is not known yet.
         k2.metric("Established or Star", int(best["positives"]))
         k3.metric("Best model AUC", f"{best['auc']:.3f}", help=model_name(best["features"]))
         st.markdown(f"**Best model:** {model_name(best['features'])} "
-                    f"(95% CI: {best['oob_ci_low']:.3f}–{best['oob_ci_high']:.3f}). "
+                    f"(95% CI **{best['oob_ci_low']:.3f}–{best['oob_ci_high']:.3f}**). "
                     "The interval includes chance, so there is insufficient evidence to "
                     "conclude that the model reliably distinguishes established from short-career F1 entrants.")
         rv = rq2.copy()
