@@ -6,6 +6,10 @@ F1 teams make expensive bets on young drivers with very little evidence. This pr
 
 It is built as a scouting question, not a prediction contest: the emphasis is on what could genuinely have been known at the time a decision was made.
 
+**Live app:** https://f1-talent-pipeline.streamlit.app/
+![Overview page of app](data/images/Overview.png)
+![Driver Explorer](data/images/Driver_Explorer.png)
+
 ---
 
 ## Key Findings
@@ -13,6 +17,8 @@ It is built as a scouting question, not a prediction contest: the emphasis is on
 **1. Reaching F1 can be forecast from a driver's rookie F2 season**
 
 Using only information available at the end of their rookie season, a model combining performance, age and team context predicted which drivers would reach F1 with an **AUC of 0.85 (95% CI 0.74–0.94)** on later cohorts it had never seen. Results alone reach about 0.72; how young a driver is and which team they drive for add roughly as much information again.
+
+![Chronological validation: Performance alone vs Performance + Age + Team strength](data/images/RQ1_Validation.png)
 
 **2. Nothing in junior results reliably predicted who would establish themselves in F1**
 
@@ -188,10 +194,6 @@ src/
 ```
 
 Each part is a Python runner plus one SQL file. Python handles collection and modelling; the cleaning, ratings, outcome definitions and snapshots are written in SQL and run in PostgreSQL.
-
----
-
-## Streamlit app
 
 ---
 
